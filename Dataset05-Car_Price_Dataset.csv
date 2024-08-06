@@ -1,0 +1,2113 @@
+,Make,Engine Fuel Type,Engine HP,Engine Cylinders,Transmission Type,Driven_Wheels,Vehicle Size,city mpg,Popularity,MSRP
+479,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,rear wheel drive,Midsize,17,2031,41365
+480,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,rear wheel drive,Midsize,17,2031,35740
+481,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,four wheel drive,Midsize,17,2031,37615
+482,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,four wheel drive,Midsize,17,2031,34695
+483,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,four wheel drive,Midsize,17,2031,35725
+484,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,four wheel drive,Midsize,17,2031,43400
+485,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,rear wheel drive,Midsize,17,2031,32820
+486,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,four wheel drive,Midsize,17,2031,38645
+487,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,four wheel drive,Midsize,17,2031,37825
+488,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,four wheel drive,Midsize,17,2031,43620
+489,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,four wheel drive,Midsize,17,2031,36115
+490,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,rear wheel drive,Midsize,17,2031,35950
+491,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,rear wheel drive,Midsize,17,2031,33210
+492,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,four wheel drive,Midsize,17,2031,38855
+493,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,rear wheel drive,Midsize,17,2031,41585
+494,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,four wheel drive,Midsize,17,2031,35085
+495,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,four wheel drive,Midsize,17,2031,41310
+496,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,rear wheel drive,Midsize,17,2031,36690
+497,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,four wheel drive,Midsize,17,2031,44360
+498,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,four wheel drive,Midsize,17,2031,39595
+499,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,four wheel drive,Midsize,17,2031,41850
+500,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,rear wheel drive,Midsize,17,2031,42325
+501,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,four wheel drive,Midsize,17,2031,35885
+502,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,four wheel drive,Midsize,17,2031,38565
+503,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,four wheel drive,Midsize,17,2031,36915
+504,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,rear wheel drive,Midsize,17,2031,34010
+798,Toyota,premium unleaded (recommended),205.0,4.0,MANUAL,rear wheel drive,Compact,21,2031,26255
+799,Toyota,premium unleaded (recommended),200.0,4.0,AUTOMATIC,rear wheel drive,Compact,24,2031,26975
+1331,Ford,regular unleaded,135.0,6.0,AUTOMATIC,rear wheel drive,Midsize,16,5657,2000
+1332,Ford,regular unleaded,135.0,6.0,AUTOMATIC,rear wheel drive,Midsize,15,5657,2000
+1333,Ford,regular unleaded,155.0,6.0,AUTOMATIC,all wheel drive,Large,14,5657,2000
+1334,Ford,regular unleaded,135.0,6.0,AUTOMATIC,rear wheel drive,Large,15,5657,2000
+1335,Ford,regular unleaded,140.0,6.0,AUTOMATIC,rear wheel drive,Midsize,15,5657,2000
+1336,Ford,regular unleaded,155.0,6.0,AUTOMATIC,all wheel drive,Large,13,5657,2000
+1337,Ford,regular unleaded,140.0,6.0,AUTOMATIC,rear wheel drive,Large,15,5657,2000
+1338,Ford,regular unleaded,140.0,6.0,AUTOMATIC,rear wheel drive,Midsize,16,5657,2000
+1339,Ford,regular unleaded,140.0,6.0,AUTOMATIC,rear wheel drive,Midsize,15,5657,2000
+1340,Ford,regular unleaded,140.0,6.0,AUTOMATIC,rear wheel drive,Large,15,5657,2000
+1341,Ford,regular unleaded,152.0,6.0,AUTOMATIC,all wheel drive,Large,13,5657,2000
+1342,Ford,regular unleaded,140.0,6.0,AUTOMATIC,rear wheel drive,Midsize,15,5657,2000
+1469,Ford,regular unleaded,63.0,4.0,MANUAL,front wheel drive,Compact,31,5657,2000
+1471,Ford,regular unleaded,63.0,4.0,MANUAL,front wheel drive,Compact,31,5657,2000
+1472,Ford,regular unleaded,63.0,4.0,MANUAL,front wheel drive,Compact,29,5657,2000
+1473,Ford,regular unleaded,63.0,4.0,MANUAL,front wheel drive,Compact,29,5657,2000
+1474,Ford,regular unleaded,63.0,4.0,MANUAL,front wheel drive,Compact,29,5657,2000
+1475,Ford,regular unleaded,63.0,4.0,MANUAL,front wheel drive,Compact,29,5657,2000
+1586,Toyota,regular unleaded,200.0,4.0,AUTOMATIC,front wheel drive,Midsize,40,2031,37800
+1587,Toyota,regular unleaded,200.0,4.0,AUTOMATIC,front wheel drive,Midsize,40,2031,41700
+1588,Toyota,regular unleaded,200.0,4.0,AUTOMATIC,front wheel drive,Midsize,40,2031,36470
+1589,Toyota,regular unleaded,200.0,4.0,AUTOMATIC,front wheel drive,Midsize,40,2031,36650
+1590,Toyota,regular unleaded,200.0,4.0,AUTOMATIC,front wheel drive,Midsize,40,2031,38100
+1591,Toyota,regular unleaded,200.0,4.0,AUTOMATIC,front wheel drive,Midsize,40,2031,41950
+1592,Toyota,regular unleaded,200.0,4.0,AUTOMATIC,front wheel drive,Midsize,40,2031,42550
+1593,Toyota,regular unleaded,200.0,4.0,AUTOMATIC,front wheel drive,Midsize,40,2031,38700
+1594,Toyota,regular unleaded,200.0,4.0,AUTOMATIC,front wheel drive,Midsize,40,2031,37250
+1595,Toyota,regular unleaded,268.0,6.0,AUTOMATIC,front wheel drive,Midsize,21,2031,37170
+1596,Toyota,regular unleaded,268.0,6.0,AUTOMATIC,front wheel drive,Midsize,21,2031,32285
+1597,Toyota,regular unleaded,268.0,6.0,AUTOMATIC,front wheel drive,Midsize,21,2031,39980
+1598,Toyota,regular unleaded,268.0,6.0,AUTOMATIC,front wheel drive,Midsize,21,2031,36080
+1599,Toyota,regular unleaded,268.0,6.0,AUTOMATIC,front wheel drive,Midsize,21,2031,34140
+1600,Toyota,regular unleaded,268.0,6.0,AUTOMATIC,front wheel drive,Midsize,21,2031,37050
+1601,Toyota,regular unleaded,268.0,6.0,AUTOMATIC,front wheel drive,Midsize,21,2031,35850
+1602,Toyota,regular unleaded,268.0,6.0,AUTOMATIC,front wheel drive,Midsize,21,2031,40450
+1603,Toyota,regular unleaded,268.0,6.0,AUTOMATIC,front wheel drive,Midsize,21,2031,32650
+1604,Toyota,regular unleaded,268.0,6.0,AUTOMATIC,front wheel drive,Midsize,21,2031,34400
+1605,Toyota,regular unleaded,268.0,6.0,AUTOMATIC,front wheel drive,Midsize,21,2031,41050
+1606,Toyota,regular unleaded,268.0,6.0,AUTOMATIC,front wheel drive,Midsize,21,2031,37650
+1607,Toyota,regular unleaded,268.0,6.0,AUTOMATIC,front wheel drive,Midsize,21,2031,33250
+1608,Toyota,regular unleaded,268.0,6.0,AUTOMATIC,front wheel drive,Midsize,21,2031,36450
+1609,Toyota,regular unleaded,268.0,6.0,AUTOMATIC,front wheel drive,Midsize,21,2031,35000
+1792,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,24,873,27295
+1793,Volkswagen,premium unleaded (recommended),210.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,23,873,31795
+1794,Volkswagen,premium unleaded (recommended),210.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,23,873,34895
+1795,Volkswagen,regular unleaded,170.0,5.0,AUTOMATIC,front wheel drive,Compact,21,873,27295
+1796,Volkswagen,diesel,140.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,28,873,32755
+1797,Volkswagen,premium unleaded (recommended),210.0,4.0,MANUAL,front wheel drive,Compact,23,873,29395
+1798,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,24,873,29395
+1799,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,24,873,25170
+1800,Volkswagen,premium unleaded (recommended),210.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,23,873,30495
+1801,Volkswagen,premium unleaded (recommended),210.0,4.0,MANUAL,front wheel drive,Compact,23,873,30695
+1803,Volkswagen,diesel,140.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,28,873,31195
+1805,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,24,873,30755
+1808,Volkswagen,premium unleaded (recommended),210.0,4.0,MANUAL,front wheel drive,Compact,23,873,33795
+1809,Volkswagen,diesel,140.0,4.0,MANUAL,front wheel drive,Compact,28,873,30095
+1814,Volkswagen,regular unleaded,170.0,5.0,AUTOMATIC,front wheel drive,Compact,21,873,29395
+1815,Volkswagen,diesel,140.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,28,873,29995
+1817,Volkswagen,regular unleaded,170.0,5.0,AUTOMATIC,front wheel drive,Compact,21,873,25170
+1821,Volkswagen,diesel,140.0,4.0,MANUAL,front wheel drive,Compact,28,873,28895
+1822,Volkswagen,diesel,150.0,4.0,MANUAL,front wheel drive,Compact,30,873,30295
+1823,Volkswagen,premium unleaded (recommended),210.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,23,873,31995
+1824,Volkswagen,premium unleaded (recommended),210.0,4.0,MANUAL,front wheel drive,Compact,23,873,33995
+1825,Volkswagen,diesel,150.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,30,873,30195
+1826,Volkswagen,premium unleaded (recommended),210.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,23,873,32595
+1827,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,24,873,29595
+1828,Volkswagen,premium unleaded (recommended),210.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,23,873,35095
+1829,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,24,873,30425
+1831,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,24,873,27475
+1832,Volkswagen,premium unleaded (recommended),210.0,4.0,MANUAL,front wheel drive,Compact,23,873,30895
+1833,Volkswagen,diesel,150.0,4.0,MANUAL,front wheel drive,Compact,30,873,31125
+1834,Volkswagen,diesel,150.0,4.0,MANUAL,front wheel drive,Compact,30,873,29675
+1835,Volkswagen,premium unleaded (recommended),210.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,23,873,30995
+1836,Volkswagen,premium unleaded (recommended),210.0,4.0,MANUAL,front wheel drive,Compact,23,873,34875
+1838,Volkswagen,premium unleaded (recommended),210.0,4.0,MANUAL,front wheel drive,Compact,23,873,29895
+1839,Volkswagen,diesel,150.0,4.0,MANUAL,front wheel drive,Compact,30,873,29095
+1840,Volkswagen,diesel,150.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,30,873,31395
+1843,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,24,873,25595
+1846,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,24,873,25995
+1849,Volkswagen,premium unleaded (recommended),210.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,23,873,35975
+1850,Volkswagen,diesel,150.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,30,873,30775
+1852,Volkswagen,diesel,150.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,30,873,32225
+1854,Volkswagen,premium unleaded (recommended),210.0,4.0,MANUAL,front wheel drive,Compact,23,873,31495
+1855,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,24,873,27995
+1861,Volkswagen,premium unleaded (recommended),210.0,4.0,MANUAL,front wheel drive,Compact,23,873,29790
+1862,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,25,873,28070
+1863,Volkswagen,premium unleaded (recommended),210.0,4.0,MANUAL,front wheel drive,Compact,23,873,34950
+1864,Volkswagen,premium unleaded (recommended),210.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,23,873,32670
+1866,Volkswagen,premium unleaded (recommended),210.0,4.0,MANUAL,front wheel drive,Compact,23,873,31570
+1867,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,25,873,30500
+1868,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,25,873,25995
+1869,Volkswagen,premium unleaded (recommended),210.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,23,873,36050
+1870,Volkswagen,premium unleaded (recommended),210.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,23,873,30890
+1873,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,25,873,25490
+1881,Volkswagen,diesel,150.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,31,873,25895
+1882,Volkswagen,premium unleaded (recommended),210.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,24,873,31625
+1883,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,25,873,20195
+1884,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,25,873,24185
+1885,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,25,873,26985
+1886,Volkswagen,premium unleaded (recommended),210.0,4.0,MANUAL,front wheel drive,Compact,23,873,30525
+1887,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,25,873,26195
+1891,Volkswagen,regular unleaded,170.0,4.0,MANUAL,front wheel drive,Compact,24,873,23085
+1892,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,25,873,21795
+1893,Volkswagen,premium unleaded (recommended),210.0,4.0,MANUAL,front wheel drive,Compact,23,873,28115
+1894,Volkswagen,premium unleaded (recommended),210.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,24,873,32475
+1895,Volkswagen,premium unleaded (recommended),210.0,4.0,MANUAL,front wheel drive,Compact,23,873,28675
+1896,Volkswagen,regular unleaded,170.0,4.0,MANUAL,front wheel drive,Compact,24,873,20695
+1897,Volkswagen,premium unleaded (recommended),210.0,4.0,MANUAL,front wheel drive,Compact,23,873,25450
+1898,Volkswagen,diesel,150.0,4.0,MANUAL,front wheel drive,Compact,31,873,27710
+1900,Volkswagen,premium unleaded (recommended),210.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,24,873,26550
+1901,Volkswagen,regular unleaded,170.0,4.0,MANUAL,front wheel drive,Compact,24,873,25885
+1902,Volkswagen,premium unleaded (recommended),210.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,24,873,29215
+1903,Volkswagen,regular unleaded,170.0,4.0,MANUAL,front wheel drive,Compact,24,873,25095
+1904,Volkswagen,diesel,150.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,31,873,26430
+1906,Volkswagen,diesel,150.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,31,873,29625
+1907,Volkswagen,premium unleaded (recommended),210.0,4.0,MANUAL,front wheel drive,Compact,23,873,31375
+1910,Volkswagen,diesel,150.0,4.0,MANUAL,front wheel drive,Compact,31,873,28525
+1912,Volkswagen,diesel,150.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,31,873,28810
+1913,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,25,873,24705
+1921,Volkswagen,regular unleaded,170.0,4.0,MANUAL,front wheel drive,Compact,24,873,23605
+1922,Volkswagen,diesel,150.0,4.0,MANUAL,front wheel drive,Compact,31,873,25330
+1923,Volkswagen,premium unleaded (recommended),210.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,24,873,29775
+1927,Volkswagen,diesel,150.0,4.0,MANUAL,front wheel drive,Compact,31,873,24795
+1930,Volkswagen,premium unleaded (recommended),210.0,4.0,MANUAL,front wheel drive,Compact,23,873,25995
+1931,Volkswagen,premium unleaded (recommended),210.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,24,873,27095
+1932,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,25,873,22450
+1933,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,25,873,19795
+1934,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,25,873,25975
+1935,Volkswagen,regular unleaded,170.0,4.0,MANUAL,front wheel drive,Compact,24,873,21350
+1937,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,25,873,19595
+1938,Volkswagen,premium unleaded (recommended),210.0,4.0,MANUAL,front wheel drive,Compact,23,873,31450
+1941,Volkswagen,premium unleaded (recommended),210.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,24,873,32550
+1943,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,24,873,23995
+1949,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,24,873,20475
+1950,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,24,873,19995
+1951,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,24,873,23995
+1952,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,24,873,21890
+1953,Volkswagen,premium unleaded (recommended),210.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,23,873,32550
+1954,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,24,873,25975
+1955,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,24,873,22450
+2023,Ford,regular unleaded,140.0,6.0,MANUAL,rear wheel drive,Compact,16,5657,2000
+2025,Ford,regular unleaded,140.0,6.0,MANUAL,four wheel drive,Compact,15,5657,2000
+2031,Ford,regular unleaded,185.0,8.0,MANUAL,four wheel drive,Midsize,12,5657,2308
+2032,Ford,regular unleaded,185.0,8.0,AUTOMATIC,four wheel drive,Midsize,12,5657,2585
+2033,Ford,regular unleaded,185.0,8.0,MANUAL,four wheel drive,Midsize,12,5657,2396
+2034,Ford,regular unleaded,205.0,8.0,MANUAL,four wheel drive,Midsize,12,5657,2620
+2035,Ford,regular unleaded,205.0,8.0,AUTOMATIC,four wheel drive,Midsize,12,5657,2872
+2036,Ford,regular unleaded,205.0,8.0,MANUAL,four wheel drive,Midsize,12,5657,2474
+2037,Ford,regular unleaded,199.0,8.0,MANUAL,four wheel drive,Midsize,13,5657,2774
+2038,Ford,regular unleaded,199.0,8.0,MANUAL,four wheel drive,Midsize,13,5657,2996
+2039,Ford,regular unleaded,199.0,8.0,AUTOMATIC,four wheel drive,Midsize,11,5657,3248
+2095,Ford,regular unleaded,188.0,4.0,AUTOMATIC,front wheel drive,Compact,42,5657,27170
+2096,Ford,regular unleaded,188.0,4.0,AUTOMATIC,front wheel drive,Compact,42,5657,24170
+2097,Ford,regular unleaded,188.0,4.0,AUTOMATIC,front wheel drive,Compact,42,5657,24170
+2098,Ford,regular unleaded,188.0,4.0,AUTOMATIC,front wheel drive,Compact,42,5657,27170
+2099,Ford,regular unleaded,188.0,4.0,AUTOMATIC,front wheel drive,Compact,42,5657,24120
+2100,Ford,regular unleaded,188.0,4.0,AUTOMATIC,front wheel drive,Compact,42,5657,27120
+2122,Volkswagen,regular unleaded,94.0,4.0,MANUAL,front wheel drive,Compact,22,873,2000
+2123,Volkswagen,regular unleaded,94.0,4.0,MANUAL,front wheel drive,Compact,22,873,2000
+2126,Volkswagen,regular unleaded,94.0,4.0,MANUAL,front wheel drive,Compact,21,873,2000
+2128,Volkswagen,regular unleaded,115.0,4.0,MANUAL,front wheel drive,Compact,21,873,2473
+2129,Volkswagen,regular unleaded,115.0,4.0,MANUAL,front wheel drive,Compact,21,873,2568
+2130,Volkswagen,regular unleaded,115.0,4.0,MANUAL,front wheel drive,Compact,21,873,19600
+2131,Volkswagen,regular unleaded,115.0,4.0,AUTOMATIC,front wheel drive,Compact,20,873,23175
+2132,Volkswagen,regular unleaded,115.0,4.0,MANUAL,front wheel drive,Compact,21,873,22300
+2133,Volkswagen,regular unleaded,115.0,4.0,AUTOMATIC,front wheel drive,Compact,20,873,20475
+2134,Volkswagen,regular unleaded,115.0,4.0,AUTOMATIC,front wheel drive,Compact,20,873,21475
+2135,Volkswagen,regular unleaded,115.0,4.0,MANUAL,front wheel drive,Compact,21,873,20600
+2136,Volkswagen,regular unleaded,115.0,4.0,AUTOMATIC,front wheel drive,Compact,20,873,21475
+2137,Volkswagen,regular unleaded,115.0,4.0,AUTOMATIC,front wheel drive,Compact,20,873,23175
+2138,Volkswagen,regular unleaded,115.0,4.0,MANUAL,front wheel drive,Compact,21,873,22300
+2139,Volkswagen,regular unleaded,115.0,4.0,MANUAL,front wheel drive,Compact,21,873,20600
+2140,Volkswagen,regular unleaded,115.0,4.0,MANUAL,front wheel drive,Compact,21,873,19600
+2141,Volkswagen,regular unleaded,115.0,4.0,AUTOMATIC,front wheel drive,Compact,20,873,20475
+2203,Toyota,regular unleaded,200.0,4.0,AUTOMATIC,front wheel drive,Midsize,40,2031,29980
+2204,Toyota,regular unleaded,200.0,4.0,AUTOMATIC,front wheel drive,Midsize,40,2031,27995
+2205,Toyota,regular unleaded,200.0,4.0,AUTOMATIC,front wheel drive,Midsize,43,2031,26790
+2206,Toyota,regular unleaded,200.0,4.0,AUTOMATIC,front wheel drive,Midsize,40,2031,30140
+2207,Toyota,regular unleaded,200.0,4.0,AUTOMATIC,front wheel drive,Midsize,40,2031,27995
+2208,Toyota,regular unleaded,200.0,4.0,AUTOMATIC,front wheel drive,Midsize,43,2031,26790
+2209,Toyota,regular unleaded,200.0,4.0,AUTOMATIC,front wheel drive,Midsize,42,2031,26790
+2210,Toyota,regular unleaded,200.0,4.0,AUTOMATIC,front wheel drive,Midsize,40,2031,27995
+2211,Toyota,regular unleaded,200.0,4.0,AUTOMATIC,front wheel drive,Midsize,40,2031,30140
+2212,Toyota,regular unleaded,157.0,4.0,AUTOMATIC,front wheel drive,Midsize,20,2031,21855
+2213,Toyota,regular unleaded,225.0,6.0,AUTOMATIC,front wheel drive,Midsize,18,2031,26940
+2214,Toyota,regular unleaded,225.0,6.0,AUTOMATIC,front wheel drive,Midsize,18,2031,23355
+2215,Toyota,regular unleaded,225.0,6.0,AUTOMATIC,front wheel drive,Midsize,18,2031,30210
+2216,Toyota,regular unleaded,157.0,4.0,MANUAL,front wheel drive,Midsize,21,2031,21025
+2217,Toyota,regular unleaded,225.0,6.0,AUTOMATIC,front wheel drive,Midsize,18,2031,21860
+2218,Toyota,regular unleaded,157.0,4.0,AUTOMATIC,front wheel drive,Midsize,20,2031,20360
+2219,Toyota,regular unleaded,157.0,4.0,MANUAL,front wheel drive,Midsize,21,2031,19530
+2220,Toyota,regular unleaded,225.0,6.0,AUTOMATIC,front wheel drive,Midsize,18,2031,26405
+2221,Toyota,regular unleaded,157.0,4.0,AUTOMATIC,front wheel drive,Midsize,20,2031,23405
+2222,Toyota,regular unleaded,155.0,4.0,MANUAL,front wheel drive,Midsize,21,2031,19930
+2223,Toyota,regular unleaded,210.0,6.0,AUTOMATIC,front wheel drive,Midsize,18,2031,29460
+2224,Toyota,regular unleaded,210.0,6.0,AUTOMATIC,front wheel drive,Midsize,18,2031,27190
+2225,Toyota,regular unleaded,155.0,4.0,AUTOMATIC,front wheel drive,Midsize,22,2031,20760
+2226,Toyota,regular unleaded,155.0,4.0,AUTOMATIC,front wheel drive,Midsize,22,2031,23030
+2227,Toyota,regular unleaded,210.0,6.0,AUTOMATIC,front wheel drive,Midsize,18,2031,24530
+2228,Toyota,regular unleaded,155.0,4.0,AUTOMATIC,front wheel drive,Midsize,22,2031,23905
+2229,Toyota,regular unleaded,210.0,6.0,AUTOMATIC,front wheel drive,Midsize,18,2031,26905
+2230,Toyota,regular unleaded,210.0,6.0,AUTOMATIC,front wheel drive,Midsize,18,2031,30460
+2231,Toyota,regular unleaded,210.0,6.0,AUTOMATIC,front wheel drive,Midsize,18,2031,22260
+2232,Toyota,regular unleaded,155.0,4.0,MANUAL,front wheel drive,Midsize,21,2031,22200
+2233,Toyota,regular unleaded,210.0,6.0,AUTOMATIC,front wheel drive,Midsize,18,2031,27440
+2234,Toyota,regular unleaded,155.0,4.0,AUTOMATIC,front wheel drive,Midsize,22,2031,24155
+2235,Toyota,regular unleaded,155.0,4.0,MANUAL,front wheel drive,Midsize,21,2031,22450
+2236,Toyota,regular unleaded,210.0,6.0,AUTOMATIC,front wheel drive,Midsize,18,2031,27155
+2237,Toyota,regular unleaded,210.0,6.0,AUTOMATIC,front wheel drive,Midsize,18,2031,22510
+2238,Toyota,regular unleaded,210.0,6.0,AUTOMATIC,front wheel drive,Midsize,18,2031,30710
+2239,Toyota,regular unleaded,155.0,4.0,AUTOMATIC,front wheel drive,Midsize,22,2031,21010
+2240,Toyota,regular unleaded,210.0,6.0,AUTOMATIC,front wheel drive,Midsize,18,2031,24780
+2241,Toyota,regular unleaded,155.0,4.0,AUTOMATIC,front wheel drive,Midsize,22,2031,23280
+2242,Toyota,regular unleaded,210.0,6.0,AUTOMATIC,front wheel drive,Midsize,18,2031,29710
+2243,Toyota,regular unleaded,155.0,4.0,MANUAL,front wheel drive,Midsize,21,2031,20180
+2244,Toyota,regular unleaded,178.0,4.0,AUTOMATIC,front wheel drive,Midsize,25,2031,26150
+2246,Toyota,regular unleaded,268.0,6.0,AUTOMATIC,front wheel drive,Midsize,21,2031,31370
+2247,Toyota,regular unleaded,268.0,6.0,AUTOMATIC,front wheel drive,Midsize,21,2031,31370
+2248,Toyota,regular unleaded,178.0,4.0,AUTOMATIC,front wheel drive,Midsize,25,2031,22970
+2249,Toyota,regular unleaded,178.0,4.0,AUTOMATIC,front wheel drive,Midsize,25,2031,23840
+2250,Toyota,regular unleaded,178.0,4.0,AUTOMATIC,front wheel drive,Midsize,25,2031,26310
+2251,Toyota,regular unleaded,178.0,4.0,AUTOMATIC,front wheel drive,Midsize,25,2031,23840
+2253,Toyota,regular unleaded,178.0,4.0,AUTOMATIC,front wheel drive,Midsize,25,2031,25715
+2254,Toyota,regular unleaded,178.0,4.0,AUTOMATIC,front wheel drive,Midsize,25,2031,23070
+2255,Toyota,regular unleaded,268.0,6.0,AUTOMATIC,front wheel drive,Midsize,21,2031,31370
+2256,Toyota,regular unleaded,268.0,6.0,AUTOMATIC,front wheel drive,Midsize,21,2031,31370
+2257,Toyota,regular unleaded,178.0,4.0,AUTOMATIC,front wheel drive,Midsize,24,2031,23070
+2258,Toyota,regular unleaded,178.0,4.0,AUTOMATIC,front wheel drive,Midsize,24,2031,23840
+2259,Toyota,regular unleaded,178.0,4.0,AUTOMATIC,front wheel drive,Midsize,24,2031,26310
+2260,Toyota,regular unleaded,268.0,6.0,AUTOMATIC,front wheel drive,Midsize,21,2031,31370
+2261,Toyota,regular unleaded,268.0,6.0,AUTOMATIC,front wheel drive,Midsize,21,2031,31370
+2393,Volkswagen,premium unleaded (recommended),200.0,4.0,MANUAL,front wheel drive,Midsize,21,873,34275
+2394,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,front wheel drive,Midsize,22,873,34095
+2395,Volkswagen,premium unleaded (recommended),200.0,4.0,MANUAL,front wheel drive,Midsize,21,873,32995
+2396,Volkswagen,premium unleaded (recommended),280.0,6.0,AUTOMATED_MANUAL,all wheel drive,Midsize,17,873,43575
+2398,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,front wheel drive,Midsize,22,873,38085
+2399,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,front wheel drive,Midsize,22,873,35375
+2404,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,front wheel drive,Midsize,22,873,32670
+2405,Volkswagen,premium unleaded (recommended),200.0,4.0,MANUAL,front wheel drive,Midsize,21,873,34655
+2406,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,front wheel drive,Midsize,22,873,35755
+2407,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,front wheel drive,Midsize,22,873,37820
+2408,Volkswagen,premium unleaded (recommended),280.0,6.0,AUTOMATED_MANUAL,all wheel drive,Midsize,17,873,44355
+2411,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,front wheel drive,Midsize,22,873,34475
+2414,Volkswagen,premium unleaded (recommended),200.0,4.0,MANUAL,front wheel drive,Midsize,21,873,31570
+2419,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,front wheel drive,Midsize,22,873,37820
+2421,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,front wheel drive,Midsize,22,873,34475
+2427,Toyota,regular unleaded,140.0,4.0,AUTOMATIC,front wheel drive,Compact,25,2031,18140
+2428,Toyota,premium unleaded (required),180.0,4.0,MANUAL,front wheel drive,Compact,20,2031,22005
+2429,Toyota,premium unleaded (required),180.0,4.0,AUTOMATIC,front wheel drive,Compact,20,2031,22705
+2430,Toyota,regular unleaded,140.0,4.0,MANUAL,front wheel drive,Compact,23,2031,17340
+2431,Toyota,regular unleaded,140.0,4.0,MANUAL,front wheel drive,Compact,23,2031,19535
+2432,Toyota,premium unleaded (required),180.0,4.0,AUTOMATIC,front wheel drive,Compact,22,2031,22935
+2433,Toyota,premium unleaded (required),180.0,4.0,AUTOMATIC,front wheel drive,Compact,22,2031,24810
+2434,Toyota,premium unleaded (required),180.0,4.0,MANUAL,front wheel drive,Compact,21,2031,22235
+2435,Toyota,regular unleaded,140.0,4.0,AUTOMATIC,front wheel drive,Compact,25,2031,18370
+2436,Toyota,regular unleaded,140.0,4.0,MANUAL,front wheel drive,Compact,23,2031,17570
+2437,Toyota,regular unleaded,140.0,4.0,AUTOMATIC,front wheel drive,Compact,25,2031,20335
+2438,Toyota,premium unleaded (required),180.0,4.0,MANUAL,front wheel drive,Compact,21,2031,24110
+2439,Toyota,regular unleaded,140.0,4.0,MANUAL,front wheel drive,Compact,23,2031,17670
+2440,Toyota,premium unleaded (required),180.0,4.0,MANUAL,front wheel drive,Compact,21,2031,22335
+2441,Toyota,premium unleaded (required),180.0,4.0,AUTOMATIC,front wheel drive,Compact,22,2031,23035
+2442,Toyota,regular unleaded,140.0,4.0,AUTOMATIC,front wheel drive,Compact,25,2031,18470
+2910,Ford,regular unleaded,195.0,6.0,MANUAL,front wheel drive,Midsize,17,5657,2655
+2911,Ford,regular unleaded,200.0,6.0,MANUAL,front wheel drive,Midsize,17,5657,2702
+2912,Ford,regular unleaded,200.0,6.0,MANUAL,front wheel drive,Midsize,18,5657,2937
+2913,Ford,regular unleaded,125.0,4.0,MANUAL,front wheel drive,Midsize,21,5657,2000
+2917,Ford,regular unleaded,125.0,4.0,MANUAL,front wheel drive,Midsize,21,5657,2000
+2919,Ford,regular unleaded,170.0,6.0,MANUAL,front wheel drive,Midsize,18,5657,2000
+2920,Ford,regular unleaded,125.0,4.0,MANUAL,front wheel drive,Midsize,21,5657,2079
+2922,Toyota,regular unleaded,137.0,4.0,MANUAL,front wheel drive,Compact,27,2031,18750
+2923,Toyota,regular unleaded,137.0,4.0,AUTOMATIC,front wheel drive,Compact,28,2031,19490
+2924,Toyota,regular unleaded,140.0,4.0,AUTOMATIC,front wheel drive,Compact,30,2031,18965
+2925,Toyota,regular unleaded,132.0,4.0,AUTOMATIC,front wheel drive,Compact,29,2031,18965
+2926,Toyota,regular unleaded,140.0,4.0,AUTOMATIC,front wheel drive,Compact,30,2031,19665
+2927,Toyota,regular unleaded,132.0,4.0,AUTOMATIC,front wheel drive,Compact,29,2031,19895
+2928,Toyota,regular unleaded,132.0,4.0,AUTOMATIC,front wheel drive,Compact,27,2031,17550
+2929,Toyota,regular unleaded,132.0,4.0,MANUAL,front wheel drive,Compact,28,2031,16950
+2930,Toyota,regular unleaded,132.0,4.0,MANUAL,front wheel drive,Compact,28,2031,21495
+2931,Toyota,regular unleaded,132.0,4.0,AUTOMATIC,front wheel drive,Compact,29,2031,22025
+2932,Toyota,regular unleaded,132.0,4.0,AUTOMATIC,front wheel drive,Compact,29,2031,22955
+2933,Toyota,regular unleaded,132.0,4.0,AUTOMATIC,front wheel drive,Compact,29,2031,19195
+2934,Toyota,regular unleaded,140.0,4.0,AUTOMATIC,front wheel drive,Compact,30,2031,22725
+2935,Toyota,regular unleaded,132.0,4.0,AUTOMATIC,front wheel drive,Compact,29,2031,18565
+2936,Toyota,regular unleaded,140.0,4.0,AUTOMATIC,front wheel drive,Compact,30,2031,19135
+2937,Toyota,regular unleaded,132.0,4.0,AUTOMATIC,front wheel drive,Compact,29,2031,19135
+2938,Toyota,regular unleaded,132.0,4.0,AUTOMATIC,front wheel drive,Compact,29,2031,20065
+2939,Toyota,regular unleaded,132.0,4.0,MANUAL,front wheel drive,Compact,28,2031,17300
+2940,Toyota,regular unleaded,132.0,4.0,AUTOMATIC,front wheel drive,Compact,29,2031,23125
+2941,Toyota,regular unleaded,132.0,4.0,MANUAL,front wheel drive,Compact,28,2031,21665
+2942,Toyota,regular unleaded,132.0,4.0,AUTOMATIC,front wheel drive,Compact,29,2031,22195
+2943,Toyota,regular unleaded,140.0,4.0,AUTOMATIC,front wheel drive,Compact,30,2031,19835
+2944,Toyota,regular unleaded,132.0,4.0,AUTOMATIC,front wheel drive,Compact,29,2031,20635
+2945,Toyota,regular unleaded,140.0,4.0,AUTOMATIC,front wheel drive,Compact,30,2031,22895
+2946,Toyota,regular unleaded,132.0,4.0,AUTOMATIC,front wheel drive,Compact,27,2031,17900
+2947,Toyota,regular unleaded,132.0,4.0,AUTOMATIC,front wheel drive,Compact,29,2031,18735
+2948,Toyota,regular unleaded,132.0,4.0,AUTOMATIC,front wheel drive,Compact,29,2031,19365
+2949,Toyota,regular unleaded,132.0,4.0,AUTOMATIC,front wheel drive,Compact,28,2031,22680
+2950,Toyota,regular unleaded,140.0,4.0,AUTOMATIC,front wheel drive,Compact,30,2031,21300
+2951,Toyota,regular unleaded,132.0,4.0,AUTOMATIC,front wheel drive,Compact,28,2031,18500
+2952,Toyota,regular unleaded,132.0,4.0,MANUAL,front wheel drive,Compact,27,2031,21665
+2953,Toyota,regular unleaded,140.0,4.0,AUTOMATIC,front wheel drive,Compact,30,2031,19335
+2954,Toyota,regular unleaded,132.0,4.0,AUTOMATIC,front wheel drive,Compact,28,2031,21900
+2955,Toyota,regular unleaded,132.0,4.0,AUTOMATIC,front wheel drive,Compact,28,2031,21825
+2956,Toyota,regular unleaded,132.0,4.0,AUTOMATIC,front wheel drive,Compact,28,2031,18935
+2957,Toyota,regular unleaded,132.0,4.0,AUTOMATIC,front wheel drive,Compact,28,2031,20445
+2958,Volkswagen,regular unleaded,158.0,4.0,MANUAL,front wheel drive,Compact,18,873,2000
+2959,Volkswagen,regular unleaded,178.0,6.0,MANUAL,front wheel drive,Compact,16,873,2000
+2960,Volkswagen,regular unleaded,178.0,6.0,MANUAL,front wheel drive,Compact,16,873,2000
+2961,Volkswagen,regular unleaded,178.0,6.0,MANUAL,front wheel drive,Compact,16,873,2000
+3087,Toyota,regular unleaded,190.0,6.0,AUTOMATIC,rear wheel drive,Midsize,17,2031,2000
+3088,Toyota,regular unleaded,190.0,6.0,AUTOMATIC,rear wheel drive,Midsize,17,2031,2000
+3089,Toyota,regular unleaded,190.0,6.0,AUTOMATIC,rear wheel drive,Midsize,17,2031,2000
+3136,Ford,flex-fuel (unleaded/E85),224.0,8.0,AUTOMATIC,rear wheel drive,Large,16,5657,29205
+3137,Ford,flex-fuel (unleaded/E85),224.0,8.0,AUTOMATIC,rear wheel drive,Large,16,5657,29905
+3138,Ford,flex-fuel (unleaded/E85),239.0,8.0,AUTOMATIC,rear wheel drive,Large,16,5657,29905
+3644,Ford,regular unleaded,199.0,6.0,AUTOMATIC,rear wheel drive,Midsize,11,5657,2000
+3645,Ford,regular unleaded,145.0,6.0,AUTOMATIC,rear wheel drive,Midsize,12,5657,2000
+3646,Ford,regular unleaded,145.0,6.0,AUTOMATIC,rear wheel drive,Midsize,11,5657,2000
+3649,Ford,regular unleaded,200.0,6.0,AUTOMATIC,rear wheel drive,Midsize,12,5657,2000
+3650,Ford,regular unleaded,200.0,6.0,AUTOMATIC,rear wheel drive,Midsize,12,5657,2123
+3651,Ford,regular unleaded,200.0,6.0,AUTOMATIC,rear wheel drive,Midsize,12,5657,2074
+3652,Ford,regular unleaded,200.0,6.0,AUTOMATIC,rear wheel drive,Midsize,14,5657,2000
+3653,Ford,regular unleaded,200.0,6.0,AUTOMATIC,rear wheel drive,Midsize,12,5657,2301
+3654,Ford,regular unleaded,200.0,6.0,AUTOMATIC,rear wheel drive,Midsize,13,5657,2079
+3655,Ford,regular unleaded,200.0,6.0,AUTOMATIC,rear wheel drive,Midsize,12,5657,2256
+3656,Ford,regular unleaded,200.0,6.0,AUTOMATIC,rear wheel drive,Midsize,12,5657,2169
+3657,Ford,regular unleaded,199.0,6.0,AUTOMATIC,rear wheel drive,Large,11,5657,2000
+3658,Ford,regular unleaded,145.0,6.0,AUTOMATIC,rear wheel drive,Midsize,11,5657,2000
+3661,Ford,regular unleaded,200.0,6.0,AUTOMATIC,rear wheel drive,Large,12,5657,2000
+3663,Ford,regular unleaded,200.0,6.0,AUTOMATIC,rear wheel drive,Midsize,12,5657,2000
+3665,Ford,regular unleaded,235.0,6.0,AUTOMATIC,rear wheel drive,Midsize,13,5657,2080
+3666,Ford,regular unleaded,235.0,6.0,AUTOMATIC,rear wheel drive,Large,13,5657,2107
+3716,Volkswagen,electric,115.0,,DIRECT_DRIVE,front wheel drive,Compact,126,873,33450
+3717,Volkswagen,electric,115.0,,DIRECT_DRIVE,front wheel drive,Compact,126,873,35445
+3718,Volkswagen,electric,115.0,,DIRECT_DRIVE,front wheel drive,Compact,126,873,28995
+3719,Volkswagen,electric,115.0,,DIRECT_DRIVE,front wheel drive,Compact,126,873,35595
+3720,Ford,flex-fuel (unleaded/E85),255.0,8.0,AUTOMATIC,rear wheel drive,Large,12,5657,31460
+3721,Ford,flex-fuel (unleaded/E85),225.0,8.0,AUTOMATIC,rear wheel drive,Midsize,13,5657,26630
+3722,Ford,flex-fuel (unleaded/E85),225.0,8.0,AUTOMATIC,rear wheel drive,Midsize,13,5657,27630
+3723,Ford,flex-fuel (unleaded/E85),225.0,8.0,AUTOMATIC,rear wheel drive,Large,13,5657,28985
+3724,Ford,flex-fuel (unleaded/E85),225.0,8.0,AUTOMATIC,rear wheel drive,Large,13,5657,27840
+3725,Ford,flex-fuel (unleaded/E85),255.0,8.0,AUTOMATIC,rear wheel drive,Midsize,12,5657,30560
+3726,Ford,flex-fuel (unleaded/E85),225.0,8.0,AUTOMATIC,rear wheel drive,Midsize,13,5657,27325
+3727,Ford,flex-fuel (unleaded/E85),255.0,8.0,AUTOMATIC,rear wheel drive,Midsize,12,5657,31485
+3728,Ford,flex-fuel (unleaded/E85),225.0,8.0,AUTOMATIC,rear wheel drive,Large,13,5657,30145
+3729,Ford,flex-fuel (unleaded/E85),225.0,8.0,AUTOMATIC,rear wheel drive,Midsize,13,5657,28785
+3730,Ford,flex-fuel (unleaded/E85),225.0,8.0,AUTOMATIC,rear wheel drive,Large,13,5657,28540
+3731,Ford,flex-fuel (unleaded/E85),255.0,8.0,AUTOMATIC,rear wheel drive,Large,12,5657,32385
+3732,Ford,flex-fuel (unleaded/E85),225.0,8.0,AUTOMATIC,rear wheel drive,Midsize,13,5657,28600
+3733,Ford,flex-fuel (unleaded/E85),255.0,8.0,AUTOMATIC,rear wheel drive,Midsize,12,5657,32760
+3734,Ford,flex-fuel (unleaded/E85),225.0,8.0,AUTOMATIC,rear wheel drive,Midsize,13,5657,30060
+3735,Ford,flex-fuel (unleaded/E85),225.0,8.0,AUTOMATIC,rear wheel drive,Large,13,5657,31420
+3736,Ford,flex-fuel (unleaded/E85),255.0,8.0,AUTOMATIC,rear wheel drive,Large,12,5657,33660
+3737,Ford,flex-fuel (unleaded/E85),225.0,8.0,AUTOMATIC,rear wheel drive,Large,13,5657,29815
+3738,Ford,flex-fuel (unleaded/E85),225.0,8.0,AUTOMATIC,rear wheel drive,Midsize,13,5657,28760
+3739,Ford,flex-fuel (unleaded/E85),255.0,8.0,AUTOMATIC,rear wheel drive,Midsize,11,5657,34320
+3740,Ford,flex-fuel (unleaded/E85),255.0,8.0,AUTOMATIC,rear wheel drive,Midsize,11,5657,35620
+3741,Ford,flex-fuel (unleaded/E85),255.0,8.0,AUTOMATIC,rear wheel drive,Midsize,11,5657,34160
+3742,Ford,flex-fuel (unleaded/E85),225.0,8.0,AUTOMATIC,rear wheel drive,Midsize,13,5657,31200
+3743,Ford,flex-fuel (unleaded/E85),255.0,8.0,AUTOMATIC,rear wheel drive,Midsize,11,5657,31855
+3744,Ford,flex-fuel (unleaded/E85),255.0,8.0,AUTOMATIC,rear wheel drive,Midsize,11,5657,35245
+3745,Ford,flex-fuel (unleaded/E85),255.0,8.0,AUTOMATIC,rear wheel drive,Midsize,11,5657,36545
+3746,Ford,flex-fuel (unleaded/E85),255.0,8.0,AUTOMATIC,rear wheel drive,Midsize,11,5657,32785
+3747,Ford,flex-fuel (unleaded/E85),255.0,8.0,AUTOMATIC,rear wheel drive,Midsize,11,5657,35085
+3748,Ford,flex-fuel (unleaded/E85),225.0,8.0,AUTOMATIC,rear wheel drive,Midsize,13,5657,29455
+3749,Ford,flex-fuel (unleaded/E85),225.0,8.0,AUTOMATIC,rear wheel drive,Midsize,13,5657,31900
+3750,Ford,flex-fuel (unleaded/E85),225.0,8.0,AUTOMATIC,rear wheel drive,Midsize,13,5657,32675
+3751,Ford,flex-fuel (unleaded/E85),255.0,8.0,AUTOMATIC,rear wheel drive,Midsize,11,5657,37320
+3752,Ford,flex-fuel (unleaded/E85),255.0,8.0,AUTOMATIC,rear wheel drive,Midsize,11,5657,36020
+3753,Ford,flex-fuel (unleaded/E85),255.0,8.0,AUTOMATIC,rear wheel drive,Midsize,11,5657,35860
+3754,Ford,flex-fuel (unleaded/E85),255.0,8.0,AUTOMATIC,rear wheel drive,Midsize,11,5657,33560
+3755,Ford,flex-fuel (unleaded/E85),225.0,8.0,AUTOMATIC,rear wheel drive,Midsize,13,5657,30230
+3758,Toyota,regular unleaded,108.0,4.0,MANUAL,front wheel drive,Compact,30,2031,10775
+3759,Toyota,regular unleaded,108.0,4.0,AUTOMATIC,front wheel drive,Compact,28,2031,11575
+3760,Toyota,regular unleaded,108.0,4.0,MANUAL,front wheel drive,Compact,30,2031,10245
+3761,Toyota,regular unleaded,108.0,4.0,AUTOMATIC,front wheel drive,Compact,28,2031,11045
+3762,Toyota,regular unleaded,108.0,4.0,MANUAL,front wheel drive,Compact,30,2031,10885
+3763,Toyota,regular unleaded,108.0,4.0,AUTOMATIC,front wheel drive,Compact,28,2031,11685
+3764,Toyota,regular unleaded,108.0,4.0,AUTOMATIC,front wheel drive,Compact,28,2031,11155
+3765,Toyota,regular unleaded,108.0,4.0,MANUAL,front wheel drive,Compact,30,2031,10355
+3766,Toyota,regular unleaded,108.0,4.0,MANUAL,front wheel drive,Compact,30,2031,10985
+3767,Toyota,regular unleaded,108.0,4.0,AUTOMATIC,front wheel drive,Compact,28,2031,11255
+3768,Toyota,regular unleaded,108.0,4.0,AUTOMATIC,front wheel drive,Compact,28,2031,11785
+3769,Toyota,regular unleaded,108.0,4.0,MANUAL,front wheel drive,Compact,30,2031,10455
+3791,Ford,premium unleaded (recommended),245.0,4.0,AUTOMATIC,all wheel drive,Midsize,20,5657,30095
+3792,Ford,premium unleaded (recommended),245.0,4.0,AUTOMATIC,all wheel drive,Midsize,20,5657,33495
+3793,Ford,premium unleaded (recommended),245.0,4.0,AUTOMATIC,front wheel drive,Midsize,20,5657,28100
+3794,Ford,premium unleaded (recommended),245.0,4.0,AUTOMATIC,front wheel drive,Midsize,20,5657,31500
+3795,Ford,regular unleaded,315.0,6.0,AUTOMATIC,all wheel drive,Midsize,17,5657,40095
+3796,Ford,regular unleaded,315.0,6.0,AUTOMATIC,front wheel drive,Midsize,18,5657,38100
+3797,Ford,premium unleaded (recommended),245.0,4.0,AUTOMATIC,all wheel drive,Midsize,20,5657,37595
+3798,Ford,premium unleaded (recommended),245.0,4.0,AUTOMATIC,front wheel drive,Midsize,20,5657,35600
+3799,Ford,premium unleaded (recommended),245.0,4.0,AUTOMATIC,front wheel drive,Midsize,20,5657,28700
+3800,Ford,premium unleaded (recommended),245.0,4.0,AUTOMATIC,all wheel drive,Midsize,20,5657,30695
+3801,Ford,premium unleaded (recommended),245.0,4.0,AUTOMATIC,front wheel drive,Midsize,20,5657,31790
+3802,Ford,premium unleaded (recommended),245.0,4.0,AUTOMATIC,all wheel drive,Midsize,20,5657,37595
+3803,Ford,regular unleaded,315.0,6.0,AUTOMATIC,all wheel drive,Midsize,17,5657,40900
+3804,Ford,premium unleaded (recommended),245.0,4.0,AUTOMATIC,all wheel drive,Midsize,20,5657,33785
+3805,Ford,premium unleaded (recommended),245.0,4.0,AUTOMATIC,front wheel drive,Midsize,20,5657,35600
+3806,Ford,premium unleaded (recommended),245.0,4.0,AUTOMATIC,front wheel drive,Midsize,21,5657,28950
+3807,Ford,premium unleaded (recommended),245.0,4.0,AUTOMATIC,all wheel drive,Midsize,20,5657,37595
+3808,Ford,regular unleaded,315.0,6.0,AUTOMATIC,all wheel drive,Midsize,17,5657,40900
+3809,Ford,premium unleaded (recommended),245.0,4.0,AUTOMATIC,all wheel drive,Midsize,20,5657,30945
+3810,Ford,premium unleaded (recommended),245.0,4.0,AUTOMATIC,all wheel drive,Midsize,20,5657,33785
+3811,Ford,premium unleaded (recommended),245.0,4.0,AUTOMATIC,front wheel drive,Midsize,20,5657,31790
+3812,Ford,premium unleaded (recommended),245.0,4.0,AUTOMATIC,front wheel drive,Midsize,20,5657,35600
+4025,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,22,873,38325
+4026,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,22,873,42095
+4027,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,22,873,35595
+4028,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,22,873,39545
+4029,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,22,873,42745
+4030,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,22,873,36145
+4031,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,22,873,31995
+4180,Ford,regular unleaded,177.0,4.0,AUTOMATIC,front wheel drive,Compact,34,5657,31975
+4181,Ford,regular unleaded,177.0,4.0,AUTOMATIC,all wheel drive,Compact,29,5657,33725
+4182,Ford,regular unleaded,177.0,4.0,AUTOMATIC,front wheel drive,Compact,34,5657,29645
+4183,Ford,regular unleaded,177.0,4.0,AUTOMATIC,all wheel drive,Compact,29,5657,31395
+4184,Ford,regular unleaded,177.0,4.0,AUTOMATIC,all wheel drive,Compact,30,5657,34120
+4185,Ford,regular unleaded,177.0,4.0,AUTOMATIC,front wheel drive,Compact,34,5657,32370
+4186,Ford,regular unleaded,177.0,4.0,AUTOMATIC,all wheel drive,Compact,30,5657,31610
+4187,Ford,regular unleaded,177.0,4.0,AUTOMATIC,front wheel drive,Compact,34,5657,29860
+4188,Ford,regular unleaded,177.0,4.0,AUTOMATIC,front wheel drive,Compact,34,5657,30570
+4189,Ford,regular unleaded,177.0,4.0,AUTOMATIC,all wheel drive,Compact,30,5657,34830
+4190,Ford,regular unleaded,177.0,4.0,AUTOMATIC,all wheel drive,Compact,30,5657,32320
+4191,Ford,regular unleaded,177.0,4.0,AUTOMATIC,front wheel drive,Compact,34,5657,33080
+4192,Ford,premium unleaded (recommended),178.0,4.0,AUTOMATIC,front wheel drive,Compact,23,5657,29735
+4193,Ford,premium unleaded (recommended),178.0,4.0,AUTOMATIC,front wheel drive,Compact,23,5657,25650
+4194,Ford,premium unleaded (recommended),178.0,4.0,AUTOMATIC,all wheel drive,Compact,22,5657,27400
+4195,Ford,regular unleaded,168.0,4.0,AUTOMATIC,front wheel drive,Compact,22,5657,23450
+4196,Ford,premium unleaded (recommended),178.0,4.0,AUTOMATIC,all wheel drive,Compact,22,5657,31485
+4197,Ford,premium unleaded (recommended),178.0,4.0,AUTOMATIC,all wheel drive,Compact,22,5657,27540
+4198,Ford,premium unleaded (recommended),178.0,4.0,AUTOMATIC,front wheel drive,Compact,23,5657,25790
+4199,Ford,premium unleaded (recommended),178.0,4.0,AUTOMATIC,front wheel drive,Compact,23,5657,29995
+4200,Ford,regular unleaded,168.0,4.0,AUTOMATIC,front wheel drive,Compact,22,5657,23590
+4201,Ford,premium unleaded (recommended),178.0,4.0,AUTOMATIC,all wheel drive,Compact,22,5657,31745
+4202,Ford,regular unleaded,168.0,4.0,AUTOMATIC,front wheel drive,Compact,21,5657,23600
+4203,Ford,regular unleaded,,4.0,AUTOMATIC,front wheel drive,Compact,23,5657,29100
+4204,Ford,regular unleaded,,4.0,AUTOMATIC,all wheel drive,Compact,22,5657,30850
+4205,Ford,regular unleaded,,4.0,AUTOMATIC,all wheel drive,Compact,22,5657,26850
+4206,Ford,regular unleaded,,4.0,AUTOMATIC,front wheel drive,Compact,23,5657,25100
+4207,Ford,regular unleaded,130.0,4.0,MANUAL,front wheel drive,Compact,23,5657,12340
+4208,Ford,regular unleaded,130.0,4.0,MANUAL,front wheel drive,Compact,22,5657,14315
+4209,Ford,regular unleaded,130.0,4.0,MANUAL,front wheel drive,Compact,23,5657,12815
+4210,Ford,regular unleaded,110.0,4.0,AUTOMATIC,front wheel drive,Compact,23,5657,15015
+4211,Ford,regular unleaded,130.0,4.0,MANUAL,front wheel drive,Compact,22,5657,13860
+4212,Ford,regular unleaded,110.0,4.0,AUTOMATIC,front wheel drive,Compact,23,5657,14090
+4213,Ford,regular unleaded,130.0,4.0,MANUAL,front wheel drive,Compact,23,5657,13205
+4214,Ford,regular unleaded,130.0,4.0,MANUAL,front wheel drive,Compact,23,5657,14355
+4215,Ford,regular unleaded,130.0,4.0,MANUAL,front wheel drive,Compact,23,5657,14810
+4251,Volkswagen,premium unleaded (required),201.0,6.0,AUTOMATIC,front wheel drive,Large,15,873,27700
+4252,Volkswagen,premium unleaded (required),201.0,6.0,AUTOMATIC,front wheel drive,Large,15,873,26200
+4253,Volkswagen,premium unleaded (recommended),201.0,6.0,AUTOMATIC,front wheel drive,Large,15,873,26200
+4254,Volkswagen,premium unleaded (recommended),201.0,6.0,AUTOMATIC,front wheel drive,Large,15,873,27700
+4255,Volkswagen,premium unleaded (recommended),201.0,6.0,AUTOMATIC,front wheel drive,Large,15,873,26200
+4256,Volkswagen,premium unleaded (recommended),201.0,6.0,AUTOMATIC,front wheel drive,Large,15,873,27700
+4310,Ford,regular unleaded,365.0,6.0,AUTOMATIC,four wheel drive,Large,15,5657,58185
+4311,Ford,regular unleaded,365.0,6.0,AUTOMATIC,rear wheel drive,Large,15,5657,62025
+4312,Ford,regular unleaded,365.0,6.0,AUTOMATIC,rear wheel drive,Large,15,5657,62985
+4313,Ford,regular unleaded,365.0,6.0,AUTOMATIC,rear wheel drive,Large,16,5657,59375
+4314,Ford,regular unleaded,365.0,6.0,AUTOMATIC,four wheel drive,Large,14,5657,66025
+4315,Ford,regular unleaded,365.0,6.0,AUTOMATIC,rear wheel drive,Large,15,5657,57795
+4316,Ford,regular unleaded,365.0,6.0,AUTOMATIC,four wheel drive,Large,14,5657,60835
+4317,Ford,regular unleaded,365.0,6.0,AUTOMATIC,four wheel drive,Large,14,5657,64945
+4318,Ford,regular unleaded,365.0,6.0,AUTOMATIC,rear wheel drive,Large,16,5657,45435
+4319,Ford,regular unleaded,365.0,6.0,AUTOMATIC,four wheel drive,Large,15,5657,63375
+4320,Ford,regular unleaded,365.0,6.0,AUTOMATIC,four wheel drive,Large,15,5657,48360
+4321,Ford,regular unleaded,365.0,6.0,AUTOMATIC,rear wheel drive,Large,16,5657,60335
+4322,Ford,regular unleaded,365.0,6.0,AUTOMATIC,rear wheel drive,Large,15,5657,48145
+4323,Ford,regular unleaded,365.0,6.0,AUTOMATIC,four wheel drive,Large,15,5657,62295
+4324,Ford,regular unleaded,365.0,6.0,AUTOMATIC,rear wheel drive,Large,16,5657,55145
+4325,Ford,regular unleaded,365.0,6.0,AUTOMATIC,four wheel drive,Large,14,5657,51070
+4326,Ford,regular unleaded,365.0,6.0,AUTOMATIC,rear wheel drive,Large,16,5657,41135
+4327,Ford,regular unleaded,365.0,6.0,AUTOMATIC,four wheel drive,Large,14,5657,47330
+4328,Ford,regular unleaded,365.0,6.0,AUTOMATIC,four wheel drive,Large,15,5657,44055
+4329,Ford,regular unleaded,365.0,6.0,AUTOMATIC,rear wheel drive,Large,15,5657,44410
+4330,Ford,regular unleaded,365.0,6.0,AUTOMATIC,rear wheel drive,Large,15,5657,58021
+4331,Ford,regular unleaded,365.0,6.0,AUTOMATIC,four wheel drive,Large,15,5657,49150
+4332,Ford,regular unleaded,365.0,6.0,AUTOMATIC,rear wheel drive,Large,15,5657,62590
+4333,Ford,regular unleaded,365.0,6.0,AUTOMATIC,rear wheel drive,Large,15,5657,63307
+4334,Ford,regular unleaded,365.0,6.0,AUTOMATIC,rear wheel drive,Large,15,5657,65957
+4335,Ford,regular unleaded,365.0,6.0,AUTOMATIC,four wheel drive,Large,15,5657,58410
+4336,Ford,regular unleaded,365.0,6.0,AUTOMATIC,rear wheel drive,Large,15,5657,46225
+4337,Ford,regular unleaded,365.0,6.0,AUTOMATIC,rear wheel drive,Large,15,5657,59940
+4338,Ford,regular unleaded,365.0,6.0,AUTOMATIC,four wheel drive,Large,15,5657,51861
+4339,Ford,regular unleaded,365.0,6.0,AUTOMATIC,four wheel drive,Large,15,5657,61061
+4340,Ford,regular unleaded,365.0,6.0,AUTOMATIC,four wheel drive,Large,15,5657,65510
+4341,Ford,regular unleaded,365.0,6.0,AUTOMATIC,four wheel drive,Large,15,5657,66347
+4342,Ford,regular unleaded,365.0,6.0,AUTOMATIC,four wheel drive,Large,15,5657,62860
+4343,Ford,regular unleaded,365.0,6.0,AUTOMATIC,rear wheel drive,Large,15,5657,48936
+4344,Ford,regular unleaded,365.0,6.0,AUTOMATIC,rear wheel drive,Large,15,5657,55370
+4345,Ford,regular unleaded,365.0,6.0,AUTOMATIC,four wheel drive,Large,15,5657,68996
+4346,Ford,regular unleaded,292.0,8.0,AUTOMATIC,all wheel drive,Compact,13,5657,31320
+4347,Ford,regular unleaded,292.0,8.0,AUTOMATIC,four wheel drive,Compact,13,5657,31320
+4348,Ford,regular unleaded,210.0,6.0,AUTOMATIC,all wheel drive,Compact,13,5657,30015
+4349,Ford,regular unleaded,210.0,6.0,AUTOMATIC,four wheel drive,Compact,13,5657,27925
+4350,Ford,regular unleaded,210.0,6.0,AUTOMATIC,rear wheel drive,Compact,14,5657,25400
+4351,Ford,regular unleaded,292.0,8.0,AUTOMATIC,rear wheel drive,Compact,13,5657,28800
+4352,Ford,regular unleaded,210.0,6.0,AUTOMATIC,four wheel drive,Compact,13,5657,30015
+4353,Ford,regular unleaded,292.0,8.0,AUTOMATIC,rear wheel drive,Compact,13,5657,26710
+4354,Ford,regular unleaded,210.0,6.0,AUTOMATIC,rear wheel drive,Compact,14,5657,27490
+4355,Ford,regular unleaded,292.0,8.0,AUTOMATIC,four wheel drive,Compact,13,5657,29235
+4356,Ford,regular unleaded,292.0,8.0,AUTOMATIC,rear wheel drive,Compact,15,5657,31145
+4357,Ford,regular unleaded,210.0,6.0,AUTOMATIC,rear wheel drive,Compact,14,5657,29835
+4358,Ford,regular unleaded,210.0,6.0,AUTOMATIC,four wheel drive,Compact,13,5657,28510
+4359,Ford,regular unleaded,292.0,8.0,AUTOMATIC,four wheel drive,Compact,14,5657,33670
+4360,Ford,regular unleaded,292.0,8.0,AUTOMATIC,all wheel drive,Compact,14,5657,33670
+4362,Ford,regular unleaded,292.0,8.0,AUTOMATIC,four wheel drive,Compact,14,5657,29820
+4363,Ford,regular unleaded,292.0,8.0,AUTOMATIC,rear wheel drive,Compact,15,5657,31145
+4364,Ford,regular unleaded,292.0,8.0,AUTOMATIC,rear wheel drive,Compact,15,5657,27295
+4365,Ford,regular unleaded,210.0,6.0,AUTOMATIC,four wheel drive,Compact,13,5657,32360
+4366,Ford,regular unleaded,210.0,6.0,AUTOMATIC,rear wheel drive,Compact,14,5657,25985
+4367,Ford,regular unleaded,210.0,6.0,AUTOMATIC,all wheel drive,Compact,13,5657,32360
+4368,Ford,regular unleaded,210.0,6.0,AUTOMATIC,rear wheel drive,Compact,14,5657,33065
+4369,Ford,regular unleaded,210.0,6.0,AUTOMATIC,four wheel drive,Compact,13,5657,35590
+4370,Ford,regular unleaded,210.0,6.0,AUTOMATIC,rear wheel drive,Compact,14,5657,28210
+4371,Ford,regular unleaded,210.0,6.0,AUTOMATIC,all wheel drive,Compact,13,5657,35590
+4372,Ford,regular unleaded,210.0,6.0,AUTOMATIC,four wheel drive,Compact,13,5657,30735
+4373,Ford,regular unleaded,203.0,6.0,MANUAL,four wheel drive,Midsize,14,5657,24055
+4374,Ford,regular unleaded,203.0,6.0,MANUAL,rear wheel drive,Midsize,16,5657,21035
+4375,Ford,regular unleaded,203.0,6.0,AUTOMATIC,rear wheel drive,Midsize,15,5657,24615
+4376,Ford,regular unleaded,203.0,6.0,MANUAL,four wheel drive,Midsize,14,5657,24240
+4377,Ford,regular unleaded,203.0,6.0,MANUAL,rear wheel drive,Midsize,16,5657,21220
+4378,Ford,regular unleaded,203.0,6.0,AUTOMATIC,four wheel drive,Midsize,13,5657,26075
+4379,Ford,regular unleaded,203.0,6.0,AUTOMATIC,rear wheel drive,Midsize,15,5657,22265
+4380,Ford,regular unleaded,203.0,6.0,AUTOMATIC,rear wheel drive,Midsize,15,5657,23055
+4381,Ford,regular unleaded,203.0,6.0,AUTOMATIC,four wheel drive,Midsize,13,5657,27780
+4382,Ford,regular unleaded,203.0,6.0,AUTOMATIC,four wheel drive,Midsize,13,5657,25285
+4383,Ford,regular unleaded,203.0,6.0,AUTOMATIC,rear wheel drive,Midsize,14,5657,23835
+4384,Ford,regular unleaded,203.0,6.0,AUTOMATIC,four wheel drive,Midsize,14,5657,25565
+4385,Ford,regular unleaded,203.0,6.0,AUTOMATIC,rear wheel drive,Midsize,14,5657,22545
+4386,Ford,regular unleaded,203.0,6.0,AUTOMATIC,rear wheel drive,Midsize,14,5657,25595
+4387,Ford,regular unleaded,203.0,6.0,AUTOMATIC,four wheel drive,Midsize,14,5657,28760
+4388,Ford,regular unleaded,203.0,6.0,MANUAL,four wheel drive,Midsize,14,5657,24890
+4389,Ford,regular unleaded,203.0,6.0,AUTOMATIC,four wheel drive,Midsize,14,5657,26915
+4390,Ford,regular unleaded,203.0,6.0,MANUAL,rear wheel drive,Midsize,15,5657,21870
+4391,Ford,flex-fuel (unleaded/E85),290.0,6.0,AUTOMATIC,front wheel drive,Midsize,17,5657,33000
+4392,Ford,flex-fuel (unleaded/E85),290.0,6.0,AUTOMATIC,all wheel drive,Midsize,17,5657,40200
+4393,Ford,flex-fuel (unleaded/E85),290.0,6.0,AUTOMATIC,front wheel drive,Midsize,17,5657,38200
+4394,Ford,flex-fuel (unleaded/E85),290.0,6.0,AUTOMATIC,all wheel drive,Midsize,17,5657,32700
+4395,Ford,flex-fuel (unleaded/E85),290.0,6.0,AUTOMATIC,front wheel drive,Midsize,17,5657,30700
+4396,Ford,regular unleaded,365.0,6.0,AUTOMATIC,all wheel drive,Midsize,16,5657,43100
+4397,Ford,flex-fuel (unleaded/E85),290.0,6.0,AUTOMATIC,all wheel drive,Midsize,17,5657,35000
+4398,Ford,flex-fuel (unleaded/E85),290.0,6.0,AUTOMATIC,all wheel drive,Midsize,16,5657,35400
+4399,Ford,flex-fuel (unleaded/E85),290.0,6.0,AUTOMATIC,front wheel drive,Midsize,17,5657,41300
+4400,Ford,regular unleaded,365.0,6.0,AUTOMATIC,all wheel drive,Midsize,16,5657,52970
+4401,Ford,regular unleaded,365.0,6.0,AUTOMATIC,all wheel drive,Midsize,16,5657,43500
+4402,Ford,flex-fuel (unleaded/E85),290.0,6.0,AUTOMATIC,front wheel drive,Midsize,17,5657,31050
+4403,Ford,flex-fuel (unleaded/E85),290.0,6.0,AUTOMATIC,all wheel drive,Midsize,16,5657,33050
+4404,Ford,flex-fuel (unleaded/E85),290.0,6.0,AUTOMATIC,all wheel drive,Midsize,16,5657,43300
+4405,Ford,flex-fuel (unleaded/E85),290.0,6.0,AUTOMATIC,front wheel drive,Midsize,17,5657,33400
+4406,Ford,regular unleaded,365.0,6.0,AUTOMATIC,all wheel drive,Midsize,16,5657,53235
+4407,Ford,flex-fuel (unleaded/E85),290.0,6.0,AUTOMATIC,all wheel drive,Midsize,16,5657,33310
+4408,Ford,regular unleaded,280.0,4.0,AUTOMATIC,front wheel drive,Midsize,19,5657,41525
+4409,Ford,flex-fuel (unleaded/E85),290.0,6.0,AUTOMATIC,front wheel drive,Midsize,17,5657,33625
+4410,Ford,flex-fuel (unleaded/E85),290.0,6.0,AUTOMATIC,front wheel drive,Midsize,17,5657,31160
+4411,Ford,regular unleaded,365.0,6.0,AUTOMATIC,all wheel drive,Midsize,16,5657,45205
+4412,Ford,flex-fuel (unleaded/E85),290.0,6.0,AUTOMATIC,all wheel drive,Midsize,16,5657,35775
+4413,Ford,regular unleaded,280.0,4.0,AUTOMATIC,all wheel drive,Midsize,18,5657,43675
+4447,Ford,regular unleaded,202.0,6.0,MANUAL,rear wheel drive,Large,15,5657,22295
+4448,Ford,regular unleaded,231.0,8.0,AUTOMATIC,four wheel drive,Large,13,5657,26160
+4449,Ford,regular unleaded,202.0,6.0,MANUAL,four wheel drive,Large,13,5657,23830
+4450,Ford,regular unleaded,202.0,6.0,MANUAL,rear wheel drive,Large,15,5657,22315
+4451,Ford,regular unleaded,202.0,6.0,MANUAL,four wheel drive,Large,13,5657,25730
+4452,Ford,regular unleaded,202.0,6.0,MANUAL,rear wheel drive,Large,15,5657,20490
+4453,Ford,regular unleaded,202.0,6.0,MANUAL,rear wheel drive,Large,15,5657,25160
+4454,Ford,regular unleaded,231.0,8.0,AUTOMATIC,four wheel drive,Large,13,5657,26460
+4455,Ford,regular unleaded,202.0,6.0,MANUAL,rear wheel drive,Large,15,5657,22615
+4456,Ford,regular unleaded,202.0,6.0,MANUAL,rear wheel drive,Large,15,5657,23160
+4457,Ford,regular unleaded,202.0,6.0,MANUAL,four wheel drive,Large,13,5657,26575
+4458,Ford,regular unleaded,202.0,6.0,MANUAL,rear wheel drive,Large,15,5657,19910
+4459,Ford,regular unleaded,202.0,6.0,MANUAL,four wheel drive,Large,13,5657,26030
+4460,Ford,regular unleaded,202.0,6.0,MANUAL,rear wheel drive,Large,15,5657,19610
+4461,Ford,regular unleaded,231.0,8.0,AUTOMATIC,rear wheel drive,Large,14,5657,22595
+4462,Ford,regular unleaded,231.0,8.0,AUTOMATIC,rear wheel drive,Large,14,5657,25460
+4463,Ford,regular unleaded,231.0,8.0,AUTOMATIC,four wheel drive,Large,13,5657,28975
+4464,Ford,regular unleaded,202.0,6.0,MANUAL,four wheel drive,Large,13,5657,23285
+4465,Ford,regular unleaded,231.0,8.0,AUTOMATIC,four wheel drive,Large,13,5657,29275
+4466,Ford,regular unleaded,202.0,6.0,MANUAL,four wheel drive,Large,13,5657,22985
+4467,Ford,regular unleaded,240.0,8.0,AUTOMATIC,rear wheel drive,Large,11,5657,4508
+4468,Ford,regular unleaded,360.0,8.0,AUTOMATIC,rear wheel drive,Large,12,5657,5691
+4469,Ford,regular unleaded,360.0,8.0,AUTOMATIC,rear wheel drive,Large,12,5657,5860
+4470,Ford,regular unleaded,325.0,6.0,AUTOMATIC,four wheel drive,Large,18,5657,45090
+4471,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,rear wheel drive,Large,18,5657,34205
+4472,Ford,regular unleaded,325.0,6.0,AUTOMATIC,rear wheel drive,Large,19,5657,35310
+4473,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,rear wheel drive,Large,18,5657,36555
+4474,Ford,flex-fuel (unleaded/E85),385.0,8.0,AUTOMATIC,four wheel drive,Large,15,5657,55305
+4475,Ford,flex-fuel (unleaded/E85),385.0,8.0,AUTOMATIC,four wheel drive,Large,15,5657,43785
+4476,Ford,regular unleaded,325.0,6.0,AUTOMATIC,rear wheel drive,Large,19,5657,39310
+4477,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,four wheel drive,Large,17,5657,30975
+4478,Ford,flex-fuel (unleaded/E85),385.0,8.0,AUTOMATIC,four wheel drive,Large,15,5657,39485
+4479,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,rear wheel drive,Large,18,5657,31320
+4480,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,four wheel drive,Large,17,5657,33515
+4481,Ford,flex-fuel (unleaded/E85),385.0,8.0,AUTOMATIC,four wheel drive,Large,15,5657,52545
+4482,Ford,flex-fuel (unleaded/E85),385.0,8.0,AUTOMATIC,four wheel drive,Large,15,5657,35360
+4483,Ford,regular unleaded,325.0,6.0,AUTOMATIC,rear wheel drive,Large,19,5657,37665
+4484,Ford,regular unleaded,325.0,6.0,AUTOMATIC,rear wheel drive,Large,19,5657,39610
+4485,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,four wheel drive,Large,17,5657,36055
+4486,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,rear wheel drive,Large,18,5657,26030
+4487,Ford,flex-fuel (unleaded/E85),385.0,8.0,AUTOMATIC,rear wheel drive,Large,15,5657,51585
+4488,Ford,flex-fuel (unleaded/E85),385.0,8.0,AUTOMATIC,rear wheel drive,Large,15,5657,49120
+4489,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,rear wheel drive,Large,18,5657,31625
+4490,Ford,flex-fuel (unleaded/E85),385.0,8.0,AUTOMATIC,four wheel drive,Large,15,5657,46140
+4491,Ford,regular unleaded,325.0,6.0,AUTOMATIC,rear wheel drive,Large,19,5657,33655
+4492,Ford,flex-fuel (unleaded/E85),385.0,8.0,AUTOMATIC,rear wheel drive,Large,15,5657,49420
+4493,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,four wheel drive,Large,17,5657,37630
+4494,Ford,regular unleaded,325.0,6.0,AUTOMATIC,rear wheel drive,Large,19,5657,41970
+4495,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,four wheel drive,Large,17,5657,34745
+4496,Ford,flex-fuel (unleaded/E85),385.0,8.0,AUTOMATIC,rear wheel drive,Large,15,5657,51885
+4497,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,four wheel drive,Large,17,5657,30675
+4498,Ford,regular unleaded,325.0,6.0,AUTOMATIC,rear wheel drive,Large,19,5657,41670
+4499,Ford,flex-fuel (unleaded/E85),385.0,8.0,AUTOMATIC,four wheel drive,Large,15,5657,52845
+4500,Ford,flex-fuel (unleaded/E85),385.0,8.0,AUTOMATIC,four wheel drive,Large,15,5657,41840
+4501,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,rear wheel drive,Large,18,5657,26330
+4502,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,rear wheel drive,Large,18,5657,30090
+4503,Ford,regular unleaded,325.0,6.0,AUTOMATIC,rear wheel drive,Large,19,5657,31200
+4504,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,rear wheel drive,Large,18,5657,32545
+4505,Ford,flex-fuel (unleaded/E85),385.0,8.0,AUTOMATIC,four wheel drive,Large,15,5657,55010
+4506,Ford,regular unleaded,325.0,6.0,AUTOMATIC,four wheel drive,Large,18,5657,42735
+4507,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,four wheel drive,Large,17,5657,35045
+4508,Ford,flex-fuel (unleaded/E85),385.0,8.0,AUTOMATIC,four wheel drive,Large,15,5657,37815
+4509,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,four wheel drive,Large,17,5657,40050
+4510,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,four wheel drive,Large,17,5657,31185
+4511,Ford,flex-fuel (unleaded/E85),385.0,8.0,AUTOMATIC,four wheel drive,Large,15,5657,53775
+4512,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,rear wheel drive,Large,18,5657,37140
+4513,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,rear wheel drive,Large,18,5657,26540
+4514,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,rear wheel drive,Large,18,5657,30600
+4515,Ford,flex-fuel (unleaded/E85),385.0,8.0,AUTOMATIC,rear wheel drive,Large,15,5657,52815
+4516,Ford,flex-fuel (unleaded/E85),385.0,8.0,AUTOMATIC,four wheel drive,Large,15,5657,53475
+4517,Ford,flex-fuel (unleaded/E85),385.0,8.0,AUTOMATIC,four wheel drive,Large,15,5657,56235
+4518,Ford,flex-fuel (unleaded/E85),385.0,8.0,AUTOMATIC,four wheel drive,Large,15,5657,40070
+4519,Ford,flex-fuel (unleaded/E85),385.0,8.0,AUTOMATIC,rear wheel drive,Large,15,5657,50050
+4520,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,rear wheel drive,Large,18,5657,31905
+4521,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,four wheel drive,Large,17,5657,35330
+4522,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,rear wheel drive,Large,18,5657,26840
+4523,Ford,regular unleaded,325.0,6.0,AUTOMATIC,rear wheel drive,Large,19,5657,34165
+4524,Ford,regular unleaded,365.0,6.0,AUTOMATIC,rear wheel drive,Large,18,5657,58885
+4525,Ford,regular unleaded,325.0,6.0,AUTOMATIC,rear wheel drive,Large,19,5657,35895
+4526,Ford,flex-fuel (unleaded/E85),385.0,8.0,AUTOMATIC,four wheel drive,Large,15,5657,35870
+4527,Ford,regular unleaded,365.0,6.0,AUTOMATIC,four wheel drive,Large,17,5657,62310
+4528,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,rear wheel drive,Large,18,5657,34790
+4529,Ford,regular unleaded,325.0,6.0,AUTOMATIC,four wheel drive,Large,18,5657,43490
+4530,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,rear wheel drive,Large,18,5657,32210
+4531,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,four wheel drive,Large,17,5657,36565
+4532,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,four wheel drive,Large,17,5657,31485
+4533,Ford,regular unleaded,325.0,6.0,AUTOMATIC,rear wheel drive,Large,19,5657,40365
+4534,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,rear wheel drive,Large,18,5657,33055
+4535,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,four wheel drive,Large,17,5657,38215
+4536,Ford,regular unleaded,325.0,6.0,AUTOMATIC,rear wheel drive,Large,19,5657,40065
+4537,Ford,regular unleaded,325.0,6.0,AUTOMATIC,rear wheel drive,Large,19,5657,42725
+4538,Ford,regular unleaded,325.0,6.0,AUTOMATIC,rear wheel drive,Large,19,5657,31710
+4539,Ford,regular unleaded,325.0,6.0,AUTOMATIC,four wheel drive,Large,18,5657,45845
+4540,Ford,flex-fuel (unleaded/E85),385.0,8.0,AUTOMATIC,four wheel drive,Large,15,5657,38325
+4541,Ford,flex-fuel (unleaded/E85),385.0,8.0,AUTOMATIC,rear wheel drive,Large,15,5657,50350
+4542,Ford,flex-fuel (unleaded/E85),385.0,8.0,AUTOMATIC,four wheel drive,Large,15,5657,42425
+4543,Ford,flex-fuel (unleaded/E85),385.0,8.0,AUTOMATIC,four wheel drive,Large,15,5657,55940
+4544,Ford,regular unleaded,325.0,6.0,AUTOMATIC,rear wheel drive,Large,19,5657,42425
+4545,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,four wheel drive,Large,17,5657,34025
+4546,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,four wheel drive,Large,17,5657,40635
+4547,Ford,regular unleaded,325.0,6.0,AUTOMATIC,rear wheel drive,Large,19,5657,38250
+4548,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,four wheel drive,Large,17,5657,35630
+4549,Ford,flex-fuel (unleaded/E85),385.0,8.0,AUTOMATIC,rear wheel drive,Large,15,5657,52515
+4550,Ford,flex-fuel (unleaded/E85),385.0,8.0,AUTOMATIC,four wheel drive,Large,15,5657,44540
+4551,Ford,flex-fuel (unleaded/E85),385.0,8.0,AUTOMATIC,four wheel drive,Large,15,5657,46895
+4552,Ford,regular unleaded,325.0,6.0,AUTOMATIC,rear wheel drive,Large,19,5657,31710
+4553,Ford,regular unleaded,450.0,6.0,AUTOMATIC,four wheel drive,Large,15,5657,51310
+4554,Ford,flex-fuel (unleaded/E85),385.0,8.0,AUTOMATIC,four wheel drive,Large,15,5657,56260
+4555,Ford,flex-fuel (unleaded/E85),385.0,8.0,AUTOMATIC,four wheel drive,Large,15,5657,40070
+4556,Ford,regular unleaded,365.0,6.0,AUTOMATIC,rear wheel drive,Large,18,5657,59600
+4557,Ford,regular unleaded,450.0,6.0,AUTOMATIC,four wheel drive,Large,15,5657,48325
+4558,Ford,regular unleaded,325.0,6.0,AUTOMATIC,rear wheel drive,Large,19,5657,40365
+4559,Ford,flex-fuel (unleaded/E85),385.0,8.0,AUTOMATIC,four wheel drive,Large,15,5657,46895
+4560,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,rear wheel drive,Large,18,5657,26540
+4561,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,four wheel drive,Large,17,5657,36565
+4562,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,rear wheel drive,Large,18,5657,31905
+4563,Ford,flex-fuel (unleaded/E85),385.0,8.0,AUTOMATIC,four wheel drive,Large,15,5657,44540
+4564,Ford,regular unleaded,325.0,6.0,AUTOMATIC,four wheel drive,Large,18,5657,45845
+4565,Ford,flex-fuel (unleaded/E85),385.0,8.0,AUTOMATIC,four wheel drive,Large,15,5657,38325
+4566,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,four wheel drive,Large,17,5657,31185
+4567,Ford,regular unleaded,325.0,6.0,AUTOMATIC,rear wheel drive,Large,19,5657,40065
+4568,Ford,flex-fuel (unleaded/E85),385.0,8.0,AUTOMATIC,four wheel drive,Large,15,5657,53704
+4569,Ford,flex-fuel (unleaded/E85),385.0,8.0,AUTOMATIC,four wheel drive,Large,15,5657,54004
+4570,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,rear wheel drive,Large,18,5657,35055
+4571,Ford,flex-fuel (unleaded/E85),385.0,8.0,AUTOMATIC,rear wheel drive,Large,15,5657,52835
+4572,Ford,flex-fuel (unleaded/E85),385.0,8.0,AUTOMATIC,four wheel drive,Large,15,5657,42425
+4573,Ford,flex-fuel (unleaded/E85),385.0,8.0,AUTOMATIC,four wheel drive,Large,15,5657,56555
+4574,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,four wheel drive,Large,17,5657,35630
+4575,Ford,regular unleaded,325.0,6.0,AUTOMATIC,rear wheel drive,Large,19,5657,34165
+4576,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,four wheel drive,Large,17,5657,31485
+4577,Ford,regular unleaded,325.0,6.0,AUTOMATIC,rear wheel drive,Large,19,5657,35895
+4578,Ford,flex-fuel (unleaded/E85),385.0,8.0,AUTOMATIC,rear wheel drive,Large,15,5657,50280
+4579,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,four wheel drive,Large,17,5657,38215
+4580,Ford,flex-fuel (unleaded/E85),385.0,8.0,AUTOMATIC,four wheel drive,Large,15,5657,35870
+4581,Ford,regular unleaded,325.0,6.0,AUTOMATIC,rear wheel drive,Large,19,5657,42425
+4582,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,rear wheel drive,Large,18,5657,26840
+4583,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,four wheel drive,Large,17,5657,35330
+4584,Ford,regular unleaded,325.0,6.0,AUTOMATIC,four wheel drive,Large,18,5657,43490
+4585,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,rear wheel drive,Large,18,5657,32210
+4586,Ford,regular unleaded,325.0,6.0,AUTOMATIC,rear wheel drive,Large,19,5657,42725
+4587,Ford,flex-fuel (unleaded/E85),385.0,8.0,AUTOMATIC,rear wheel drive,Large,15,5657,50580
+4588,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,rear wheel drive,Large,18,5657,37140
+4589,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,rear wheel drive,Large,18,5657,34790
+4590,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,rear wheel drive,Large,18,5657,30600
+4591,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,four wheel drive,Large,17,5657,34025
+4592,Ford,regular unleaded,365.0,6.0,AUTOMATIC,four wheel drive,Large,17,5657,63025
+4593,Ford,regular unleaded,325.0,6.0,AUTOMATIC,rear wheel drive,Large,19,5657,38250
+4594,Ford,flex-fuel (unleaded/E85),282.0,6.0,AUTOMATIC,four wheel drive,Large,17,5657,40635
+4595,Ford,flex-fuel (unleaded/E85),385.0,8.0,AUTOMATIC,rear wheel drive,Large,15,5657,53135
+4596,Ford,regular unleaded,220.0,8.0,MANUAL,rear wheel drive,Large,12,5657,3104
+4597,Ford,regular unleaded,220.0,8.0,MANUAL,four wheel drive,Large,12,5657,2862
+4598,Ford,regular unleaded,220.0,8.0,MANUAL,four wheel drive,Large,12,5657,3433
+4599,Ford,regular unleaded,220.0,8.0,MANUAL,four wheel drive,Large,12,5657,3215
+4600,Ford,regular unleaded,220.0,8.0,MANUAL,four wheel drive,Large,12,5657,3059
+4601,Ford,regular unleaded,220.0,8.0,MANUAL,four wheel drive,Large,12,5657,3214
+4602,Ford,regular unleaded,220.0,8.0,MANUAL,rear wheel drive,Large,12,5657,3241
+4603,Ford,regular unleaded,220.0,8.0,MANUAL,rear wheel drive,Large,12,5657,2956
+4604,Ford,regular unleaded,220.0,8.0,MANUAL,four wheel drive,Large,12,5657,3394
+4605,Ford,regular unleaded,220.0,8.0,MANUAL,rear wheel drive,Large,12,5657,2836
+4606,Ford,regular unleaded,220.0,8.0,MANUAL,rear wheel drive,Large,12,5657,2529
+4607,Ford,regular unleaded,220.0,8.0,MANUAL,rear wheel drive,Large,12,5657,2577
+4608,Ford,regular unleaded,220.0,8.0,MANUAL,rear wheel drive,Large,12,5657,2787
+4609,Ford,regular unleaded,220.0,8.0,MANUAL,four wheel drive,Large,12,5657,3008
+4610,Ford,regular unleaded,220.0,8.0,MANUAL,rear wheel drive,Large,12,5657,3156
+4611,Ford,regular unleaded,220.0,8.0,MANUAL,four wheel drive,Large,12,5657,3431
+4612,Ford,regular unleaded,220.0,8.0,MANUAL,rear wheel drive,Large,13,5657,3338
+4613,Ford,regular unleaded,220.0,8.0,AUTOMATIC,rear wheel drive,Large,13,5657,3138
+4614,Ford,regular unleaded,220.0,8.0,AUTOMATIC,rear wheel drive,Large,13,5657,3096
+4615,Ford,regular unleaded,220.0,8.0,AUTOMATIC,rear wheel drive,Large,13,5657,3535
+4616,Ford,regular unleaded,220.0,8.0,MANUAL,four wheel drive,Large,13,5657,3733
+4617,Ford,regular unleaded,220.0,8.0,MANUAL,four wheel drive,Large,13,5657,3487
+4618,Ford,regular unleaded,220.0,8.0,MANUAL,four wheel drive,Large,13,5657,3269
+4619,Ford,regular unleaded,220.0,8.0,MANUAL,rear wheel drive,Large,13,5657,2843
+4620,Ford,regular unleaded,220.0,8.0,AUTOMATIC,rear wheel drive,Large,13,5657,3395
+4621,Ford,regular unleaded,220.0,8.0,MANUAL,four wheel drive,Large,13,5657,3099
+4622,Ford,regular unleaded,220.0,8.0,MANUAL,four wheel drive,Large,13,5657,3471
+4623,Ford,regular unleaded,220.0,8.0,MANUAL,rear wheel drive,Large,13,5657,3199
+4624,Ford,regular unleaded,220.0,8.0,MANUAL,rear wheel drive,Large,13,5657,2817
+4625,Ford,regular unleaded,220.0,8.0,MANUAL,four wheel drive,Large,13,5657,3223
+4626,Ford,regular unleaded,220.0,8.0,MANUAL,four wheel drive,Large,13,5657,3764
+4627,Ford,regular unleaded,220.0,8.0,MANUAL,four wheel drive,Large,13,5657,3822
+4628,Ford,regular unleaded,220.0,8.0,MANUAL,rear wheel drive,Large,13,5657,3251
+4629,Ford,regular unleaded,220.0,8.0,AUTOMATIC,rear wheel drive,Large,12,5657,3550
+4630,Ford,regular unleaded,220.0,8.0,MANUAL,four wheel drive,Large,12,5657,3269
+4631,Ford,regular unleaded,220.0,8.0,AUTOMATIC,four wheel drive,Large,12,5657,4078
+4632,Ford,regular unleaded,220.0,8.0,MANUAL,rear wheel drive,Large,13,5657,3241
+4633,Ford,regular unleaded,220.0,8.0,MANUAL,four wheel drive,Large,12,5657,3583
+4634,Ford,regular unleaded,220.0,8.0,MANUAL,four wheel drive,Large,12,5657,3542
+4635,Ford,regular unleaded,220.0,8.0,MANUAL,rear wheel drive,Large,13,5657,3560
+4636,Ford,regular unleaded,220.0,8.0,MANUAL,rear wheel drive,Large,13,5657,2922
+4637,Ford,regular unleaded,220.0,8.0,MANUAL,rear wheel drive,Large,13,5657,3188
+4638,Ford,regular unleaded,220.0,8.0,MANUAL,four wheel drive,Large,12,5657,3192
+4639,Ford,regular unleaded,220.0,8.0,AUTOMATIC,four wheel drive,Large,12,5657,3878
+4640,Ford,regular unleaded,220.0,8.0,AUTOMATIC,rear wheel drive,Large,12,5657,3752
+4641,Ford,regular unleaded,220.0,8.0,MANUAL,four wheel drive,Large,12,5657,3572
+4642,Ford,regular unleaded,220.0,8.0,MANUAL,four wheel drive,Large,12,5657,3908
+4643,Ford,regular unleaded,220.0,8.0,MANUAL,rear wheel drive,Large,13,5657,2923
+4660,Ford,regular unleaded,63.0,4.0,MANUAL,front wheel drive,Compact,30,5657,2000
+4662,Ford,regular unleaded,63.0,4.0,MANUAL,front wheel drive,Compact,30,5657,2000
+4664,Ford,regular unleaded,63.0,4.0,MANUAL,front wheel drive,Compact,30,5657,2000
+4669,Ford,regular unleaded,120.0,4.0,MANUAL,front wheel drive,Compact,28,5657,18405
+4670,Ford,regular unleaded,197.0,4.0,MANUAL,front wheel drive,Compact,26,5657,21435
+4671,Ford,regular unleaded,120.0,4.0,MANUAL,front wheel drive,Compact,28,5657,15685
+4672,Ford,regular unleaded,120.0,4.0,MANUAL,front wheel drive,Compact,28,5657,16085
+4673,Ford,regular unleaded,120.0,4.0,MANUAL,front wheel drive,Compact,28,5657,14455
+4674,Ford,regular unleaded,120.0,4.0,MANUAL,front wheel drive,Compact,28,5657,14855
+4675,Ford,regular unleaded,120.0,4.0,MANUAL,front wheel drive,Compact,28,5657,18805
+4676,Ford,regular unleaded,120.0,4.0,MANUAL,front wheel drive,Compact,27,5657,14880
+4677,Ford,regular unleaded,120.0,4.0,MANUAL,front wheel drive,Compact,27,5657,16110
+4678,Ford,regular unleaded,120.0,4.0,MANUAL,front wheel drive,Compact,27,5657,18830
+4679,Ford,regular unleaded,120.0,4.0,MANUAL,front wheel drive,Compact,27,5657,15810
+4680,Ford,regular unleaded,120.0,4.0,MANUAL,front wheel drive,Compact,27,5657,14580
+4681,Ford,regular unleaded,120.0,4.0,MANUAL,front wheel drive,Compact,27,5657,18530
+4682,Ford,regular unleaded,197.0,4.0,MANUAL,front wheel drive,Compact,26,5657,21460
+4683,Ford,regular unleaded,120.0,4.0,MANUAL,front wheel drive,Compact,27,5657,15660
+4684,Ford,regular unleaded,120.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,27,5657,19420
+4685,Ford,regular unleaded,197.0,4.0,MANUAL,front wheel drive,Compact,26,5657,21610
+4686,Ford,regular unleaded,120.0,4.0,MANUAL,front wheel drive,Compact,27,5657,14430
+4687,Ford,regular unleaded,120.0,4.0,MANUAL,front wheel drive,Compact,27,5657,14130
+4688,Ford,regular unleaded,120.0,4.0,MANUAL,front wheel drive,Compact,27,5657,15360
+4689,Ford,regular unleaded,120.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,27,5657,19120
+4725,Ford,regular unleaded,203.0,6.0,AUTOMATIC,front wheel drive,Large,19,5657,24165
+4726,Ford,regular unleaded,203.0,6.0,AUTOMATIC,all wheel drive,Large,17,5657,23965
+4727,Ford,regular unleaded,203.0,6.0,AUTOMATIC,front wheel drive,Large,19,5657,26290
+4728,Ford,regular unleaded,203.0,6.0,AUTOMATIC,front wheel drive,Large,19,5657,22165
+4729,Ford,regular unleaded,203.0,6.0,AUTOMATIC,all wheel drive,Large,17,5657,28090
+4730,Ford,regular unleaded,203.0,6.0,AUTOMATIC,all wheel drive,Large,17,5657,25965
+4731,Ford,regular unleaded,203.0,6.0,AUTOMATIC,front wheel drive,Large,19,5657,24230
+4732,Ford,regular unleaded,203.0,6.0,AUTOMATIC,front wheel drive,Large,18,5657,22230
+4733,Ford,regular unleaded,203.0,6.0,AUTOMATIC,all wheel drive,Large,17,5657,28230
+4734,Ford,regular unleaded,203.0,6.0,AUTOMATIC,all wheel drive,Large,17,5657,24080
+4735,Ford,regular unleaded,203.0,6.0,AUTOMATIC,front wheel drive,Large,19,5657,26380
+4736,Ford,regular unleaded,203.0,6.0,AUTOMATIC,all wheel drive,Large,17,5657,26080
+4737,Ford,regular unleaded,203.0,6.0,AUTOMATIC,all wheel drive,Large,17,5657,28460
+4738,Ford,regular unleaded,203.0,6.0,AUTOMATIC,all wheel drive,Large,17,5657,24885
+4739,Ford,regular unleaded,203.0,6.0,AUTOMATIC,front wheel drive,Large,19,5657,23035
+4740,Ford,regular unleaded,203.0,6.0,AUTOMATIC,front wheel drive,Large,19,5657,26610
+4741,Toyota,regular unleaded,260.0,6.0,AUTOMATIC,four wheel drive,Midsize,17,2031,27705
+4742,Toyota,regular unleaded,260.0,6.0,MANUAL,four wheel drive,Midsize,15,2031,27295
+4743,Toyota,regular unleaded,260.0,6.0,AUTOMATIC,rear wheel drive,Midsize,17,2031,26115
+4744,Toyota,regular unleaded,260.0,6.0,AUTOMATIC,rear wheel drive,Midsize,16,2031,27030
+4745,Toyota,regular unleaded,260.0,6.0,AUTOMATIC,four wheel drive,Midsize,17,2031,28620
+4746,Toyota,regular unleaded,260.0,6.0,MANUAL,four wheel drive,Midsize,15,2031,28210
+4747,Toyota,regular unleaded,260.0,6.0,AUTOMATIC,four wheel drive,Midsize,17,2031,29270
+4748,Toyota,regular unleaded,260.0,6.0,AUTOMATIC,rear wheel drive,Midsize,16,2031,27680
+4749,Toyota,regular unleaded,260.0,6.0,MANUAL,four wheel drive,Midsize,15,2031,28860
+4753,Ford,regular unleaded,287.0,6.0,AUTOMATIC,front wheel drive,Large,18,5657,32100
+4754,Ford,regular unleaded,287.0,6.0,AUTOMATIC,front wheel drive,Large,18,5657,29100
+4755,Ford,regular unleaded,287.0,6.0,AUTOMATIC,front wheel drive,Large,18,5657,37700
+4756,Ford,regular unleaded,287.0,6.0,AUTOMATIC,all wheel drive,Large,17,5657,39650
+4757,Ford,regular unleaded,287.0,6.0,AUTOMATIC,all wheel drive,Large,17,5657,34050
+4758,Ford,premium unleaded (recommended),365.0,6.0,AUTOMATIC,all wheel drive,Large,16,5657,42400
+4759,Ford,premium unleaded (recommended),365.0,6.0,AUTOMATIC,all wheel drive,Large,15,5657,42600
+4760,Ford,regular unleaded,287.0,6.0,AUTOMATIC,front wheel drive,Large,16,5657,32300
+4761,Ford,regular unleaded,287.0,6.0,AUTOMATIC,front wheel drive,Large,16,5657,29600
+4762,Ford,regular unleaded,287.0,6.0,AUTOMATIC,all wheel drive,Large,16,5657,34250
+4763,Ford,regular unleaded,287.0,6.0,AUTOMATIC,all wheel drive,Large,16,5657,39750
+4764,Ford,regular unleaded,287.0,6.0,AUTOMATIC,front wheel drive,Large,16,5657,37800
+4765,Ford,premium unleaded (recommended),365.0,6.0,AUTOMATIC,all wheel drive,Large,15,5657,43030
+4766,Ford,regular unleaded,287.0,6.0,AUTOMATIC,all wheel drive,Large,16,5657,40180
+4767,Ford,regular unleaded,287.0,6.0,AUTOMATIC,front wheel drive,Large,16,5657,32730
+4768,Ford,regular unleaded,287.0,6.0,AUTOMATIC,front wheel drive,Large,16,5657,38230
+4769,Ford,regular unleaded,287.0,6.0,AUTOMATIC,front wheel drive,Large,16,5657,30025
+4770,Ford,regular unleaded,287.0,6.0,AUTOMATIC,all wheel drive,Large,16,5657,34680
+4776,Ford,premium unleaded (recommended),350.0,4.0,MANUAL,all wheel drive,Compact,19,5657,36120
+4777,Ford,premium unleaded (recommended),252.0,4.0,MANUAL,front wheel drive,Compact,23,5657,24370
+4778,Ford,premium unleaded (recommended),252.0,4.0,MANUAL,front wheel drive,Compact,22,5657,24425
+4779,Ford,premium unleaded (recommended),252.0,4.0,MANUAL,front wheel drive,Compact,22,5657,24775
+4780,Ford,flex-fuel (unleaded/E85),160.0,4.0,MANUAL,front wheel drive,Compact,26,5657,18460
+4781,Ford,flex-fuel (unleaded/E85),160.0,4.0,MANUAL,front wheel drive,Compact,26,5657,18960
+4782,Ford,flex-fuel (unleaded/E85),160.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,27,5657,23170
+4783,Ford,flex-fuel (unleaded/E85),160.0,4.0,MANUAL,front wheel drive,Compact,26,5657,17170
+4784,Ford,flex-fuel (unleaded/E85),160.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,27,5657,23670
+4785,Ford,electric,,0.0,DIRECT_DRIVE,front wheel drive,Compact,110,5657,29170
+4786,Ford,flex-fuel (unleaded/E85),160.0,4.0,MANUAL,front wheel drive,Compact,26,5657,18515
+4787,Ford,flex-fuel (unleaded/E85),160.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,27,5657,23725
+4788,Ford,flex-fuel (unleaded/E85),160.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,27,5657,23225
+4789,Ford,electric,,0.0,DIRECT_DRIVE,front wheel drive,Compact,110,5657,29170
+4790,Ford,flex-fuel (unleaded/E85),160.0,4.0,MANUAL,front wheel drive,Compact,26,5657,19015
+4791,Ford,flex-fuel (unleaded/E85),160.0,4.0,MANUAL,front wheel drive,Compact,26,5657,17225
+4792,Ford,flex-fuel (unleaded/E85),160.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,27,5657,21675
+4793,Ford,regular unleaded,123.0,3.0,MANUAL,front wheel drive,Compact,30,5657,18175
+4794,Ford,flex-fuel (unleaded/E85),160.0,4.0,MANUAL,front wheel drive,Compact,26,5657,16775
+4795,Ford,flex-fuel (unleaded/E85),160.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,27,5657,24075
+4796,Ford,flex-fuel (unleaded/E85),160.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,27,5657,23575
+4797,Ford,flex-fuel (unleaded/E85),160.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,27,5657,21175
+4798,Ford,electric,,0.0,DIRECT_DRIVE,front wheel drive,Compact,110,5657,29120
+4799,Ford,flex-fuel (unleaded/E85),160.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,27,5657,19765
+4886,Volkswagen,regular unleaded,81.0,4.0,MANUAL,front wheel drive,Compact,22,873,2000
+4887,Volkswagen,regular unleaded,81.0,4.0,MANUAL,front wheel drive,Compact,22,873,2000
+4888,Volkswagen,regular unleaded,81.0,4.0,MANUAL,front wheel drive,Compact,22,873,2000
+4889,Volkswagen,regular unleaded,81.0,4.0,MANUAL,front wheel drive,Compact,22,873,2000
+4890,Volkswagen,regular unleaded,81.0,4.0,MANUAL,front wheel drive,Compact,22,873,2000
+4892,Volkswagen,regular unleaded,81.0,4.0,MANUAL,front wheel drive,Compact,22,873,2000
+4914,Ford,regular unleaded,,6.0,AUTOMATIC,front wheel drive,Midsize,16,5657,28030
+4915,Ford,regular unleaded,,6.0,AUTOMATIC,front wheel drive,Midsize,16,5657,23930
+4916,Ford,regular unleaded,,6.0,AUTOMATIC,front wheel drive,Midsize,16,5657,21630
+4917,Ford,regular unleaded,,6.0,AUTOMATIC,front wheel drive,Midsize,16,5657,26530
+4918,Ford,regular unleaded,,6.0,AUTOMATIC,front wheel drive,Midsize,16,5657,29030
+4919,Ford,regular unleaded,,6.0,AUTOMATIC,front wheel drive,Midsize,16,5657,32755
+4920,Ford,regular unleaded,193.0,6.0,AUTOMATIC,front wheel drive,Midsize,16,5657,19650
+4921,Ford,regular unleaded,201.0,6.0,AUTOMATIC,front wheel drive,Midsize,15,5657,29575
+4922,Ford,regular unleaded,193.0,6.0,AUTOMATIC,front wheel drive,Midsize,16,5657,23655
+4923,Ford,regular unleaded,201.0,6.0,AUTOMATIC,front wheel drive,Midsize,15,5657,26615
+4924,Ford,regular unleaded,201.0,6.0,AUTOMATIC,front wheel drive,Midsize,15,5657,26665
+4925,Ford,regular unleaded,201.0,6.0,AUTOMATIC,front wheel drive,Midsize,15,5657,23705
+4926,Ford,regular unleaded,201.0,6.0,AUTOMATIC,front wheel drive,Midsize,15,5657,29575
+4927,Ford,regular unleaded,201.0,6.0,AUTOMATIC,front wheel drive,Midsize,15,5657,19700
+4928,Ford,regular unleaded,203.0,6.0,AUTOMATIC,front wheel drive,Large,18,5657,28440
+4929,Ford,regular unleaded,203.0,6.0,AUTOMATIC,all wheel drive,Large,17,5657,30440
+4930,Ford,regular unleaded,203.0,6.0,AUTOMATIC,front wheel drive,Large,18,5657,25040
+4931,Ford,regular unleaded,203.0,6.0,AUTOMATIC,all wheel drive,Large,17,5657,26840
+4932,Ford,regular unleaded,203.0,6.0,AUTOMATIC,front wheel drive,Large,18,5657,26440
+4933,Ford,regular unleaded,203.0,6.0,AUTOMATIC,all wheel drive,Large,17,5657,28240
+4934,Ford,regular unleaded,203.0,6.0,AUTOMATIC,all wheel drive,Large,17,5657,28355
+4935,Ford,regular unleaded,203.0,6.0,AUTOMATIC,front wheel drive,Large,18,5657,26505
+4936,Ford,regular unleaded,203.0,6.0,AUTOMATIC,front wheel drive,Large,18,5657,25105
+4937,Ford,regular unleaded,203.0,6.0,AUTOMATIC,all wheel drive,Large,17,5657,30580
+4938,Ford,regular unleaded,203.0,6.0,AUTOMATIC,all wheel drive,Large,17,5657,26955
+4939,Ford,regular unleaded,203.0,6.0,AUTOMATIC,front wheel drive,Large,18,5657,28530
+4940,Ford,regular unleaded,203.0,6.0,AUTOMATIC,all wheel drive,Large,17,5657,27770
+4941,Ford,regular unleaded,203.0,6.0,AUTOMATIC,front wheel drive,Large,18,5657,29205
+4942,Ford,regular unleaded,203.0,6.0,AUTOMATIC,all wheel drive,Large,17,5657,31055
+4943,Ford,regular unleaded,203.0,6.0,AUTOMATIC,front wheel drive,Large,18,5657,25920
+5020,Ford,regular unleaded,188.0,4.0,AUTOMATIC,front wheel drive,Midsize,44,5657,27380
+5021,Ford,regular unleaded,188.0,4.0,AUTOMATIC,front wheel drive,Midsize,44,5657,26575
+5022,Ford,regular unleaded,188.0,4.0,AUTOMATIC,front wheel drive,Midsize,44,5657,32330
+5023,Ford,regular unleaded,188.0,4.0,AUTOMATIC,front wheel drive,Midsize,44,5657,31430
+5024,Ford,regular unleaded,188.0,4.0,AUTOMATIC,front wheel drive,Midsize,44,5657,26480
+5025,Ford,regular unleaded,188.0,4.0,AUTOMATIC,front wheel drive,Midsize,44,5657,25675
+5026,Ford,regular unleaded,188.0,4.0,AUTOMATIC,front wheel drive,Midsize,43,5657,37020
+5027,Ford,regular unleaded,188.0,4.0,AUTOMATIC,front wheel drive,Midsize,43,5657,31010
+5028,Ford,regular unleaded,188.0,4.0,AUTOMATIC,front wheel drive,Midsize,43,5657,25675
+5029,Ford,regular unleaded,188.0,4.0,AUTOMATIC,front wheel drive,Midsize,43,5657,26480
+5030,Ford,regular unleaded,231.0,4.0,AUTOMATIC,all wheel drive,Midsize,22,5657,27830
+5031,Ford,regular unleaded,231.0,4.0,AUTOMATIC,all wheel drive,Midsize,22,5657,32780
+5032,Ford,regular unleaded,175.0,4.0,AUTOMATIC,front wheel drive,Midsize,22,5657,24035
+5033,Ford,regular unleaded,231.0,4.0,AUTOMATIC,front wheel drive,Midsize,22,5657,30780
+5034,Ford,regular unleaded,175.0,4.0,AUTOMATIC,front wheel drive,Midsize,22,5657,22500
+5035,Ford,regular unleaded,231.0,4.0,AUTOMATIC,front wheel drive,Midsize,22,5657,31270
+5036,Ford,regular unleaded,175.0,4.0,AUTOMATIC,front wheel drive,Midsize,22,5657,22750
+5037,Ford,regular unleaded,175.0,4.0,AUTOMATIC,front wheel drive,Midsize,22,5657,24320
+5038,Ford,regular unleaded,231.0,4.0,AUTOMATIC,all wheel drive,Midsize,22,5657,33270
+5039,Ford,regular unleaded,231.0,4.0,AUTOMATIC,all wheel drive,Midsize,22,5657,28115
+5040,Ford,regular unleaded,231.0,4.0,AUTOMATIC,front wheel drive,Midsize,21,5657,30610
+5041,Ford,regular unleaded,231.0,4.0,AUTOMATIC,all wheel drive,Midsize,20,5657,27405
+5042,Ford,regular unleaded,231.0,4.0,AUTOMATIC,all wheel drive,Midsize,20,5657,32610
+5043,Ford,regular unleaded,175.0,4.0,AUTOMATIC,front wheel drive,Midsize,21,5657,22610
+5044,Ford,regular unleaded,175.0,4.0,AUTOMATIC,front wheel drive,Midsize,21,5657,23610
+5045,Ford,regular unleaded,231.0,4.0,AUTOMATIC,front wheel drive,Midsize,21,5657,36620
+5046,Ford,regular unleaded,231.0,4.0,AUTOMATIC,all wheel drive,Midsize,20,5657,38620
+5325,Volkswagen,premium unleaded (required),200.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,22,873,25375
+5327,Volkswagen,premium unleaded (required),200.0,4.0,MANUAL,front wheel drive,Compact,20,873,24300
+5331,Volkswagen,premium unleaded (recommended),200.0,4.0,MANUAL,front wheel drive,Compact,21,873,24770
+5333,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,22,873,25870
+5335,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,front wheel drive,Midsize,24,873,26895
+5336,Volkswagen,premium unleaded (recommended),200.0,4.0,MANUAL,front wheel drive,Midsize,22,873,25795
+5337,Volkswagen,premium unleaded (recommended),200.0,4.0,MANUAL,front wheel drive,Midsize,22,873,26695
+5338,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,front wheel drive,Midsize,24,873,24845
+5341,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,front wheel drive,Midsize,24,873,27795
+5345,Volkswagen,premium unleaded (recommended),200.0,4.0,MANUAL,front wheel drive,Midsize,22,873,23745
+5359,Volkswagen,regular unleaded,170.0,4.0,AUTOMATED_MANUAL,all wheel drive,Compact,22,873,26950
+5360,Volkswagen,regular unleaded,170.0,4.0,AUTOMATED_MANUAL,all wheel drive,Compact,22,873,32890
+5361,Volkswagen,regular unleaded,170.0,4.0,AUTOMATED_MANUAL,all wheel drive,Compact,22,873,30530
+5362,Volkswagen,regular unleaded,170.0,4.0,MANUAL,all wheel drive,Compact,22,873,25850
+5363,Volkswagen,regular unleaded,170.0,4.0,MANUAL,all wheel drive,Compact,22,873,29430
+5364,Volkswagen,premium unleaded (recommended),220.0,4.0,MANUAL,front wheel drive,Compact,25,873,29280
+5365,Volkswagen,premium unleaded (recommended),220.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,25,873,32640
+5366,Volkswagen,premium unleaded (recommended),210.0,4.0,MANUAL,front wheel drive,Compact,25,873,24785
+5367,Volkswagen,premium unleaded (recommended),210.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,25,873,28885
+5368,Volkswagen,premium unleaded (recommended),220.0,4.0,MANUAL,front wheel drive,Compact,25,873,26280
+5369,Volkswagen,premium unleaded (recommended),210.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,25,873,25885
+5370,Volkswagen,premium unleaded (recommended),220.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,25,873,30380
+5371,Volkswagen,premium unleaded (recommended),220.0,4.0,MANUAL,front wheel drive,Compact,25,873,29880
+5372,Volkswagen,premium unleaded (recommended),220.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,25,873,27380
+5373,Volkswagen,premium unleaded (recommended),220.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,25,873,30980
+5374,Volkswagen,premium unleaded (recommended),220.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,25,873,27980
+5375,Volkswagen,premium unleaded (recommended),210.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,25,873,29485
+5376,Volkswagen,premium unleaded (recommended),220.0,4.0,MANUAL,front wheel drive,Compact,25,873,31540
+5377,Volkswagen,premium unleaded (recommended),210.0,4.0,MANUAL,front wheel drive,Compact,25,873,25385
+5378,Volkswagen,premium unleaded (recommended),210.0,4.0,MANUAL,front wheel drive,Compact,25,873,30045
+5379,Volkswagen,premium unleaded (recommended),220.0,4.0,MANUAL,front wheel drive,Compact,25,873,26880
+5380,Volkswagen,premium unleaded (recommended),210.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,25,873,31145
+5381,Volkswagen,premium unleaded (recommended),210.0,4.0,MANUAL,front wheel drive,Compact,25,873,27785
+5382,Volkswagen,premium unleaded (recommended),210.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,25,873,26485
+5383,Volkswagen,premium unleaded (recommended),210.0,4.0,MANUAL,front wheel drive,Compact,25,873,28385
+5384,Volkswagen,premium unleaded (recommended),220.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,25,873,30620
+5385,Volkswagen,premium unleaded (recommended),210.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,25,873,26095
+5386,Volkswagen,premium unleaded (recommended),210.0,4.0,MANUAL,front wheel drive,Compact,25,873,25595
+5387,Volkswagen,premium unleaded (recommended),210.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,25,873,29125
+5388,Volkswagen,premium unleaded (recommended),220.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,25,873,31220
+5389,Volkswagen,premium unleaded (recommended),220.0,4.0,MANUAL,front wheel drive,Compact,25,873,27090
+5390,Volkswagen,premium unleaded (recommended),220.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,25,873,27590
+5391,Volkswagen,premium unleaded (recommended),220.0,4.0,MANUAL,front wheel drive,Compact,25,873,31630
+5392,Volkswagen,premium unleaded (recommended),210.0,4.0,MANUAL,front wheel drive,Compact,25,873,24995
+5393,Volkswagen,premium unleaded (recommended),210.0,4.0,MANUAL,front wheel drive,Compact,25,873,30135
+5394,Volkswagen,premium unleaded (recommended),210.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,25,873,31235
+5395,Volkswagen,premium unleaded (recommended),220.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,25,873,32730
+5396,Volkswagen,premium unleaded (recommended),210.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,25,873,29725
+5397,Volkswagen,premium unleaded (recommended),210.0,4.0,MANUAL,front wheel drive,Compact,25,873,28025
+5398,Volkswagen,premium unleaded (recommended),220.0,4.0,MANUAL,front wheel drive,Compact,25,873,26490
+5399,Volkswagen,premium unleaded (recommended),220.0,4.0,MANUAL,front wheel drive,Compact,25,873,30120
+5400,Volkswagen,premium unleaded (recommended),210.0,4.0,MANUAL,front wheel drive,Compact,25,873,28625
+5401,Volkswagen,premium unleaded (recommended),210.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,25,873,26695
+5402,Volkswagen,premium unleaded (recommended),220.0,4.0,MANUAL,front wheel drive,Compact,25,873,29520
+5403,Volkswagen,premium unleaded (recommended),220.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,25,873,28190
+5404,Volkswagen,premium unleaded (recommended),220.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,24,873,35195
+5405,Volkswagen,premium unleaded (recommended),210.0,4.0,MANUAL,front wheel drive,Compact,24,873,25595
+5406,Volkswagen,premium unleaded (recommended),220.0,4.0,MANUAL,front wheel drive,Compact,24,873,27995
+5407,Volkswagen,premium unleaded (recommended),220.0,4.0,MANUAL,front wheel drive,Compact,24,873,34095
+5408,Volkswagen,premium unleaded (recommended),210.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,24,873,26095
+5409,Volkswagen,premium unleaded (recommended),210.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,24,873,26695
+5410,Volkswagen,premium unleaded (recommended),220.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,24,873,31990
+5411,Volkswagen,premium unleaded (recommended),220.0,4.0,MANUAL,front wheel drive,Compact,24,873,30890
+5412,Volkswagen,premium unleaded (recommended),210.0,4.0,MANUAL,front wheel drive,Compact,24,873,24995
+5413,Volkswagen,premium unleaded (recommended),220.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,24,873,29095
+5414,Volkswagen,premium unleaded (recommended),292.0,4.0,AUTOMATED_MANUAL,all wheel drive,Compact,23,873,39090
+5415,Volkswagen,premium unleaded (recommended),292.0,4.0,AUTOMATED_MANUAL,all wheel drive,Compact,23,873,36595
+5416,Volkswagen,premium unleaded (recommended),292.0,4.0,AUTOMATED_MANUAL,all wheel drive,Compact,23,873,36750
+5417,Volkswagen,premium unleaded (recommended),292.0,4.0,AUTOMATED_MANUAL,all wheel drive,Compact,23,873,38995
+5418,Volkswagen,premium unleaded (recommended),292.0,4.0,MANUAL,all wheel drive,Compact,22,873,35650
+5419,Volkswagen,premium unleaded (recommended),292.0,4.0,MANUAL,all wheel drive,Compact,22,873,37895
+5420,Volkswagen,premium unleaded (recommended),292.0,4.0,AUTOMATED_MANUAL,all wheel drive,Compact,23,873,36755
+5421,Volkswagen,premium unleaded (recommended),292.0,4.0,MANUAL,all wheel drive,Compact,22,873,35655
+5422,Volkswagen,premium unleaded (recommended),292.0,4.0,MANUAL,all wheel drive,Compact,22,873,39375
+5423,Volkswagen,premium unleaded (recommended),292.0,4.0,AUTOMATED_MANUAL,all wheel drive,Compact,23,873,40475
+5424,Volkswagen,diesel,150.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,31,873,31445
+5425,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,25,873,22495
+5426,Volkswagen,diesel,150.0,4.0,MANUAL,front wheel drive,Compact,31,873,27995
+5427,Volkswagen,regular unleaded,170.0,4.0,MANUAL,front wheel drive,Compact,25,873,21395
+5428,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,25,873,29345
+5429,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,25,873,26995
+5430,Volkswagen,diesel,150.0,4.0,MANUAL,front wheel drive,Compact,31,873,30345
+5431,Volkswagen,diesel,150.0,4.0,MANUAL,front wheel drive,Compact,31,873,24595
+5432,Volkswagen,diesel,150.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,31,873,25695
+5433,Volkswagen,diesel,150.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,31,873,29095
+5434,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,25,873,24995
+5435,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,25,873,27025
+5436,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,25,873,29385
+5437,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,25,873,22725
+5438,Volkswagen,regular unleaded,170.0,4.0,MANUAL,front wheel drive,Compact,25,873,21625
+5439,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,25,873,22680
+5440,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,25,873,27030
+5441,Volkswagen,regular unleaded,170.0,4.0,MANUAL,front wheel drive,Compact,25,873,21580
+5442,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,25,873,29970
+5443,Volkswagen,diesel,150.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,31,873,26995
+5444,Volkswagen,regular unleaded,170.0,4.0,MANUAL,front wheel drive,Compact,25,873,19295
+5445,Volkswagen,diesel,150.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,31,873,23445
+5446,Volkswagen,regular unleaded,170.0,4.0,MANUAL,front wheel drive,Compact,25,873,21295
+5447,Volkswagen,regular unleaded,170.0,4.0,MANUAL,front wheel drive,Compact,25,873,17995
+5448,Volkswagen,diesel,150.0,4.0,MANUAL,front wheel drive,Compact,30,873,28395
+5449,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,25,873,24895
+5450,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,25,873,20995
+5451,Volkswagen,diesel,150.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,31,873,29495
+5452,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,25,873,27395
+5453,Volkswagen,diesel,150.0,4.0,MANUAL,front wheel drive,Compact,30,873,22345
+5454,Volkswagen,diesel,150.0,4.0,MANUAL,front wheel drive,Compact,30,873,25895
+5455,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,25,873,22395
+5456,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,25,873,20395
+5457,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,25,873,20675
+5458,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,25,873,27425
+5459,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,25,873,19595
+5460,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,25,873,22625
+5461,Volkswagen,regular unleaded,170.0,4.0,MANUAL,front wheel drive,Compact,25,873,18495
+5462,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,25,873,25225
+5463,Volkswagen,regular unleaded,170.0,4.0,MANUAL,front wheel drive,Compact,25,873,20175
+5464,Volkswagen,regular unleaded,170.0,4.0,MANUAL,front wheel drive,Compact,25,873,19575
+5465,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,25,873,21275
+5466,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,25,873,20995
+5467,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Compact,25,873,22695
+5468,Volkswagen,regular unleaded,170.0,4.0,MANUAL,front wheel drive,Compact,25,873,21595
+5469,Volkswagen,regular unleaded,170.0,4.0,MANUAL,front wheel drive,Compact,25,873,19895
+5602,Ford,premium unleaded (required),550.0,8.0,MANUAL,rear wheel drive,Compact,12,5657,149995
+5603,Ford,premium unleaded (required),550.0,8.0,MANUAL,rear wheel drive,Compact,12,5657,149995
+5604,Volkswagen,premium unleaded (recommended),200.0,4.0,MANUAL,front wheel drive,Compact,21,873,26275
+5605,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,24,873,31695
+5606,Volkswagen,premium unleaded (recommended),200.0,4.0,MANUAL,front wheel drive,Compact,21,873,24595
+5607,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,24,873,25095
+5608,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,24,873,27375
+5610,Volkswagen,premium unleaded (recommended),200.0,4.0,MANUAL,front wheel drive,Compact,21,873,29995
+5611,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,24,873,29545
+5612,Volkswagen,premium unleaded (recommended),200.0,4.0,MANUAL,front wheel drive,Compact,21,873,27845
+5613,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,24,873,31095
+5614,Volkswagen,premium unleaded (recommended),200.0,4.0,MANUAL,front wheel drive,Compact,21,873,28445
+5618,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,24,873,28945
+5619,Volkswagen,premium unleaded (recommended),200.0,4.0,MANUAL,front wheel drive,Compact,21,873,23995
+5624,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,24,873,25695
+5625,Volkswagen,premium unleaded (recommended),200.0,4.0,MANUAL,front wheel drive,Compact,21,873,26875
+5626,Volkswagen,premium unleaded (recommended),200.0,4.0,MANUAL,front wheel drive,Compact,21,873,30595
+5628,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,24,873,27975
+5636,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,24,873,29895
+5637,Volkswagen,premium unleaded (recommended),200.0,4.0,MANUAL,front wheel drive,Compact,21,873,29695
+5638,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,24,873,30795
+5639,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,24,873,25300
+5640,Volkswagen,premium unleaded (recommended),200.0,4.0,MANUAL,front wheel drive,Compact,21,873,24200
+5641,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,24,873,25895
+5642,Volkswagen,premium unleaded (recommended),200.0,4.0,MANUAL,front wheel drive,Compact,21,873,30995
+5643,Volkswagen,premium unleaded (recommended),200.0,4.0,MANUAL,front wheel drive,Compact,21,873,30395
+5645,Volkswagen,premium unleaded (recommended),200.0,4.0,MANUAL,front wheel drive,Compact,21,873,28795
+5646,Volkswagen,premium unleaded (recommended),200.0,4.0,MANUAL,front wheel drive,Compact,21,873,25095
+5647,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,24,873,28395
+5648,Volkswagen,premium unleaded (recommended),200.0,4.0,MANUAL,front wheel drive,Compact,21,873,27295
+5649,Volkswagen,premium unleaded (recommended),200.0,4.0,MANUAL,front wheel drive,Compact,21,873,28195
+5650,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,24,873,31495
+5652,Volkswagen,premium unleaded (recommended),200.0,4.0,MANUAL,front wheel drive,Compact,21,873,24795
+5653,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,24,873,26195
+5656,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,24,873,32095
+5658,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,24,873,27895
+5660,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,24,873,29295
+5664,Volkswagen,premium unleaded (recommended),200.0,4.0,MANUAL,front wheel drive,Compact,21,873,26795
+5676,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,24,873,26195
+5677,Volkswagen,premium unleaded (recommended),200.0,4.0,MANUAL,front wheel drive,Compact,21,873,29695
+5678,Volkswagen,premium unleaded (recommended),200.0,4.0,MANUAL,front wheel drive,Compact,21,873,25095
+5679,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,24,873,30795
+5723,Toyota,regular unleaded,280.0,6.0,AUTOMATIC,all wheel drive,Midsize,27,2031,47300
+5724,Toyota,regular unleaded,280.0,6.0,AUTOMATIC,all wheel drive,Midsize,27,2031,49790
+5725,Toyota,regular unleaded,280.0,6.0,AUTOMATIC,all wheel drive,Midsize,27,2031,47850
+5726,Toyota,regular unleaded,280.0,6.0,AUTOMATIC,all wheel drive,Midsize,27,2031,50340
+5727,Toyota,regular unleaded,280.0,6.0,AUTOMATIC,all wheel drive,Midsize,27,2031,50485
+5728,Toyota,regular unleaded,280.0,6.0,AUTOMATIC,all wheel drive,Midsize,27,2031,47870
+5729,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,all wheel drive,Midsize,18,2031,34750
+5730,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,front wheel drive,Midsize,19,2031,31070
+5731,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,all wheel drive,Midsize,18,2031,44140
+5732,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,all wheel drive,Midsize,18,2031,38050
+5733,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,all wheel drive,Midsize,18,2031,41650
+5734,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,front wheel drive,Midsize,19,2031,42680
+5735,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,all wheel drive,Midsize,18,2031,32530
+5736,Toyota,regular unleaded,185.0,4.0,AUTOMATIC,front wheel drive,Midsize,20,2031,29765
+5737,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,front wheel drive,Midsize,19,2031,33290
+5738,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,front wheel drive,Midsize,19,2031,36590
+5739,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,front wheel drive,Midsize,19,2031,40190
+5740,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,front wheel drive,Midsize,19,2031,34395
+5741,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,all wheel drive,Midsize,18,2031,38775
+5742,Toyota,regular unleaded,185.0,4.0,AUTOMATIC,front wheel drive,Midsize,20,2031,30490
+5743,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,all wheel drive,Midsize,18,2031,42375
+5744,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,all wheel drive,Midsize,18,2031,44990
+5745,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,all wheel drive,Midsize,18,2031,33475
+5746,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,front wheel drive,Midsize,19,2031,43530
+5747,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,front wheel drive,Midsize,19,2031,32015
+5748,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,front wheel drive,Midsize,19,2031,40915
+5749,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,all wheel drive,Midsize,18,2031,35855
+5750,Toyota,regular unleaded,270.0,6.0,AUTOMATIC,front wheel drive,Midsize,19,2031,37315
+6000,Volkswagen,premium unleaded (recommended),210.0,4.0,AUTOMATED_MANUAL,front wheel drive,Midsize,24,873,25270
+6001,Volkswagen,premium unleaded (recommended),200.0,4.0,MANUAL,front wheel drive,Midsize,22,873,26195
+6002,Volkswagen,premium unleaded (recommended),210.0,4.0,MANUAL,front wheel drive,Midsize,22,873,24170
+6003,Volkswagen,premium unleaded (recommended),210.0,4.0,AUTOMATED_MANUAL,front wheel drive,Midsize,24,873,29525
+6004,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,front wheel drive,Midsize,24,873,27295
+6006,Volkswagen,premium unleaded (recommended),200.0,4.0,MANUAL,front wheel drive,Midsize,22,873,28200
+6008,Volkswagen,premium unleaded (recommended),210.0,4.0,MANUAL,front wheel drive,Midsize,22,873,26420
+6009,Volkswagen,premium unleaded (recommended),210.0,4.0,AUTOMATED_MANUAL,front wheel drive,Midsize,24,873,27520
+6010,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,front wheel drive,Midsize,24,873,29300
+6011,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATED_MANUAL,front wheel drive,Midsize,24,873,25045
+6014,Volkswagen,premium unleaded (recommended),210.0,4.0,MANUAL,front wheel drive,Midsize,22,873,28425
+6016,Volkswagen,premium unleaded (recommended),200.0,4.0,MANUAL,front wheel drive,Midsize,22,873,23945
+6024,Volkswagen,premium unleaded (recommended),210.0,4.0,MANUAL,front wheel drive,Midsize,23,873,24535
+6025,Volkswagen,premium unleaded (recommended),210.0,4.0,AUTOMATED_MANUAL,front wheel drive,Midsize,24,873,30875
+6026,Volkswagen,premium unleaded (recommended),210.0,4.0,AUTOMATED_MANUAL,front wheel drive,Midsize,24,873,28555
+6027,Volkswagen,premium unleaded (recommended),210.0,4.0,MANUAL,front wheel drive,Midsize,23,873,29775
+6028,Volkswagen,premium unleaded (recommended),210.0,4.0,MANUAL,front wheel drive,Midsize,23,873,28855
+6029,Volkswagen,premium unleaded (recommended),210.0,4.0,AUTOMATED_MANUAL,front wheel drive,Midsize,24,873,27925
+6030,Volkswagen,premium unleaded (recommended),210.0,4.0,MANUAL,front wheel drive,Midsize,23,873,27455
+6032,Volkswagen,premium unleaded (recommended),210.0,4.0,AUTOMATED_MANUAL,front wheel drive,Midsize,24,873,25635
+6038,Volkswagen,premium unleaded (recommended),210.0,4.0,MANUAL,front wheel drive,Midsize,23,873,26825
+6041,Volkswagen,premium unleaded (recommended),210.0,4.0,AUTOMATED_MANUAL,front wheel drive,Midsize,24,873,29955
+6044,Volkswagen,premium unleaded (required),170.0,4.0,AUTOMATED_MANUAL,front wheel drive,Midsize,42,873,26990
+6045,Volkswagen,premium unleaded (required),170.0,4.0,AUTOMATED_MANUAL,front wheel drive,Midsize,42,873,24995
+6046,Volkswagen,premium unleaded (required),170.0,4.0,AUTOMATED_MANUAL,front wheel drive,Midsize,42,873,29325
+6047,Volkswagen,premium unleaded (required),170.0,4.0,AUTOMATED_MANUAL,front wheel drive,Midsize,42,873,31180
+6048,Volkswagen,premium unleaded (required),170.0,4.0,AUTOMATED_MANUAL,front wheel drive,Midsize,42,873,31895
+6049,Volkswagen,premium unleaded (required),170.0,4.0,AUTOMATED_MANUAL,front wheel drive,Midsize,42,873,25560
+6050,Volkswagen,premium unleaded (required),170.0,4.0,AUTOMATED_MANUAL,front wheel drive,Midsize,42,873,27645
+6051,Volkswagen,premium unleaded (required),170.0,4.0,AUTOMATED_MANUAL,front wheel drive,Midsize,42,873,30245
+6052,Volkswagen,regular unleaded,170.0,5.0,AUTOMATIC,front wheel drive,Compact,24,873,24210
+6053,Volkswagen,regular unleaded,170.0,5.0,AUTOMATIC,front wheel drive,Compact,24,873,21295
+6054,Volkswagen,diesel,140.0,4.0,MANUAL,front wheel drive,Compact,30,873,28120
+6057,Volkswagen,regular unleaded,170.0,5.0,MANUAL,front wheel drive,Compact,23,873,20195
+6059,Volkswagen,diesel,140.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,29,873,28390
+6060,Volkswagen,diesel,140.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,29,873,29220
+6061,Volkswagen,regular unleaded,170.0,5.0,AUTOMATIC,front wheel drive,Compact,24,873,25960
+6062,Volkswagen,diesel,140.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,29,873,26640
+6064,Volkswagen,diesel,140.0,4.0,MANUAL,front wheel drive,Compact,30,873,25540
+6065,Volkswagen,diesel,140.0,4.0,MANUAL,front wheel drive,Compact,30,873,27290
+6066,Volkswagen,regular unleaded,170.0,5.0,AUTOMATIC,front wheel drive,Compact,24,873,21695
+6068,Volkswagen,diesel,140.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,29,873,29495
+6069,Volkswagen,regular unleaded,170.0,5.0,MANUAL,front wheel drive,Compact,23,873,20595
+6070,Volkswagen,diesel,140.0,4.0,MANUAL,front wheel drive,Compact,30,873,28395
+6071,Volkswagen,diesel,140.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,29,873,26895
+6073,Volkswagen,diesel,140.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,29,873,28695
+6074,Volkswagen,regular unleaded,170.0,5.0,AUTOMATIC,front wheel drive,Compact,24,873,24395
+6075,Volkswagen,regular unleaded,170.0,5.0,AUTOMATIC,front wheel drive,Compact,24,873,26195
+6078,Volkswagen,diesel,140.0,4.0,MANUAL,front wheel drive,Compact,30,873,27595
+6079,Volkswagen,diesel,140.0,4.0,MANUAL,front wheel drive,Compact,30,873,25795
+6080,Volkswagen,regular unleaded,170.0,5.0,MANUAL,front wheel drive,Compact,23,873,20995
+6081,Volkswagen,diesel,140.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,29,873,27665
+6082,Volkswagen,diesel,140.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,29,873,30265
+6083,Volkswagen,diesel,140.0,4.0,MANUAL,front wheel drive,Compact,30,873,29165
+6084,Volkswagen,regular unleaded,170.0,5.0,AUTOMATIC,front wheel drive,Compact,23,873,26685
+6085,Volkswagen,regular unleaded,170.0,5.0,AUTOMATIC,front wheel drive,Compact,23,873,24885
+6086,Volkswagen,regular unleaded,170.0,5.0,AUTOMATIC,front wheel drive,Compact,23,873,22095
+6089,Volkswagen,diesel,140.0,4.0,MANUAL,front wheel drive,Compact,30,873,26565
+6092,Volkswagen,diesel,140.0,4.0,AUTOMATED_MANUAL,front wheel drive,Compact,29,873,29465
+6093,Volkswagen,diesel,140.0,4.0,MANUAL,front wheel drive,Compact,30,873,28365
+6094,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Midsize,25,873,22325
+6095,Volkswagen,premium unleaded (recommended),210.0,4.0,MANUAL,front wheel drive,Midsize,23,873,29280
+6096,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Midsize,25,873,23650
+6097,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Midsize,25,873,25380
+6098,Volkswagen,diesel,150.0,4.0,AUTOMATED_MANUAL,front wheel drive,Midsize,31,873,25175
+6099,Volkswagen,premium unleaded (recommended),210.0,4.0,MANUAL,front wheel drive,Midsize,23,873,26920
+6100,Volkswagen,regular unleaded,170.0,4.0,MANUAL,front wheel drive,Midsize,25,873,20895
+6101,Volkswagen,diesel,150.0,4.0,MANUAL,front wheel drive,Midsize,31,873,21640
+6103,Volkswagen,premium unleaded (recommended),210.0,4.0,AUTOMATIC,front wheel drive,Midsize,24,873,28020
+6104,Volkswagen,diesel,150.0,4.0,AUTOMATED_MANUAL,front wheel drive,Midsize,31,873,22740
+6105,Volkswagen,premium unleaded (recommended),210.0,4.0,AUTOMATIC,front wheel drive,Midsize,24,873,30380
+6107,Volkswagen,diesel,150.0,4.0,MANUAL,front wheel drive,Midsize,31,873,24075
+6109,Volkswagen,regular unleaded,115.0,4.0,MANUAL,front wheel drive,Midsize,25,873,16215
+6111,Volkswagen,regular unleaded,115.0,4.0,MANUAL,front wheel drive,Midsize,25,873,17325
+6112,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Midsize,25,873,20095
+6114,Volkswagen,regular unleaded,170.0,4.0,MANUAL,front wheel drive,Midsize,25,873,18995
+6115,Volkswagen,diesel,150.0,4.0,MANUAL,front wheel drive,Midsize,31,873,26410
+6119,Volkswagen,premium unleaded (required),170.0,4.0,AUTOMATED_MANUAL,front wheel drive,Midsize,42,873,31670
+6120,Volkswagen,regular unleaded,115.0,4.0,AUTOMATIC,front wheel drive,Midsize,23,873,18425
+6121,Volkswagen,diesel,150.0,4.0,AUTOMATED_MANUAL,front wheel drive,Midsize,31,873,27510
+6122,Volkswagen,regular unleaded,115.0,4.0,AUTOMATIC,front wheel drive,Midsize,23,873,19420
+6123,Volkswagen,regular unleaded,115.0,4.0,MANUAL,front wheel drive,Midsize,25,873,18320
+6125,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Midsize,25,873,21995
+6126,Volkswagen,regular unleaded,150.0,4.0,AUTOMATIC,front wheel drive,Midsize,28,873,22325
+6127,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Midsize,25,873,23650
+6128,Volkswagen,premium unleaded (recommended),210.0,4.0,MANUAL,front wheel drive,Midsize,23,873,29280
+6129,Volkswagen,regular unleaded,150.0,4.0,AUTOMATIC,front wheel drive,Midsize,28,873,19775
+6130,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Midsize,25,873,25380
+6131,Volkswagen,premium unleaded (recommended),210.0,4.0,AUTOMATIC,front wheel drive,Midsize,24,873,28020
+6132,Volkswagen,premium unleaded (recommended),210.0,4.0,MANUAL,front wheel drive,Midsize,23,873,26920
+6133,Volkswagen,regular unleaded,150.0,4.0,MANUAL,front wheel drive,Midsize,28,873,18675
+6136,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Midsize,25,873,21995
+6137,Volkswagen,regular unleaded,150.0,4.0,MANUAL,front wheel drive,Midsize,28,873,18995
+6138,Volkswagen,regular unleaded,150.0,4.0,AUTOMATIC,front wheel drive,Midsize,28,873,20095
+6139,Volkswagen,regular unleaded,170.0,4.0,MANUAL,front wheel drive,Midsize,25,873,20895
+6140,Volkswagen,premium unleaded (required),170.0,4.0,AUTOMATED_MANUAL,front wheel drive,Midsize,42,873,31120
+6141,Volkswagen,regular unleaded,150.0,4.0,MANUAL,front wheel drive,Midsize,28,873,17680
+6143,Volkswagen,regular unleaded,150.0,4.0,AUTOMATIC,front wheel drive,Midsize,28,873,18780
+6144,Volkswagen,premium unleaded (recommended),210.0,4.0,AUTOMATIC,front wheel drive,Midsize,24,873,30380
+6148,Volkswagen,premium unleaded (recommended),210.0,4.0,AUTOMATED_MANUAL,front wheel drive,Midsize,24,873,28995
+6149,Volkswagen,regular unleaded,150.0,4.0,AUTOMATIC,front wheel drive,Midsize,28,873,21995
+6150,Volkswagen,regular unleaded,150.0,4.0,MANUAL,front wheel drive,Midsize,28,873,20895
+6151,Volkswagen,regular unleaded,150.0,4.0,AUTOMATIC,front wheel drive,Midsize,28,873,18995
+6152,Volkswagen,regular unleaded,150.0,4.0,MANUAL,front wheel drive,Midsize,28,873,17895
+6153,Volkswagen,premium unleaded (recommended),170.0,4.0,AUTOMATIC,front wheel drive,Midsize,25,873,24995
+6154,Volkswagen,premium unleaded (recommended),210.0,4.0,MANUAL,front wheel drive,Midsize,23,873,27895
+6347,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Midsize,13,2031,80155
+6348,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Midsize,13,2031,83825
+6349,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Midsize,13,2031,84325
+6513,Ford,regular unleaded,150.0,8.0,AUTOMATIC,rear wheel drive,Large,15,5657,2000
+6514,Ford,regular unleaded,150.0,8.0,AUTOMATIC,rear wheel drive,Large,15,5657,2000
+6519,Ford,regular unleaded,150.0,8.0,AUTOMATIC,rear wheel drive,Large,15,5657,2000
+6520,Ford,regular unleaded,150.0,8.0,AUTOMATIC,rear wheel drive,Large,15,5657,2000
+6712,Toyota,regular unleaded,132.0,4.0,AUTOMATIC,front wheel drive,Compact,25,2031,19685
+6713,Toyota,regular unleaded,158.0,4.0,AUTOMATIC,front wheel drive,Compact,21,2031,20755
+6714,Toyota,regular unleaded,158.0,4.0,MANUAL,front wheel drive,Compact,21,2031,19565
+6715,Toyota,regular unleaded,158.0,4.0,AUTOMATIC,all wheel drive,Compact,20,2031,21715
+6716,Toyota,regular unleaded,132.0,4.0,MANUAL,front wheel drive,Compact,26,2031,18845
+6717,Toyota,regular unleaded,158.0,4.0,AUTOMATIC,all wheel drive,Compact,20,2031,21715
+6718,Toyota,regular unleaded,132.0,4.0,MANUAL,front wheel drive,Compact,26,2031,18845
+6719,Toyota,regular unleaded,158.0,4.0,AUTOMATIC,front wheel drive,Compact,21,2031,20755
+6720,Toyota,regular unleaded,132.0,4.0,AUTOMATIC,front wheel drive,Compact,25,2031,19685
+6721,Toyota,regular unleaded,158.0,4.0,MANUAL,front wheel drive,Compact,21,2031,19565
+6722,Toyota,regular unleaded,132.0,4.0,AUTOMATIC,front wheel drive,Compact,25,2031,20115
+6723,Toyota,regular unleaded,158.0,4.0,AUTOMATIC,all wheel drive,Compact,20,2031,22415
+6724,Toyota,regular unleaded,158.0,4.0,MANUAL,front wheel drive,Compact,21,2031,20265
+6725,Toyota,regular unleaded,158.0,4.0,AUTOMATIC,front wheel drive,Compact,21,2031,21455
+6726,Toyota,regular unleaded,132.0,4.0,MANUAL,front wheel drive,Compact,26,2031,19275
+7008,Toyota,premium unleaded (required),138.0,4.0,AUTOMATED_MANUAL,rear wheel drive,Compact,22,2031,25645
+7009,Toyota,premium unleaded (required),138.0,4.0,MANUAL,rear wheel drive,Compact,23,2031,24645
+7010,Toyota,regular unleaded,138.0,4.0,AUTOMATED_MANUAL,rear wheel drive,Compact,23,2031,25895
+7011,Toyota,regular unleaded,138.0,4.0,MANUAL,rear wheel drive,Compact,23,2031,24895
+7012,Toyota,regular unleaded,138.0,4.0,AUTOMATED_MANUAL,rear wheel drive,Compact,23,2031,26145
+7013,Toyota,regular unleaded,138.0,4.0,MANUAL,rear wheel drive,Compact,23,2031,25145
+7014,Toyota,regular unleaded,135.0,4.0,MANUAL,rear wheel drive,Compact,19,2031,2000
+7015,Toyota,regular unleaded,200.0,4.0,MANUAL,rear wheel drive,Compact,18,2031,2078
+7016,Toyota,regular unleaded,200.0,4.0,MANUAL,rear wheel drive,Compact,18,2031,2254
+7017,Toyota,regular unleaded,135.0,4.0,MANUAL,rear wheel drive,Compact,19,2031,2000
+7018,Toyota,regular unleaded,135.0,4.0,MANUAL,rear wheel drive,Compact,19,2031,2038
+7019,Toyota,regular unleaded,200.0,4.0,MANUAL,rear wheel drive,Compact,18,2031,2462
+7064,Ford,regular unleaded,305.0,8.0,MANUAL,rear wheel drive,Compact,16,5657,3550
+7065,Ford,regular unleaded,305.0,8.0,MANUAL,rear wheel drive,Compact,16,5657,3206
+7066,Ford,regular unleaded,305.0,8.0,MANUAL,rear wheel drive,Compact,16,5657,3654
+7067,Ford,regular unleaded,305.0,8.0,MANUAL,rear wheel drive,Compact,16,5657,4059
+7068,Ford,regular unleaded,320.0,8.0,MANUAL,rear wheel drive,Compact,15,5657,4584
+7069,Ford,regular unleaded,320.0,8.0,MANUAL,rear wheel drive,Compact,15,5657,5193
+7070,Ford,premium unleaded (recommended),435.0,8.0,MANUAL,rear wheel drive,Midsize,15,5657,41800
+7071,Ford,regular unleaded,300.0,6.0,MANUAL,rear wheel drive,Midsize,17,5657,29300
+7072,Ford,premium unleaded (recommended),310.0,4.0,MANUAL,rear wheel drive,Midsize,22,5657,34800
+7073,Ford,premium unleaded (recommended),310.0,4.0,MANUAL,rear wheel drive,Midsize,22,5657,25300
+7074,Ford,premium unleaded (recommended),435.0,8.0,MANUAL,rear wheel drive,Midsize,15,5657,46170
+7075,Ford,premium unleaded (recommended),435.0,8.0,MANUAL,rear wheel drive,Midsize,15,5657,32300
+7076,Ford,regular unleaded,300.0,6.0,MANUAL,rear wheel drive,Midsize,17,5657,23800
+7077,Ford,premium unleaded (recommended),310.0,4.0,MANUAL,rear wheel drive,Midsize,22,5657,29300
+7078,Ford,premium unleaded (recommended),435.0,8.0,MANUAL,rear wheel drive,Midsize,15,5657,36300
+7079,Ford,premium unleaded (recommended),435.0,8.0,MANUAL,rear wheel drive,Midsize,15,5657,36395
+7080,Ford,premium unleaded (recommended),435.0,8.0,MANUAL,rear wheel drive,Midsize,15,5657,32395
+7081,Ford,regular unleaded,300.0,6.0,MANUAL,rear wheel drive,Midsize,17,5657,24145
+7082,Ford,premium unleaded (recommended),310.0,4.0,MANUAL,rear wheel drive,Midsize,20,5657,35145
+7083,Ford,premium unleaded (recommended),310.0,4.0,MANUAL,rear wheel drive,Midsize,22,5657,29645
+7084,Ford,premium unleaded (recommended),435.0,8.0,MANUAL,rear wheel drive,Midsize,15,5657,41895
+7085,Ford,regular unleaded,300.0,6.0,MANUAL,rear wheel drive,Midsize,17,5657,29645
+7086,Ford,premium unleaded (recommended),310.0,4.0,MANUAL,rear wheel drive,Midsize,22,5657,25645
+7087,Ford,premium unleaded (recommended),310.0,4.0,MANUAL,rear wheel drive,Midsize,21,5657,25645
+7088,Ford,regular unleaded,300.0,6.0,MANUAL,rear wheel drive,Midsize,18,5657,24645
+7089,Ford,premium unleaded (recommended),310.0,4.0,MANUAL,rear wheel drive,Midsize,21,5657,29645
+7090,Ford,premium unleaded (recommended),435.0,8.0,MANUAL,rear wheel drive,Midsize,14,5657,42145
+7091,Ford,premium unleaded (recommended),435.0,8.0,MANUAL,rear wheel drive,Midsize,15,5657,36645
+7092,Ford,premium unleaded (recommended),310.0,4.0,MANUAL,rear wheel drive,Midsize,21,5657,35145
+7093,Ford,premium unleaded (recommended),435.0,8.0,MANUAL,rear wheel drive,Midsize,15,5657,32645
+7189,Volkswagen,regular unleaded,150.0,5.0,AUTOMATIC,front wheel drive,Compact,20,873,20990
+7190,Volkswagen,regular unleaded,150.0,5.0,AUTOMATIC,front wheel drive,Compact,20,873,20525
+7192,Volkswagen,regular unleaded,150.0,5.0,AUTOMATIC,front wheel drive,Compact,20,873,24315
+7193,Volkswagen,regular unleaded,150.0,5.0,MANUAL,front wheel drive,Compact,20,873,17475
+7195,Volkswagen,regular unleaded,150.0,5.0,AUTOMATIC,front wheel drive,Compact,20,873,18550
+7198,Volkswagen,regular unleaded,150.0,5.0,MANUAL,front wheel drive,Compact,20,873,23240
+7199,Volkswagen,regular unleaded,150.0,5.0,AUTOMATIC,front wheel drive,Compact,20,873,25740
+7205,Volkswagen,regular unleaded,150.0,5.0,AUTOMATIC,front wheel drive,Compact,20,873,25990
+7207,Volkswagen,regular unleaded,150.0,5.0,MANUAL,front wheel drive,Compact,20,873,18290
+7209,Volkswagen,regular unleaded,150.0,5.0,AUTOMATIC,front wheel drive,Compact,20,873,26990
+7210,Volkswagen,regular unleaded,150.0,5.0,AUTOMATIC,front wheel drive,Compact,20,873,19390
+7213,Volkswagen,regular unleaded,150.0,5.0,MANUAL,front wheel drive,Compact,20,873,18690
+7214,Volkswagen,regular unleaded,150.0,5.0,AUTOMATIC,front wheel drive,Compact,20,873,27390
+7216,Volkswagen,regular unleaded,150.0,5.0,AUTOMATIC,front wheel drive,Compact,20,873,20390
+7217,Volkswagen,regular unleaded,150.0,5.0,AUTOMATIC,front wheel drive,Compact,20,873,19790
+7221,Volkswagen,regular unleaded,150.0,5.0,AUTOMATIC,front wheel drive,Compact,20,873,26390
+7445,Toyota,regular unleaded,100.0,4.0,MANUAL,front wheel drive,Compact,25,2031,2000
+7446,Toyota,regular unleaded,93.0,4.0,MANUAL,front wheel drive,Compact,26,2031,2000
+7447,Toyota,regular unleaded,93.0,4.0,MANUAL,front wheel drive,Compact,26,2031,2000
+7448,Toyota,regular unleaded,93.0,4.0,MANUAL,front wheel drive,Compact,25,2031,2178
+7449,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Midsize,24,873,26280
+7450,Volkswagen,diesel,150.0,4.0,AUTOMATED_MANUAL,front wheel drive,Midsize,30,873,29125
+7451,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Midsize,24,873,22440
+7453,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Midsize,24,873,23995
+7454,Volkswagen,diesel,150.0,4.0,AUTOMATED_MANUAL,front wheel drive,Midsize,30,873,30850
+7455,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Midsize,24,873,31790
+7456,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Midsize,24,873,24375
+7457,Volkswagen,regular unleaded,170.0,4.0,MANUAL,front wheel drive,Midsize,24,873,21340
+7460,Volkswagen,diesel,150.0,4.0,AUTOMATED_MANUAL,front wheel drive,Midsize,30,873,33925
+7461,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Midsize,24,873,28105
+7463,Volkswagen,regular unleaded,170.0,4.0,MANUAL,front wheel drive,Midsize,24,873,26915
+7464,Volkswagen,diesel,150.0,4.0,MANUAL,front wheel drive,Midsize,30,873,27095
+7465,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Midsize,24,873,28115
+7467,Volkswagen,premium unleaded (required),280.0,6.0,AUTOMATIC,front wheel drive,Midsize,20,873,35995
+7472,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Midsize,25,873,26280
+7473,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Midsize,25,873,34270
+7474,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Midsize,25,873,30495
+7475,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Midsize,25,873,24750
+7477,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Midsize,25,873,28410
+7478,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Midsize,25,873,23975
+7479,Volkswagen,premium unleaded (required),280.0,6.0,AUTOMATED_MANUAL,front wheel drive,Midsize,20,873,36835
+7480,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Midsize,25,873,22440
+7487,Volkswagen,premium unleaded (required),280.0,6.0,AUTOMATED_MANUAL,front wheel drive,Midsize,20,873,29295
+7488,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Midsize,23,873,27995
+7489,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Midsize,23,873,22440
+7490,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Midsize,23,873,23975
+7491,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Midsize,23,873,30995
+7492,Volkswagen,regular unleaded,170.0,4.0,AUTOMATIC,front wheel drive,Midsize,23,873,25495
+7493,Volkswagen,premium unleaded (required),280.0,6.0,AUTOMATED_MANUAL,front wheel drive,Midsize,20,873,33995
+7542,Volkswagen,premium unleaded (recommended),335.0,8.0,AUTOMATIC,all wheel drive,Large,14,873,64600
+7543,Volkswagen,premium unleaded (recommended),420.0,12.0,AUTOMATIC,all wheel drive,Large,11,873,94600
+7544,Volkswagen,premium unleaded (recommended),420.0,12.0,AUTOMATIC,all wheel drive,Large,11,873,79900
+7545,Volkswagen,premium unleaded (recommended),335.0,8.0,AUTOMATIC,all wheel drive,Large,14,873,66950
+7546,Volkswagen,premium unleaded (recommended),420.0,12.0,AUTOMATIC,all wheel drive,Large,11,873,96100
+7547,Volkswagen,premium unleaded (recommended),335.0,8.0,AUTOMATIC,all wheel drive,Large,14,873,74600
+7548,Volkswagen,premium unleaded (recommended),420.0,12.0,AUTOMATIC,all wheel drive,Large,11,873,100800
+7549,Volkswagen,premium unleaded (required),444.0,12.0,AUTOMATIC,all wheel drive,Large,11,873,101300
+7550,Volkswagen,premium unleaded (required),444.0,12.0,AUTOMATIC,all wheel drive,Large,11,873,96600
+7551,Volkswagen,premium unleaded (required),335.0,8.0,AUTOMATIC,all wheel drive,Large,14,873,66700
+7552,Volkswagen,premium unleaded (required),335.0,8.0,AUTOMATIC,all wheel drive,Large,14,873,74350
+7565,Toyota,regular unleaded,150.0,6.0,MANUAL,rear wheel drive,Compact,15,2031,2047
+7566,Toyota,regular unleaded,150.0,6.0,MANUAL,four wheel drive,Compact,14,2031,2550
+7567,Toyota,regular unleaded,150.0,6.0,MANUAL,four wheel drive,Compact,14,2031,2221
+7568,Toyota,regular unleaded,150.0,6.0,MANUAL,rear wheel drive,Compact,15,2031,2000
+7569,Toyota,regular unleaded,116.0,4.0,MANUAL,four wheel drive,Compact,17,2031,2142
+7570,Toyota,regular unleaded,116.0,4.0,MANUAL,four wheel drive,Compact,17,2031,2013
+7571,Toyota,regular unleaded,116.0,4.0,MANUAL,four wheel drive,Compact,17,2031,2293
+7572,Toyota,regular unleaded,150.0,6.0,MANUAL,four wheel drive,Compact,14,2031,2281
+7573,Toyota,regular unleaded,116.0,4.0,MANUAL,rear wheel drive,Compact,19,2031,2000
+7575,Toyota,regular unleaded,116.0,4.0,MANUAL,four wheel drive,Compact,17,2031,2115
+7576,Toyota,regular unleaded,116.0,4.0,MANUAL,rear wheel drive,Compact,19,2031,2000
+7577,Toyota,regular unleaded,150.0,6.0,MANUAL,rear wheel drive,Compact,15,2031,2040
+7578,Toyota,regular unleaded,150.0,6.0,MANUAL,four wheel drive,Compact,14,2031,2423
+7579,Toyota,regular unleaded,150.0,6.0,MANUAL,rear wheel drive,Compact,15,2031,2188
+7580,Toyota,regular unleaded,150.0,6.0,MANUAL,four wheel drive,Compact,14,2031,2699
+7581,Toyota,regular unleaded,150.0,6.0,MANUAL,rear wheel drive,Compact,16,2031,2311
+7582,Toyota,regular unleaded,150.0,6.0,MANUAL,four wheel drive,Compact,14,2031,2691
+7583,Toyota,regular unleaded,116.0,4.0,MANUAL,rear wheel drive,Compact,19,2031,2197
+7584,Toyota,regular unleaded,116.0,4.0,MANUAL,four wheel drive,Compact,17,2031,2553
+7585,Toyota,regular unleaded,116.0,4.0,MANUAL,four wheel drive,Compact,17,2031,2409
+7586,Toyota,regular unleaded,150.0,6.0,MANUAL,four wheel drive,Compact,14,2031,2912
+7587,Toyota,regular unleaded,116.0,4.0,MANUAL,rear wheel drive,Compact,19,2031,2000
+7588,Toyota,regular unleaded,150.0,6.0,MANUAL,rear wheel drive,Compact,16,2031,2498
+7589,Toyota,regular unleaded,150.0,6.0,MANUAL,four wheel drive,Compact,14,2031,2539
+7647,Toyota,regular unleaded,138.0,4.0,AUTOMATIC,rear wheel drive,Compact,15,2031,2000
+7648,Toyota,regular unleaded,161.0,4.0,AUTOMATIC,all wheel drive,Compact,15,2031,2000
+7650,Toyota,regular unleaded,161.0,4.0,AUTOMATIC,all wheel drive,Compact,15,2031,2194
+7651,Toyota,regular unleaded,161.0,4.0,AUTOMATIC,rear wheel drive,Compact,16,2031,2000
+7652,Toyota,regular unleaded,138.0,4.0,AUTOMATIC,all wheel drive,Compact,15,2031,2088
+7653,Toyota,regular unleaded,138.0,4.0,AUTOMATIC,all wheel drive,Compact,15,2031,2000
+7655,Toyota,regular unleaded,161.0,4.0,AUTOMATIC,rear wheel drive,Compact,16,2031,2064
+7656,Toyota,regular unleaded,161.0,4.0,AUTOMATIC,rear wheel drive,Compact,16,2031,2304
+7657,Toyota,regular unleaded,161.0,4.0,AUTOMATIC,all wheel drive,Compact,15,2031,2419
+7658,Toyota,regular unleaded,161.0,4.0,AUTOMATIC,all wheel drive,Compact,15,2031,2196
+7659,Toyota,regular unleaded,161.0,4.0,AUTOMATIC,all wheel drive,Compact,15,2031,2388
+7660,Toyota,regular unleaded,161.0,4.0,AUTOMATIC,rear wheel drive,Compact,16,2031,2242
+7661,Toyota,regular unleaded,161.0,4.0,AUTOMATIC,all wheel drive,Compact,15,2031,2728
+7662,Toyota,regular unleaded,161.0,4.0,AUTOMATIC,rear wheel drive,Compact,16,2031,2580
+7663,Toyota,regular unleaded,99.0,4.0,AUTOMATIC,front wheel drive,Compact,53,2031,20030
+7664,Toyota,regular unleaded,99.0,4.0,AUTOMATIC,front wheel drive,Compact,53,2031,19080
+7665,Toyota,regular unleaded,99.0,4.0,AUTOMATIC,front wheel drive,Compact,53,2031,21765
+7666,Toyota,regular unleaded,99.0,4.0,AUTOMATIC,front wheel drive,Compact,53,2031,23360
+7667,Toyota,regular unleaded,99.0,4.0,AUTOMATIC,front wheel drive,Compact,53,2031,20340
+7668,Toyota,regular unleaded,99.0,4.0,AUTOMATIC,front wheel drive,Compact,53,2031,21765
+7669,Toyota,regular unleaded,99.0,4.0,AUTOMATIC,front wheel drive,Compact,53,2031,19540
+7670,Toyota,regular unleaded,99.0,4.0,AUTOMATIC,front wheel drive,Compact,53,2031,24475
+7671,Toyota,regular unleaded,99.0,4.0,AUTOMATIC,front wheel drive,Compact,53,2031,20360
+7672,Toyota,regular unleaded,99.0,4.0,AUTOMATIC,front wheel drive,Compact,53,2031,19560
+7673,Toyota,regular unleaded,99.0,4.0,AUTOMATIC,front wheel drive,Compact,53,2031,24495
+7674,Toyota,regular unleaded,99.0,4.0,AUTOMATIC,front wheel drive,Compact,53,2031,21785
+7675,Toyota,regular unleaded,99.0,4.0,AUTOMATIC,front wheel drive,Compact,53,2031,21355
+7676,Toyota,regular unleaded,121.0,4.0,AUTOMATIC,front wheel drive,Compact,55,2031,27100
+7677,Toyota,regular unleaded,121.0,4.0,AUTOMATIC,front wheel drive,Compact,55,2031,33100
+7678,Toyota,regular unleaded,121.0,4.0,AUTOMATIC,front wheel drive,Compact,55,2031,28800
+7679,Toyota,regular unleaded,134.0,4.0,AUTOMATIC,front wheel drive,Midsize,44,2031,26675
+7680,Toyota,regular unleaded,134.0,4.0,AUTOMATIC,front wheel drive,Midsize,44,2031,28060
+7681,Toyota,regular unleaded,134.0,4.0,AUTOMATIC,front wheel drive,Midsize,44,2031,30935
+7682,Toyota,regular unleaded,134.0,4.0,AUTOMATIC,front wheel drive,Midsize,44,2031,29695
+7683,Toyota,regular unleaded,134.0,4.0,AUTOMATIC,front wheel drive,Midsize,44,2031,26675
+7684,Toyota,regular unleaded,134.0,4.0,AUTOMATIC,front wheel drive,Midsize,44,2031,28060
+7685,Toyota,regular unleaded,134.0,4.0,AUTOMATIC,front wheel drive,Midsize,44,2031,30935
+7686,Toyota,regular unleaded,134.0,4.0,AUTOMATIC,front wheel drive,Midsize,44,2031,29695
+7687,Toyota,regular unleaded,134.0,4.0,AUTOMATIC,front wheel drive,Midsize,43,2031,26675
+7688,Toyota,regular unleaded,134.0,4.0,AUTOMATIC,front wheel drive,Midsize,43,2031,29695
+7689,Toyota,regular unleaded,134.0,4.0,AUTOMATIC,front wheel drive,Midsize,43,2031,28060
+7690,Toyota,regular unleaded,134.0,4.0,AUTOMATIC,front wheel drive,Midsize,43,2031,30935
+7691,Toyota,regular unleaded,134.0,4.0,AUTOMATIC,front wheel drive,Compact,51,2031,25765
+7692,Toyota,regular unleaded,134.0,4.0,AUTOMATIC,front wheel drive,Compact,51,2031,30005
+7693,Toyota,regular unleaded,134.0,4.0,AUTOMATIC,front wheel drive,Compact,51,2031,24200
+7694,Toyota,regular unleaded,134.0,4.0,AUTOMATIC,front wheel drive,Compact,51,2031,28435
+7695,Toyota,regular unleaded,134.0,4.0,AUTOMATIC,front wheel drive,Compact,51,2031,26985
+7696,Toyota,regular unleaded,134.0,4.0,AUTOMATIC,front wheel drive,Compact,51,2031,23215
+7697,Toyota,regular unleaded,121.0,4.0,AUTOMATIC,front wheel drive,Compact,54,2031,24200
+7698,Toyota,regular unleaded,121.0,4.0,AUTOMATIC,front wheel drive,Compact,54,2031,26250
+7699,Toyota,regular unleaded,121.0,4.0,AUTOMATIC,front wheel drive,Compact,54,2031,28650
+7700,Toyota,regular unleaded,121.0,4.0,AUTOMATIC,front wheel drive,Compact,54,2031,30000
+7701,Toyota,regular unleaded,121.0,4.0,AUTOMATIC,front wheel drive,Compact,58,2031,24700
+7702,Toyota,regular unleaded,121.0,4.0,AUTOMATIC,front wheel drive,Compact,54,2031,28100
+7703,Toyota,regular unleaded,121.0,4.0,AUTOMATIC,front wheel drive,Compact,54,2031,28115
+7704,Toyota,regular unleaded,121.0,4.0,AUTOMATIC,front wheel drive,Compact,54,2031,30015
+7705,Toyota,regular unleaded,121.0,4.0,AUTOMATIC,front wheel drive,Compact,54,2031,29135
+7706,Toyota,regular unleaded,121.0,4.0,AUTOMATIC,front wheel drive,Compact,54,2031,26735
+7707,Toyota,regular unleaded,121.0,4.0,AUTOMATIC,front wheel drive,Compact,54,2031,24685
+7708,Toyota,regular unleaded,121.0,4.0,AUTOMATIC,front wheel drive,Compact,58,2031,25165
+7715,Ford,regular unleaded,118.0,4.0,MANUAL,front wheel drive,Compact,23,5657,2000
+7717,Ford,regular unleaded,164.0,6.0,MANUAL,front wheel drive,Compact,18,5657,2000
+7718,Ford,regular unleaded,164.0,6.0,MANUAL,front wheel drive,Compact,18,5657,2000
+7719,Ford,regular unleaded,118.0,4.0,MANUAL,front wheel drive,Compact,23,5657,2000
+7721,Ford,regular unleaded,118.0,4.0,MANUAL,front wheel drive,Compact,23,5657,2000
+7722,Ford,regular unleaded,164.0,6.0,MANUAL,front wheel drive,Compact,18,5657,2000
+7966,Volkswagen,premium unleaded (recommended),240.0,6.0,MANUAL,all wheel drive,Compact,17,873,29100
+7967,Volkswagen,premium unleaded (required),250.0,6.0,AUTOMATED_MANUAL,all wheel drive,Compact,18,873,32990
+7993,Volkswagen,regular unleaded,150.0,5.0,MANUAL,front wheel drive,Compact,19,873,17110
+7995,Volkswagen,regular unleaded,150.0,5.0,AUTOMATIC,front wheel drive,Compact,19,873,18185
+7997,Volkswagen,regular unleaded,150.0,5.0,MANUAL,front wheel drive,Compact,19,873,14990
+7998,Volkswagen,regular unleaded,150.0,5.0,AUTOMATIC,front wheel drive,Compact,19,873,16065
+8001,Volkswagen,regular unleaded,170.0,5.0,MANUAL,front wheel drive,Compact,22,873,17575
+8002,Volkswagen,regular unleaded,170.0,5.0,AUTOMATIC,front wheel drive,Compact,21,873,16675
+8003,Volkswagen,regular unleaded,170.0,5.0,AUTOMATIC,front wheel drive,Compact,21,873,18650
+8004,Volkswagen,regular unleaded,170.0,5.0,MANUAL,front wheel drive,Compact,22,873,15600
+8009,Volkswagen,regular unleaded,170.0,5.0,AUTOMATIC,front wheel drive,Compact,20,873,19340
+8010,Volkswagen,regular unleaded,170.0,5.0,MANUAL,front wheel drive,Compact,21,873,16300
+8013,Volkswagen,regular unleaded,170.0,5.0,AUTOMATIC,front wheel drive,Compact,20,873,17400
+8329,Ford,regular unleaded,143.0,4.0,MANUAL,rear wheel drive,Compact,21,5657,17990
+8330,Ford,regular unleaded,143.0,4.0,MANUAL,rear wheel drive,Compact,21,5657,17680
+8331,Ford,regular unleaded,207.0,6.0,MANUAL,rear wheel drive,Compact,15,5657,21050
+8332,Ford,regular unleaded,207.0,6.0,MANUAL,four wheel drive,Compact,15,5657,22305
+8333,Ford,regular unleaded,207.0,6.0,MANUAL,four wheel drive,Compact,15,5657,24255
+8334,Ford,regular unleaded,143.0,4.0,MANUAL,rear wheel drive,Compact,21,5657,16395
+8335,Ford,regular unleaded,207.0,6.0,MANUAL,four wheel drive,Compact,15,5657,24535
+8336,Ford,regular unleaded,143.0,4.0,MANUAL,rear wheel drive,Compact,21,5657,18805
+8337,Ford,regular unleaded,207.0,6.0,MANUAL,four wheel drive,Compact,15,5657,23575
+8338,Ford,regular unleaded,207.0,6.0,MANUAL,four wheel drive,Compact,15,5657,22985
+8339,Ford,regular unleaded,207.0,6.0,MANUAL,four wheel drive,Compact,15,5657,25805
+8340,Ford,regular unleaded,143.0,4.0,MANUAL,rear wheel drive,Compact,21,5657,17665
+8341,Ford,regular unleaded,207.0,6.0,MANUAL,rear wheel drive,Compact,15,5657,21675
+8342,Ford,regular unleaded,207.0,6.0,MANUAL,four wheel drive,Compact,15,5657,21810
+8343,Ford,regular unleaded,143.0,4.0,MANUAL,rear wheel drive,Compact,21,5657,17890
+8344,Ford,regular unleaded,207.0,6.0,MANUAL,rear wheel drive,Compact,15,5657,20405
+8345,Ford,regular unleaded,143.0,4.0,MANUAL,rear wheel drive,Compact,21,5657,19080
+8346,Ford,regular unleaded,143.0,4.0,MANUAL,rear wheel drive,Compact,22,5657,20580
+8347,Ford,regular unleaded,207.0,6.0,MANUAL,rear wheel drive,Compact,15,5657,23220
+8348,Ford,regular unleaded,207.0,6.0,MANUAL,rear wheel drive,Compact,15,5657,22485
+8349,Ford,regular unleaded,207.0,6.0,MANUAL,rear wheel drive,Compact,15,5657,22155
+8350,Ford,regular unleaded,207.0,6.0,MANUAL,four wheel drive,Compact,15,5657,25800
+8351,Ford,regular unleaded,143.0,4.0,MANUAL,rear wheel drive,Compact,22,5657,19515
+8352,Ford,regular unleaded,143.0,4.0,MANUAL,rear wheel drive,Compact,22,5657,17820
+8353,Ford,regular unleaded,207.0,6.0,MANUAL,four wheel drive,Compact,15,5657,24905
+8354,Ford,regular unleaded,143.0,4.0,MANUAL,rear wheel drive,Compact,22,5657,18960
+8355,Ford,regular unleaded,143.0,4.0,MANUAL,rear wheel drive,Compact,22,5657,19105
+8356,Ford,regular unleaded,207.0,6.0,MANUAL,four wheel drive,Compact,15,5657,23570
+8357,Ford,regular unleaded,143.0,4.0,MANUAL,rear wheel drive,Compact,22,5657,18160
+8358,Ford,regular unleaded,207.0,6.0,MANUAL,rear wheel drive,Compact,16,5657,23495
+8359,Ford,regular unleaded,207.0,6.0,MANUAL,rear wheel drive,Compact,16,5657,22640
+8360,Ford,regular unleaded,143.0,4.0,MANUAL,rear wheel drive,Compact,22,5657,20740
+8361,Ford,regular unleaded,207.0,6.0,MANUAL,four wheel drive,Compact,15,5657,26070
+8362,Ford,regular unleaded,143.0,4.0,MANUAL,rear wheel drive,Compact,22,5657,19855
+8363,Ford,regular unleaded,207.0,6.0,MANUAL,four wheel drive,Compact,15,5657,25060
+8364,Ford,regular unleaded,207.0,6.0,MANUAL,rear wheel drive,Compact,16,5657,22425
+8365,Ford,regular unleaded,143.0,4.0,MANUAL,rear wheel drive,Compact,22,5657,19120
+8373,Toyota,electric,154.0,,DIRECT_DRIVE,front wheel drive,Midsize,78,2031,49800
+8374,Toyota,electric,,0.0,DIRECT_DRIVE,front wheel drive,Midsize,78,2031,49800
+8375,Toyota,electric,,0.0,DIRECT_DRIVE,front wheel drive,Midsize,78,2031,49800
+8376,Toyota,regular unleaded,194.0,4.0,AUTOMATIC,all wheel drive,Midsize,34,2031,28370
+8377,Toyota,regular unleaded,194.0,4.0,AUTOMATIC,all wheel drive,Midsize,34,2031,33610
+8378,Toyota,regular unleaded,194.0,4.0,AUTOMATIC,all wheel drive,Midsize,34,2031,34030
+8379,Toyota,regular unleaded,194.0,4.0,AUTOMATIC,all wheel drive,Midsize,34,2031,29030
+8380,Toyota,regular unleaded,194.0,4.0,AUTOMATIC,all wheel drive,Midsize,34,2031,32185
+8381,Toyota,regular unleaded,176.0,4.0,AUTOMATIC,front wheel drive,Midsize,24,2031,25240
+8382,Toyota,regular unleaded,176.0,4.0,AUTOMATIC,all wheel drive,Midsize,22,2031,29850
+8383,Toyota,regular unleaded,176.0,4.0,AUTOMATIC,front wheel drive,Midsize,24,2031,28450
+8384,Toyota,regular unleaded,176.0,4.0,AUTOMATIC,all wheel drive,Midsize,22,2031,26640
+8385,Toyota,regular unleaded,176.0,4.0,AUTOMATIC,front wheel drive,Midsize,24,2031,23680
+8386,Toyota,regular unleaded,176.0,4.0,AUTOMATIC,all wheel drive,Midsize,22,2031,25080
+8387,Toyota,regular unleaded,176.0,4.0,AUTOMATIC,front wheel drive,Midsize,24,2031,29265
+8388,Toyota,regular unleaded,176.0,4.0,AUTOMATIC,all wheel drive,Midsize,22,2031,25750
+8389,Toyota,regular unleaded,176.0,4.0,AUTOMATIC,front wheel drive,Midsize,24,2031,26270
+8390,Toyota,regular unleaded,176.0,4.0,AUTOMATIC,front wheel drive,Midsize,24,2031,24350
+8391,Toyota,regular unleaded,176.0,4.0,AUTOMATIC,all wheel drive,Midsize,22,2031,30665
+8392,Toyota,regular unleaded,176.0,4.0,AUTOMATIC,front wheel drive,Midsize,24,2031,31510
+8393,Toyota,regular unleaded,176.0,4.0,AUTOMATIC,all wheel drive,Midsize,22,2031,32910
+8394,Toyota,regular unleaded,176.0,4.0,AUTOMATIC,all wheel drive,Midsize,22,2031,27670
+8395,Toyota,regular unleaded,176.0,4.0,AUTOMATIC,front wheel drive,Midsize,23,2031,31830
+8396,Toyota,regular unleaded,176.0,4.0,AUTOMATIC,all wheel drive,Midsize,22,2031,28230
+8397,Toyota,regular unleaded,176.0,4.0,AUTOMATIC,all wheel drive,Midsize,22,2031,26310
+8398,Toyota,regular unleaded,176.0,4.0,AUTOMATIC,front wheel drive,Midsize,23,2031,24910
+8399,Toyota,regular unleaded,176.0,4.0,AUTOMATIC,all wheel drive,Midsize,22,2031,36150
+8400,Toyota,regular unleaded,176.0,4.0,AUTOMATIC,all wheel drive,Midsize,22,2031,33230
+8401,Toyota,regular unleaded,176.0,4.0,AUTOMATIC,front wheel drive,Midsize,23,2031,34750
+8402,Toyota,regular unleaded,176.0,4.0,AUTOMATIC,front wheel drive,Midsize,23,2031,26830
+8403,Toyota,regular unleaded,176.0,4.0,AUTOMATIC,front wheel drive,Midsize,23,2031,29985
+8404,Toyota,regular unleaded,176.0,4.0,AUTOMATIC,all wheel drive,Midsize,22,2031,31385
+8607,Volkswagen,regular unleaded,197.0,6.0,AUTOMATIC,front wheel drive,Midsize,16,873,33600
+8608,Volkswagen,regular unleaded,251.0,6.0,AUTOMATIC,front wheel drive,Midsize,17,873,42500
+8609,Volkswagen,regular unleaded,251.0,6.0,AUTOMATIC,front wheel drive,Midsize,17,873,38600
+8610,Volkswagen,regular unleaded,197.0,6.0,AUTOMATIC,front wheel drive,Midsize,16,873,25900
+8611,Volkswagen,regular unleaded,197.0,6.0,AUTOMATIC,front wheel drive,Midsize,16,873,30600
+8612,Volkswagen,regular unleaded,197.0,6.0,AUTOMATIC,front wheel drive,Midsize,16,873,32600
+8614,Volkswagen,regular unleaded,251.0,6.0,AUTOMATIC,front wheel drive,Midsize,17,873,36600
+8617,Volkswagen,regular unleaded,283.0,6.0,AUTOMATIC,front wheel drive,Midsize,17,873,43240
+8618,Volkswagen,regular unleaded,283.0,6.0,AUTOMATIC,front wheel drive,Midsize,17,873,34750
+8619,Volkswagen,regular unleaded,283.0,6.0,AUTOMATIC,front wheel drive,Midsize,17,873,37390
+8620,Volkswagen,regular unleaded,283.0,6.0,AUTOMATIC,front wheel drive,Midsize,17,873,33790
+8621,Volkswagen,regular unleaded,283.0,6.0,AUTOMATIC,front wheel drive,Midsize,17,873,26930
+8622,Volkswagen,regular unleaded,283.0,6.0,AUTOMATIC,front wheel drive,Midsize,17,873,39390
+8623,Volkswagen,regular unleaded,283.0,6.0,AUTOMATIC,front wheel drive,Midsize,17,873,31770
+8624,Volkswagen,flex-fuel (unleaded/E85),283.0,6.0,AUTOMATIC,front wheel drive,Midsize,17,873,34490
+8625,Volkswagen,flex-fuel (unleaded/E85),283.0,6.0,AUTOMATIC,front wheel drive,Midsize,17,873,39890
+8626,Volkswagen,flex-fuel (unleaded/E85),283.0,6.0,AUTOMATIC,front wheel drive,Midsize,17,873,32010
+8627,Volkswagen,flex-fuel (unleaded/E85),283.0,6.0,AUTOMATIC,front wheel drive,Midsize,17,873,33490
+8628,Volkswagen,flex-fuel (unleaded/E85),283.0,6.0,AUTOMATIC,front wheel drive,Midsize,17,873,37890
+8629,Volkswagen,flex-fuel (unleaded/E85),283.0,6.0,AUTOMATIC,front wheel drive,Midsize,17,873,44280
+8630,Volkswagen,flex-fuel (unleaded/E85),283.0,6.0,AUTOMATIC,front wheel drive,Midsize,17,873,27020
+9114,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,64320
+9115,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,47620
+9116,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,56580
+9117,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,61095
+9118,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,47620
+9119,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,53355
+9120,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,56580
+9121,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,64320
+9122,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,44395
+9123,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,61855
+9124,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,57340
+9125,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,45325
+9126,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,65080
+9127,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,65080
+9128,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,57340
+9129,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,48550
+9130,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,54115
+9131,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,48550
+9132,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,48685
+9133,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,65215
+9134,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,45460
+9135,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,57475
+9136,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,57475
+9137,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,54250
+9138,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,48685
+9139,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,65215
+9140,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,61990
+9168,Ford,premium unleaded (recommended),526.0,8.0,MANUAL,rear wheel drive,Midsize,14,5657,61295
+9169,Ford,premium unleaded (recommended),526.0,8.0,MANUAL,rear wheel drive,Midsize,14,5657,47795
+9170,Ford,premium unleaded (recommended),526.0,8.0,MANUAL,rear wheel drive,Midsize,15,5657,61295
+9171,Ford,premium unleaded (recommended),526.0,8.0,MANUAL,rear wheel drive,Midsize,14,5657,47795
+9172,Ford,premium unleaded (recommended),526.0,8.0,MANUAL,rear wheel drive,Midsize,15,5657,61795
+9173,Ford,premium unleaded (recommended),526.0,8.0,MANUAL,rear wheel drive,Midsize,14,5657,54295
+9174,Ford,premium unleaded (required),550.0,8.0,MANUAL,rear wheel drive,Midsize,15,5657,48810
+9175,Ford,premium unleaded (required),662.0,8.0,MANUAL,rear wheel drive,Midsize,15,5657,59200
+9176,Ford,premium unleaded (required),662.0,8.0,MANUAL,rear wheel drive,Midsize,15,5657,54200
+9177,Ford,premium unleaded (required),662.0,8.0,MANUAL,rear wheel drive,Midsize,15,5657,55110
+9178,Ford,premium unleaded (required),662.0,8.0,MANUAL,rear wheel drive,Midsize,15,5657,60110
+9202,Toyota,regular unleaded,266.0,6.0,AUTOMATIC,all wheel drive,Large,16,2031,42880
+9203,Toyota,regular unleaded,266.0,6.0,AUTOMATIC,all wheel drive,Large,16,2031,37400
+9204,Toyota,regular unleaded,266.0,6.0,AUTOMATIC,all wheel drive,Large,16,2031,40655
+9205,Toyota,regular unleaded,266.0,6.0,AUTOMATIC,front wheel drive,Large,18,2031,37445
+9206,Toyota,regular unleaded,266.0,6.0,AUTOMATIC,front wheel drive,Large,18,2031,35200
+9207,Toyota,regular unleaded,266.0,6.0,AUTOMATIC,front wheel drive,Large,18,2031,41035
+9208,Toyota,regular unleaded,266.0,6.0,AUTOMATIC,front wheel drive,Large,18,2031,35000
+9209,Toyota,regular unleaded,266.0,6.0,AUTOMATIC,all wheel drive,Large,16,2031,33960
+9210,Toyota,regular unleaded,266.0,6.0,AUTOMATIC,all wheel drive,Large,16,2031,46250
+9211,Toyota,regular unleaded,266.0,6.0,AUTOMATIC,front wheel drive,Large,18,2031,41750
+9212,Toyota,regular unleaded,266.0,6.0,AUTOMATIC,front wheel drive,Large,18,2031,28700
+9213,Toyota,regular unleaded,266.0,6.0,AUTOMATIC,front wheel drive,Large,18,2031,45120
+9214,Toyota,regular unleaded,266.0,6.0,AUTOMATIC,front wheel drive,Large,18,2031,31630
+9215,Toyota,regular unleaded,266.0,6.0,AUTOMATIC,front wheel drive,Large,18,2031,31430
+9216,Toyota,regular unleaded,266.0,6.0,AUTOMATIC,front wheel drive,Large,18,2031,38455
+9217,Toyota,regular unleaded,266.0,6.0,AUTOMATIC,front wheel drive,Large,18,2031,39780
+9218,Toyota,regular unleaded,266.0,6.0,AUTOMATIC,front wheel drive,Large,18,2031,26595
+9219,Toyota,regular unleaded,266.0,6.0,AUTOMATIC,all wheel drive,Large,16,2031,34180
+9220,Toyota,regular unleaded,266.0,6.0,AUTOMATIC,front wheel drive,Large,18,2031,38605
+9221,Toyota,regular unleaded,266.0,6.0,AUTOMATIC,front wheel drive,Large,18,2031,35410
+9222,Toyota,regular unleaded,266.0,6.0,AUTOMATIC,front wheel drive,Large,18,2031,31840
+9223,Toyota,regular unleaded,266.0,6.0,AUTOMATIC,all wheel drive,Large,16,2031,37620
+9224,Toyota,regular unleaded,266.0,6.0,AUTOMATIC,front wheel drive,Large,18,2031,31640
+9225,Toyota,regular unleaded,266.0,6.0,AUTOMATIC,front wheel drive,Large,18,2031,41245
+9226,Toyota,regular unleaded,266.0,6.0,AUTOMATIC,all wheel drive,Large,16,2031,40815
+9227,Toyota,regular unleaded,266.0,6.0,AUTOMATIC,front wheel drive,Large,18,2031,28850
+9228,Toyota,regular unleaded,266.0,6.0,AUTOMATIC,front wheel drive,Large,18,2031,41900
+9229,Toyota,regular unleaded,266.0,6.0,AUTOMATIC,all wheel drive,Large,16,2031,43040
+9230,Toyota,regular unleaded,266.0,6.0,AUTOMATIC,front wheel drive,Large,18,2031,39930
+9231,Toyota,regular unleaded,266.0,6.0,AUTOMATIC,all wheel drive,Large,16,2031,46410
+9232,Toyota,regular unleaded,266.0,6.0,AUTOMATIC,front wheel drive,Large,18,2031,37655
+9233,Toyota,regular unleaded,266.0,6.0,AUTOMATIC,front wheel drive,Large,18,2031,35210
+9234,Toyota,regular unleaded,266.0,6.0,AUTOMATIC,front wheel drive,Large,18,2031,45270
+9235,Toyota,regular unleaded,266.0,6.0,AUTOMATIC,front wheel drive,Large,18,2031,26745
+9236,Toyota,regular unleaded,296.0,6.0,AUTOMATIC,front wheel drive,Large,19,2031,29750
+9237,Toyota,regular unleaded,296.0,6.0,AUTOMATIC,front wheel drive,Large,19,2031,32740
+9238,Toyota,regular unleaded,296.0,6.0,AUTOMATIC,all wheel drive,Large,18,2031,35080
+9239,Toyota,regular unleaded,296.0,6.0,AUTOMATIC,all wheel drive,Large,18,2031,43940
+9240,Toyota,regular unleaded,296.0,6.0,AUTOMATIC,front wheel drive,Large,19,2031,42800
+9241,Toyota,regular unleaded,296.0,6.0,AUTOMATIC,all wheel drive,Large,18,2031,41715
+9242,Toyota,regular unleaded,296.0,6.0,AUTOMATIC,front wheel drive,Large,19,2031,38555
+9243,Toyota,regular unleaded,296.0,6.0,AUTOMATIC,front wheel drive,Large,19,2031,32540
+9244,Toyota,regular unleaded,296.0,6.0,AUTOMATIC,front wheel drive,Large,19,2031,42145
+9245,Toyota,regular unleaded,296.0,6.0,AUTOMATIC,front wheel drive,Large,19,2031,39505
+9246,Toyota,regular unleaded,296.0,6.0,AUTOMATIC,front wheel drive,Large,19,2031,36310
+9247,Toyota,regular unleaded,296.0,6.0,AUTOMATIC,front wheel drive,Large,19,2031,36110
+9248,Toyota,regular unleaded,296.0,6.0,AUTOMATIC,front wheel drive,Large,19,2031,40830
+9249,Toyota,regular unleaded,296.0,6.0,AUTOMATIC,front wheel drive,Large,19,2031,27645
+9250,Toyota,regular unleaded,296.0,6.0,AUTOMATIC,all wheel drive,Large,18,2031,38520
+9251,Toyota,regular unleaded,296.0,6.0,AUTOMATIC,front wheel drive,Large,19,2031,46170
+9252,Toyota,regular unleaded,296.0,6.0,AUTOMATIC,all wheel drive,Large,18,2031,47310
+10096,Toyota,regular unleaded,320.0,6.0,AUTOMATIC,rear wheel drive,Compact,16,2031,18255
+10097,Toyota,regular unleaded,220.0,6.0,MANUAL,rear wheel drive,Compact,16,2031,14977
+10098,Toyota,regular unleaded,320.0,6.0,MANUAL,rear wheel drive,Compact,15,2031,22001
+10099,Toyota,regular unleaded,220.0,6.0,MANUAL,rear wheel drive,Compact,16,2031,17320
+10100,Toyota,regular unleaded,225.0,6.0,MANUAL,rear wheel drive,Compact,17,2031,20596
+10101,Toyota,regular unleaded,320.0,6.0,MANUAL,rear wheel drive,Compact,15,2031,25279
+10151,Toyota,regular unleaded,190.0,6.0,MANUAL,rear wheel drive,Large,15,2031,2563
+10152,Toyota,regular unleaded,190.0,6.0,MANUAL,four wheel drive,Large,15,2031,2922
+10153,Toyota,regular unleaded,190.0,6.0,MANUAL,rear wheel drive,Large,15,2031,2506
+10154,Toyota,regular unleaded,150.0,4.0,MANUAL,rear wheel drive,Large,18,2031,2141
+10155,Toyota,regular unleaded,190.0,6.0,MANUAL,four wheel drive,Large,15,2031,2802
+10156,Toyota,regular unleaded,190.0,6.0,MANUAL,four wheel drive,Large,15,2031,3143
+10157,Toyota,regular unleaded,190.0,6.0,MANUAL,rear wheel drive,Large,15,2031,2806
+10158,Toyota,regular unleaded,150.0,4.0,MANUAL,rear wheel drive,Large,17,2031,2348
+10159,Toyota,regular unleaded,190.0,6.0,MANUAL,four wheel drive,Large,15,2031,3042
+10160,Toyota,regular unleaded,190.0,6.0,MANUAL,rear wheel drive,Large,15,2031,2767
+10161,Toyota,regular unleaded,150.0,4.0,MANUAL,rear wheel drive,Large,17,2031,2540
+10162,Toyota,regular unleaded,190.0,6.0,MANUAL,rear wheel drive,Large,15,2031,3058
+10163,Toyota,regular unleaded,190.0,6.0,MANUAL,four wheel drive,Large,15,2031,3586
+10164,Toyota,regular unleaded,190.0,6.0,MANUAL,four wheel drive,Large,15,2031,3480
+10165,Toyota,regular unleaded,190.0,6.0,MANUAL,rear wheel drive,Large,15,2031,3214
+10166,Toyota,regular unleaded,236.0,6.0,MANUAL,four wheel drive,Compact,15,2031,27355
+10167,Toyota,regular unleaded,159.0,4.0,AUTOMATIC,rear wheel drive,Compact,19,2031,23075
+10168,Toyota,regular unleaded,236.0,6.0,AUTOMATIC,four wheel drive,Compact,16,2031,27235
+10169,Toyota,regular unleaded,159.0,4.0,MANUAL,four wheel drive,Compact,18,2031,24800
+10170,Toyota,regular unleaded,159.0,4.0,AUTOMATIC,rear wheel drive,Compact,19,2031,21865
+10171,Toyota,regular unleaded,236.0,6.0,MANUAL,four wheel drive,Compact,15,2031,35725
+10172,Toyota,regular unleaded,159.0,4.0,MANUAL,rear wheel drive,Compact,21,2031,20965
+10173,Toyota,regular unleaded,159.0,4.0,AUTOMATIC,rear wheel drive,Compact,19,2031,23625
+10174,Toyota,regular unleaded,236.0,6.0,AUTOMATIC,four wheel drive,Compact,16,2031,37615
+10175,Toyota,regular unleaded,236.0,6.0,AUTOMATIC,rear wheel drive,Compact,17,2031,25060
+10176,Toyota,regular unleaded,236.0,6.0,AUTOMATIC,rear wheel drive,Compact,17,2031,23960
+10177,Toyota,regular unleaded,236.0,6.0,MANUAL,four wheel drive,Compact,15,2031,26355
+10178,Toyota,regular unleaded,236.0,6.0,AUTOMATIC,four wheel drive,Compact,16,2031,36705
+10179,Toyota,regular unleaded,236.0,6.0,MANUAL,four wheel drive,Compact,15,2031,36635
+10180,Toyota,regular unleaded,236.0,6.0,AUTOMATIC,four wheel drive,Compact,16,2031,28235
+10181,Toyota,regular unleaded,236.0,6.0,AUTOMATIC,four wheel drive,Compact,16,2031,28735
+10182,Toyota,regular unleaded,159.0,4.0,AUTOMATIC,rear wheel drive,Compact,19,2031,22525
+10183,Toyota,regular unleaded,236.0,6.0,AUTOMATIC,rear wheel drive,Compact,17,2031,25560
+10184,Toyota,regular unleaded,159.0,4.0,AUTOMATIC,four wheel drive,Compact,18,2031,25700
+10185,Toyota,regular unleaded,159.0,4.0,MANUAL,four wheel drive,Compact,19,2031,25185
+10186,Toyota,regular unleaded,278.0,6.0,AUTOMATIC,four wheel drive,Compact,18,2031,29275
+10187,Toyota,regular unleaded,159.0,4.0,AUTOMATIC,rear wheel drive,Compact,19,2031,23660
+10188,Toyota,regular unleaded,278.0,6.0,AUTOMATIC,four wheel drive,Compact,18,2031,34700
+10189,Toyota,regular unleaded,278.0,6.0,AUTOMATIC,four wheel drive,Compact,18,2031,31420
+10190,Toyota,regular unleaded,278.0,6.0,AUTOMATIC,four wheel drive,Compact,18,2031,34090
+10191,Toyota,regular unleaded,278.0,6.0,AUTOMATIC,rear wheel drive,Compact,19,2031,30025
+10192,Toyota,regular unleaded,278.0,6.0,AUTOMATIC,four wheel drive,Compact,18,2031,33310
+10193,Toyota,regular unleaded,159.0,4.0,AUTOMATIC,rear wheel drive,Compact,19,2031,26635
+10194,Toyota,regular unleaded,278.0,6.0,MANUAL,four wheel drive,Compact,17,2031,31680
+10195,Toyota,regular unleaded,278.0,6.0,MANUAL,four wheel drive,Compact,17,2031,32460
+10197,Toyota,regular unleaded,278.0,6.0,AUTOMATIC,rear wheel drive,Compact,19,2031,27355
+10199,Toyota,regular unleaded,278.0,6.0,AUTOMATIC,rear wheel drive,Compact,19,2031,35105
+10200,Toyota,regular unleaded,278.0,6.0,AUTOMATIC,four wheel drive,Compact,18,2031,31920
+10201,Toyota,regular unleaded,278.0,6.0,AUTOMATIC,four wheel drive,Compact,18,2031,38180
+10202,Toyota,regular unleaded,278.0,6.0,AUTOMATIC,rear wheel drive,Compact,19,2031,28345
+10203,Toyota,regular unleaded,278.0,6.0,AUTOMATIC,rear wheel drive,Compact,19,2031,31125
+10204,Toyota,regular unleaded,159.0,4.0,AUTOMATIC,four wheel drive,Compact,19,2031,26735
+10205,Toyota,regular unleaded,278.0,6.0,AUTOMATIC,rear wheel drive,Compact,19,2031,31625
+10206,Toyota,regular unleaded,159.0,4.0,AUTOMATIC,four wheel drive,Compact,19,2031,28820
+10207,Toyota,regular unleaded,278.0,6.0,MANUAL,four wheel drive,Compact,17,2031,32460
+10208,Toyota,regular unleaded,278.0,6.0,AUTOMATIC,rear wheel drive,Compact,19,2031,28845
+10209,Toyota,regular unleaded,278.0,6.0,AUTOMATIC,four wheel drive,Compact,18,2031,30530
+10211,Toyota,regular unleaded,159.0,4.0,AUTOMATIC,rear wheel drive,Compact,19,2031,25745
+10212,Toyota,regular unleaded,159.0,4.0,AUTOMATIC,rear wheel drive,Compact,19,2031,24490
+10214,Toyota,regular unleaded,278.0,6.0,AUTOMATIC,four wheel drive,Compact,18,2031,35315
+10215,Toyota,regular unleaded,278.0,6.0,MANUAL,four wheel drive,Compact,17,2031,33075
+10216,Toyota,regular unleaded,278.0,6.0,MANUAL,four wheel drive,Compact,17,2031,40760
+10217,Toyota,regular unleaded,159.0,4.0,MANUAL,four wheel drive,Compact,19,2031,25645
+10218,Toyota,regular unleaded,278.0,6.0,AUTOMATIC,rear wheel drive,Compact,19,2031,35720
+10219,Toyota,regular unleaded,278.0,6.0,AUTOMATIC,four wheel drive,Compact,18,2031,33770
+10220,Toyota,regular unleaded,278.0,6.0,AUTOMATIC,four wheel drive,Compact,18,2031,32765
+10221,Toyota,regular unleaded,278.0,6.0,AUTOMATIC,four wheel drive,Compact,18,2031,34705
+10222,Toyota,regular unleaded,159.0,4.0,AUTOMATIC,rear wheel drive,Compact,19,2031,27095
+10224,Toyota,regular unleaded,278.0,6.0,AUTOMATIC,four wheel drive,Compact,18,2031,42760
+10226,Toyota,regular unleaded,159.0,4.0,AUTOMATIC,rear wheel drive,Compact,19,2031,24950
+10227,Toyota,regular unleaded,278.0,6.0,AUTOMATIC,rear wheel drive,Compact,19,2031,29690
+10228,Toyota,regular unleaded,278.0,6.0,AUTOMATIC,rear wheel drive,Compact,19,2031,25730
+10230,Toyota,regular unleaded,159.0,4.0,AUTOMATIC,rear wheel drive,Compact,19,2031,26205
+10231,Toyota,regular unleaded,278.0,6.0,AUTOMATIC,rear wheel drive,Compact,19,2031,31740
+10232,Toyota,regular unleaded,278.0,6.0,AUTOMATIC,four wheel drive,Compact,18,2031,29735
+10233,Toyota,regular unleaded,159.0,4.0,AUTOMATIC,four wheel drive,Compact,19,2031,29280
+10235,Toyota,regular unleaded,278.0,6.0,AUTOMATIC,rear wheel drive,Compact,19,2031,30485
+10236,Toyota,regular unleaded,278.0,6.0,AUTOMATIC,rear wheel drive,Compact,19,2031,28700
+10237,Toyota,regular unleaded,159.0,4.0,AUTOMATIC,rear wheel drive,Compact,19,2031,24120
+10238,Toyota,regular unleaded,278.0,6.0,MANUAL,four wheel drive,Compact,17,2031,32390
+10239,Toyota,regular unleaded,159.0,4.0,AUTOMATIC,four wheel drive,Compact,19,2031,27195
+10240,Toyota,regular unleaded,278.0,6.0,AUTOMATIC,four wheel drive,Compact,18,2031,33265
+10242,Toyota,regular unleaded,278.0,6.0,AUTOMATIC,four wheel drive,Compact,18,2031,38795
+10243,Toyota,regular unleaded,278.0,6.0,AUTOMATIC,four wheel drive,Compact,18,2031,31875
+10244,Toyota,regular unleaded,278.0,6.0,AUTOMATIC,rear wheel drive,Compact,19,2031,32240
+10245,Toyota,regular unleaded,278.0,6.0,AUTOMATIC,rear wheel drive,Compact,19,2031,30190
+10272,Ford,regular unleaded,260.0,6.0,AUTOMATIC,all wheel drive,Large,15,5657,31620
+10273,Ford,regular unleaded,260.0,6.0,AUTOMATIC,all wheel drive,Large,15,5657,28880
+10274,Ford,regular unleaded,260.0,6.0,AUTOMATIC,front wheel drive,Large,16,5657,29770
+10275,Ford,regular unleaded,260.0,6.0,AUTOMATIC,front wheel drive,Large,16,5657,27030
+10276,Ford,regular unleaded,260.0,6.0,AUTOMATIC,all wheel drive,Large,15,5657,32600
+10277,Ford,regular unleaded,260.0,6.0,AUTOMATIC,front wheel drive,Large,16,5657,30750
+10278,Ford,regular unleaded,263.0,6.0,AUTOMATIC,front wheel drive,Large,17,5657,32325
+10279,Ford,regular unleaded,263.0,6.0,AUTOMATIC,all wheel drive,Large,15,5657,33180
+10280,Ford,regular unleaded,263.0,6.0,AUTOMATIC,all wheel drive,Large,15,5657,34175
+10281,Ford,regular unleaded,263.0,6.0,AUTOMATIC,front wheel drive,Large,17,5657,31330
+10282,Ford,regular unleaded,263.0,6.0,AUTOMATIC,all wheel drive,Large,15,5657,30120
+10283,Ford,regular unleaded,263.0,6.0,AUTOMATIC,front wheel drive,Large,17,5657,28270
+10284,Ford,flex-fuel (unleaded/E85),288.0,6.0,AUTOMATIC,front wheel drive,Large,19,5657,29485
+10285,Ford,flex-fuel (unleaded/E85),288.0,6.0,AUTOMATIC,front wheel drive,Large,19,5657,27055
+10286,Ford,premium unleaded (recommended),365.0,6.0,AUTOMATIC,all wheel drive,Large,17,5657,40220
+10287,Ford,flex-fuel (unleaded/E85),288.0,6.0,AUTOMATIC,all wheel drive,Large,18,5657,31335
+10288,Ford,flex-fuel (unleaded/E85),288.0,6.0,AUTOMATIC,all wheel drive,Large,18,5657,36255
+10289,Ford,flex-fuel (unleaded/E85),288.0,6.0,AUTOMATIC,front wheel drive,Large,19,5657,34405
+10290,Ford,flex-fuel (unleaded/E85),288.0,6.0,AUTOMATIC,front wheel drive,Large,18,5657,29540
+10291,Ford,flex-fuel (unleaded/E85),288.0,6.0,AUTOMATIC,front wheel drive,Large,18,5657,34460
+10292,Ford,flex-fuel (unleaded/E85),288.0,6.0,AUTOMATIC,front wheel drive,Large,18,5657,27110
+10293,Ford,flex-fuel (unleaded/E85),288.0,6.0,AUTOMATIC,all wheel drive,Large,17,5657,31390
+10294,Ford,premium unleaded (recommended),365.0,6.0,AUTOMATIC,all wheel drive,Large,16,5657,40275
+10295,Ford,flex-fuel (unleaded/E85),288.0,6.0,AUTOMATIC,all wheel drive,Large,17,5657,36310
+10296,Ford,flex-fuel (unleaded/E85),288.0,6.0,AUTOMATIC,front wheel drive,Large,18,5657,36855
+10297,Ford,flex-fuel (unleaded/E85),288.0,6.0,AUTOMATIC,front wheel drive,Large,18,5657,29775
+10298,Ford,premium unleaded (recommended),365.0,6.0,AUTOMATIC,all wheel drive,Large,16,5657,42520
+10299,Ford,flex-fuel (unleaded/E85),288.0,6.0,AUTOMATIC,all wheel drive,Large,17,5657,31625
+10300,Ford,flex-fuel (unleaded/E85),288.0,6.0,AUTOMATIC,all wheel drive,Large,17,5657,38705
+10301,Ford,flex-fuel (unleaded/E85),288.0,6.0,AUTOMATIC,front wheel drive,Large,18,5657,27345
+10319,Ford,regular unleaded,96.0,4.0,MANUAL,front wheel drive,Compact,21,5657,2000
+10321,Ford,regular unleaded,140.0,6.0,MANUAL,front wheel drive,Compact,19,5657,2000
+10322,Ford,regular unleaded,96.0,4.0,MANUAL,front wheel drive,Compact,21,5657,2000
+10323,Ford,regular unleaded,140.0,6.0,MANUAL,front wheel drive,Compact,19,5657,2000
+10324,Ford,regular unleaded,96.0,4.0,MANUAL,front wheel drive,Compact,21,5657,2000
+10325,Ford,regular unleaded,96.0,4.0,MANUAL,front wheel drive,Compact,21,5657,2000
+10327,Ford,regular unleaded,96.0,4.0,MANUAL,front wheel drive,Compact,21,5657,2000
+10328,Ford,regular unleaded,96.0,4.0,MANUAL,front wheel drive,Compact,21,5657,2000
+10330,Toyota,regular unleaded,93.0,4.0,MANUAL,front wheel drive,Compact,27,2031,2000
+10331,Toyota,regular unleaded,93.0,4.0,MANUAL,front wheel drive,Compact,27,2031,2000
+10332,Toyota,regular unleaded,93.0,4.0,MANUAL,front wheel drive,Compact,29,2031,2000
+10333,Toyota,regular unleaded,93.0,4.0,MANUAL,front wheel drive,Compact,28,2031,2012
+10334,Toyota,regular unleaded,93.0,4.0,MANUAL,front wheel drive,Compact,28,2031,2041
+10335,Toyota,regular unleaded,93.0,4.0,MANUAL,front wheel drive,Compact,28,2031,2000
+10336,Toyota,regular unleaded,93.0,4.0,MANUAL,front wheel drive,Compact,27,2031,2148
+10377,Ford,premium unleaded (required),280.0,8.0,AUTOMATIC,rear wheel drive,Midsize,16,5657,40355
+10378,Ford,premium unleaded (required),280.0,8.0,AUTOMATIC,rear wheel drive,Midsize,16,5657,36815
+10379,Ford,premium unleaded (required),280.0,8.0,AUTOMATIC,rear wheel drive,Midsize,16,5657,37855
+10380,Ford,premium unleaded (required),280.0,8.0,AUTOMATIC,rear wheel drive,Midsize,16,5657,39310
+10381,Ford,premium unleaded (required),280.0,8.0,AUTOMATIC,rear wheel drive,Midsize,15,5657,37435
+10382,Ford,premium unleaded (required),280.0,8.0,AUTOMATIC,rear wheel drive,Midsize,15,5657,38480
+10383,Ford,premium unleaded (required),280.0,8.0,AUTOMATIC,rear wheel drive,Midsize,16,5657,38355
+10384,Ford,premium unleaded (required),280.0,8.0,AUTOMATIC,rear wheel drive,Midsize,16,5657,39415
+10405,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATIC,all wheel drive,Compact,20,873,30225
+10406,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATIC,all wheel drive,Compact,20,873,28230
+10407,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATIC,all wheel drive,Compact,20,873,33235
+10408,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATIC,front wheel drive,Compact,21,873,37650
+10409,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATIC,all wheel drive,Compact,20,873,39625
+10410,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATIC,front wheel drive,Compact,21,873,26255
+10411,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATIC,all wheel drive,Compact,20,873,35565
+10412,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATIC,front wheel drive,Compact,21,873,33590
+10413,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATIC,front wheel drive,Compact,21,873,31260
+10414,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATIC,front wheel drive,Compact,21,873,28250
+10415,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATIC,front wheel drive,Compact,21,873,24890
+10416,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATIC,all wheel drive,Compact,20,873,36420
+10417,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATIC,all wheel drive,Compact,20,873,33365
+10418,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATIC,front wheel drive,Compact,21,873,28700
+10419,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATIC,all wheel drive,Compact,20,873,26865
+10420,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATIC,front wheel drive,Compact,21,873,31390
+10421,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATIC,front wheel drive,Compact,21,873,34445
+10422,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATIC,all wheel drive,Compact,20,873,30675
+10423,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATIC,front wheel drive,Compact,20,873,30095
+10424,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATIC,all wheel drive,Compact,20,873,32070
+10425,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATIC,all wheel drive,Compact,20,873,26970
+10426,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATIC,all wheel drive,Compact,20,873,34580
+10427,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATIC,front wheel drive,Compact,20,873,24995
+10428,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATIC,all wheel drive,Compact,20,873,36475
+10429,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATIC,front wheel drive,Compact,20,873,34500
+10430,Volkswagen,premium unleaded (recommended),200.0,4.0,AUTOMATIC,front wheel drive,Compact,20,873,32605
+10526,Volkswagen,premium unleaded (required),350.0,8.0,AUTOMATIC,all wheel drive,Midsize,12,873,48390
+10527,Volkswagen,premium unleaded (required),280.0,6.0,AUTOMATIC,all wheel drive,Midsize,14,873,39300
+10528,Volkswagen,diesel,310.0,10.0,AUTOMATIC,all wheel drive,Midsize,15,873,68340
+10529,Volkswagen,diesel,221.0,6.0,AUTOMATIC,all wheel drive,Midsize,17,873,42800
+10530,Volkswagen,premium unleaded (recommended),280.0,6.0,AUTOMATIC,all wheel drive,Midsize,14,873,39300
+10531,Volkswagen,premium unleaded (recommended),350.0,8.0,AUTOMATIC,all wheel drive,Midsize,13,873,48900
+10532,Volkswagen,diesel,240.0,6.0,AUTOMATIC,all wheel drive,Midsize,20,873,62200
+10533,Volkswagen,diesel,240.0,6.0,AUTOMATIC,all wheel drive,Midsize,20,873,56670
+10534,Volkswagen,premium unleaded (recommended),280.0,6.0,AUTOMATIC,all wheel drive,Midsize,17,873,53170
+10535,Volkswagen,premium unleaded (recommended),280.0,6.0,AUTOMATIC,all wheel drive,Midsize,17,873,48745
+10536,Volkswagen,premium unleaded (recommended),280.0,6.0,AUTOMATIC,all wheel drive,Midsize,17,873,44705
+10537,Volkswagen,premium unleaded (recommended),280.0,6.0,AUTOMATIC,all wheel drive,Midsize,17,873,58700
+10538,Volkswagen,premium unleaded (recommended),380.0,6.0,AUTOMATIC,all wheel drive,Midsize,20,873,66995
+10539,Volkswagen,diesel,240.0,6.0,AUTOMATIC,all wheel drive,Midsize,20,873,52245
+10540,Volkswagen,premium unleaded (recommended),280.0,6.0,AUTOMATIC,all wheel drive,Midsize,17,873,51450
+10541,Volkswagen,premium unleaded (recommended),280.0,6.0,AUTOMATIC,all wheel drive,Midsize,17,873,46745
+10542,Volkswagen,diesel,240.0,6.0,AUTOMATIC,all wheel drive,Midsize,21,873,54950
+10543,Volkswagen,premium unleaded (recommended),280.0,6.0,AUTOMATIC,all wheel drive,Midsize,17,873,42705
+10544,Volkswagen,diesel,240.0,6.0,AUTOMATIC,all wheel drive,Midsize,21,873,63245
+10545,Volkswagen,premium unleaded (recommended),280.0,6.0,AUTOMATIC,all wheel drive,Midsize,17,873,59745
+10546,Volkswagen,diesel,240.0,6.0,AUTOMATIC,all wheel drive,Midsize,21,873,50245
+10547,Volkswagen,premium unleaded (recommended),280.0,6.0,AUTOMATIC,all wheel drive,Midsize,17,873,49495
+10548,Volkswagen,premium unleaded (recommended),280.0,6.0,AUTOMATIC,all wheel drive,Midsize,17,873,52795
+10549,Volkswagen,premium unleaded (recommended),280.0,6.0,AUTOMATIC,all wheel drive,Midsize,17,873,60195
+10645,Ford,regular unleaded,169.0,4.0,AUTOMATIC,front wheel drive,Compact,20,5657,26710
+10646,Ford,regular unleaded,169.0,4.0,AUTOMATIC,front wheel drive,Compact,21,5657,23330
+10647,Ford,regular unleaded,169.0,4.0,AUTOMATIC,front wheel drive,Compact,20,5657,25185
+10648,Ford,regular unleaded,169.0,4.0,AUTOMATIC,front wheel drive,Compact,21,5657,22330
+10649,Ford,regular unleaded,169.0,4.0,AUTOMATIC,front wheel drive,Compact,20,5657,24710
+10651,Ford,regular unleaded,169.0,4.0,AUTOMATIC,front wheel drive,Compact,21,5657,23855
+10652,Ford,regular unleaded,169.0,4.0,AUTOMATIC,front wheel drive,Compact,21,5657,24855
+10654,Ford,regular unleaded,169.0,4.0,AUTOMATIC,front wheel drive,Compact,20,5657,29185
+10660,Ford,regular unleaded,169.0,4.0,AUTOMATIC,front wheel drive,Compact,21,5657,22675
+10661,Ford,regular unleaded,169.0,4.0,AUTOMATIC,front wheel drive,Compact,20,5657,25300
+10662,Ford,regular unleaded,169.0,4.0,AUTOMATIC,front wheel drive,Compact,20,5657,24825
+10663,Ford,regular unleaded,169.0,4.0,AUTOMATIC,front wheel drive,Compact,20,5657,26825
+10665,Ford,regular unleaded,169.0,4.0,AUTOMATIC,front wheel drive,Compact,21,5657,24200
+10668,Ford,regular unleaded,169.0,4.0,AUTOMATIC,front wheel drive,Compact,20,5657,29300
+10669,Ford,regular unleaded,169.0,4.0,AUTOMATIC,front wheel drive,Compact,21,5657,23675
+10672,Ford,regular unleaded,169.0,4.0,AUTOMATIC,front wheel drive,Compact,21,5657,25200
+10675,Ford,flex-fuel (unleaded/E85),169.0,4.0,AUTOMATIC,front wheel drive,Compact,20,5657,23900
+10676,Ford,flex-fuel (unleaded/E85),169.0,4.0,AUTOMATIC,front wheel drive,Compact,19,5657,25585
+10677,Ford,flex-fuel (unleaded/E85),169.0,4.0,AUTOMATIC,front wheel drive,Compact,19,5657,27590
+10678,Ford,flex-fuel (unleaded/E85),169.0,4.0,AUTOMATIC,front wheel drive,Compact,20,5657,24425
+10679,Ford,flex-fuel (unleaded/E85),169.0,4.0,AUTOMATIC,front wheel drive,Compact,19,5657,30215
+10681,Ford,flex-fuel (unleaded/E85),169.0,4.0,AUTOMATIC,front wheel drive,Compact,20,5657,25425
+10682,Ford,flex-fuel (unleaded/E85),169.0,4.0,AUTOMATIC,front wheel drive,Compact,19,5657,28215
+10683,Ford,flex-fuel (unleaded/E85),169.0,4.0,AUTOMATIC,front wheel drive,Compact,19,5657,25590
+10685,Ford,flex-fuel (unleaded/E85),169.0,4.0,AUTOMATIC,front wheel drive,Compact,20,5657,22900
+10691,Ford,flex-fuel (unleaded/E85),275.0,6.0,AUTOMATIC,rear wheel drive,Large,14,5657,35430
+10692,Ford,flex-fuel (unleaded/E85),275.0,6.0,AUTOMATIC,rear wheel drive,Large,14,5657,40830
+10693,Ford,flex-fuel (unleaded/E85),275.0,6.0,AUTOMATIC,rear wheel drive,Midsize,14,5657,36070
+10694,Ford,flex-fuel (unleaded/E85),275.0,6.0,AUTOMATIC,rear wheel drive,Midsize,14,5657,33920
+10695,Ford,flex-fuel (unleaded/E85),275.0,6.0,AUTOMATIC,rear wheel drive,Large,14,5657,39080
+10696,Ford,flex-fuel (unleaded/E85),275.0,6.0,AUTOMATIC,rear wheel drive,Midsize,14,5657,33770
+10697,Ford,premium unleaded (recommended),310.0,6.0,AUTOMATIC,rear wheel drive,Large,14,5657,43795
+10698,Ford,premium unleaded (recommended),310.0,6.0,AUTOMATIC,rear wheel drive,Large,14,5657,42295
+10699,Ford,flex-fuel (unleaded/E85),275.0,6.0,AUTOMATIC,rear wheel drive,Midsize,14,5657,32270
+10700,Ford,flex-fuel (unleaded/E85),275.0,6.0,AUTOMATIC,rear wheel drive,Midsize,14,5657,37420
+10701,Ford,flex-fuel (unleaded/E85),275.0,6.0,AUTOMATIC,rear wheel drive,Large,14,5657,37580
+10702,Ford,flex-fuel (unleaded/E85),275.0,6.0,AUTOMATIC,rear wheel drive,Midsize,14,5657,37570
+10703,Ford,flex-fuel (unleaded/E85),275.0,6.0,AUTOMATIC,rear wheel drive,Large,14,5657,33930
+10704,Ford,flex-fuel (unleaded/E85),275.0,6.0,AUTOMATIC,rear wheel drive,Midsize,14,5657,32420
+10705,Ford,flex-fuel (unleaded/E85),275.0,6.0,AUTOMATIC,rear wheel drive,Midsize,14,5657,35920
+10706,Ford,flex-fuel (unleaded/E85),275.0,6.0,AUTOMATIC,rear wheel drive,Large,14,5657,39330
+10707,Ford,flex-fuel (unleaded/E85),275.0,6.0,AUTOMATIC,rear wheel drive,Midsize,14,5657,36825
+10708,Ford,flex-fuel (unleaded/E85),275.0,6.0,AUTOMATIC,rear wheel drive,Large,14,5657,39580
+10709,Ford,flex-fuel (unleaded/E85),275.0,6.0,AUTOMATIC,rear wheel drive,Large,14,5657,34635
+10710,Ford,flex-fuel (unleaded/E85),275.0,6.0,AUTOMATIC,rear wheel drive,Large,14,5657,39735
+10711,Ford,flex-fuel (unleaded/E85),275.0,6.0,AUTOMATIC,rear wheel drive,Midsize,14,5657,36975
+10712,Ford,flex-fuel (unleaded/E85),275.0,6.0,AUTOMATIC,rear wheel drive,Midsize,14,5657,34470
+10713,Ford,flex-fuel (unleaded/E85),275.0,6.0,AUTOMATIC,rear wheel drive,Large,14,5657,41030
+10714,Ford,flex-fuel (unleaded/E85),275.0,6.0,AUTOMATIC,rear wheel drive,Midsize,14,5657,34620
+10715,Ford,flex-fuel (unleaded/E85),275.0,6.0,AUTOMATIC,rear wheel drive,Midsize,14,5657,38270
+10716,Ford,flex-fuel (unleaded/E85),275.0,6.0,AUTOMATIC,rear wheel drive,Midsize,14,5657,33325
+10717,Ford,flex-fuel (unleaded/E85),275.0,6.0,AUTOMATIC,rear wheel drive,Large,14,5657,38285
+10718,Ford,flex-fuel (unleaded/E85),275.0,6.0,AUTOMATIC,rear wheel drive,Midsize,14,5657,33175
+10719,Ford,premium unleaded (recommended),310.0,6.0,AUTOMATIC,rear wheel drive,Large,14,5657,43995
+10720,Ford,flex-fuel (unleaded/E85),275.0,6.0,AUTOMATIC,rear wheel drive,Large,14,5657,35930
+10721,Ford,flex-fuel (unleaded/E85),275.0,6.0,AUTOMATIC,rear wheel drive,Midsize,14,5657,38120
+10722,Ford,premium unleaded (recommended),310.0,6.0,AUTOMATIC,rear wheel drive,Large,14,5657,42700
+10723,Ford,flex-fuel (unleaded/E85),275.0,6.0,AUTOMATIC,rear wheel drive,Midsize,14,5657,34515
+10724,Ford,regular unleaded,275.0,6.0,AUTOMATIC,rear wheel drive,Midsize,14,5657,38015
+10725,Ford,flex-fuel (unleaded/E85),275.0,6.0,AUTOMATIC,rear wheel drive,Midsize,14,5657,34365
+10726,Ford,flex-fuel (unleaded/E85),275.0,6.0,AUTOMATIC,rear wheel drive,Midsize,14,5657,35810
+10727,Ford,regular unleaded,275.0,6.0,AUTOMATIC,rear wheel drive,Midsize,14,5657,39310
+10728,Ford,regular unleaded,275.0,6.0,AUTOMATIC,rear wheel drive,Large,14,5657,40770
+10729,Ford,regular unleaded,275.0,6.0,AUTOMATIC,rear wheel drive,Large,14,5657,42075
+10730,Ford,regular unleaded,275.0,6.0,AUTOMATIC,rear wheel drive,Large,14,5657,43370
+10731,Ford,flex-fuel (unleaded/E85),275.0,6.0,AUTOMATIC,rear wheel drive,Large,14,5657,37120
+10732,Ford,regular unleaded,275.0,6.0,AUTOMATIC,rear wheel drive,Large,14,5657,39475
+10733,Ford,flex-fuel (unleaded/E85),275.0,6.0,AUTOMATIC,rear wheel drive,Midsize,14,5657,35660
+10734,Ford,flex-fuel (unleaded/E85),275.0,6.0,AUTOMATIC,rear wheel drive,Large,14,5657,35825
+10735,Ford,regular unleaded,275.0,6.0,AUTOMATIC,rear wheel drive,Large,14,5657,42220
+10736,Ford,regular unleaded,275.0,6.0,AUTOMATIC,rear wheel drive,Midsize,14,5657,39460
+10737,Ford,regular unleaded,275.0,6.0,AUTOMATIC,rear wheel drive,Midsize,14,5657,38165
+10738,Ford,regular unleaded,275.0,6.0,AUTOMATIC,rear wheel drive,Large,14,5657,40925
+10927,Toyota,regular unleaded,310.0,8.0,AUTOMATIC,four wheel drive,Large,14,2031,33210
+10928,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,29120
+10929,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,44925
+10930,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,40685
+10932,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,44000
+10933,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,33390
+10934,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,33060
+10935,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,47975
+10936,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,34710
+10937,Toyota,regular unleaded,310.0,8.0,AUTOMATIC,rear wheel drive,Large,15,2031,30160
+10938,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,34710
+10939,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,40685
+10940,Toyota,regular unleaded,310.0,8.0,AUTOMATIC,four wheel drive,Large,14,2031,31560
+10941,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,44000
+10942,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,35040
+10943,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,37030
+10944,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,42550
+10945,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,42550
+10946,Toyota,regular unleaded,310.0,8.0,AUTOMATIC,four wheel drive,Large,14,2031,35530
+10947,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,33060
+10948,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,37030
+10949,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,32170
+10950,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,41385
+10951,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,39500
+10952,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,35040
+10953,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,33390
+10954,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,41385
+10956,Toyota,regular unleaded,310.0,8.0,AUTOMATIC,rear wheel drive,Large,15,2031,32480
+10957,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,37635
+10958,Toyota,regular unleaded,310.0,8.0,AUTOMATIC,rear wheel drive,Large,15,2031,28510
+10959,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,47975
+10960,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,33980
+10961,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,30010
+10962,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,31660
+10964,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,31990
+10965,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,32170
+10966,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,30340
+10967,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,34220
+10968,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,30840
+10969,Toyota,regular unleaded,310.0,8.0,AUTOMATIC,four wheel drive,Large,14,2031,34000
+10970,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,45560
+10971,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,32980
+10972,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,38670
+10973,Toyota,regular unleaded,310.0,8.0,AUTOMATIC,four wheel drive,Large,14,2031,36320
+10974,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,34970
+10975,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,46530
+10976,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,43585
+10977,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,42945
+10978,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,42945
+10980,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,30840
+10981,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,41720
+10982,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,49580
+10983,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,46530
+10984,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,40535
+10985,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,38020
+10986,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,49580
+10987,Toyota,regular unleaded,310.0,8.0,AUTOMATIC,rear wheel drive,Large,15,2031,29140
+10988,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,29950
+10989,Toyota,regular unleaded,310.0,8.0,AUTOMATIC,rear wheel drive,Large,15,2031,33270
+10990,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,32650
+10993,Toyota,regular unleaded,310.0,8.0,AUTOMATIC,four wheel drive,Large,14,2031,32190
+10994,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,36030
+10995,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,33000
+10996,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,31170
+10997,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,34220
+10998,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,35700
+10999,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,32980
+11000,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,29950
+11001,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,38670
+11002,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,41720
+11003,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,34970
+11005,Toyota,regular unleaded,310.0,8.0,AUTOMATIC,rear wheel drive,Large,15,2031,30950
+11006,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,45560
+11007,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,43585
+11008,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,32650
+11009,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,33890
+11010,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,40535
+11011,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,36030
+11012,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,35700
+11013,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,33000
+11014,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,33890
+11015,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,31170
+11016,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,38020
+11017,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,33450
+11018,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,50030
+11019,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,35420
+11020,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,42330
+11021,Toyota,regular unleaded,310.0,8.0,AUTOMATIC,rear wheel drive,Large,15,2031,31830
+11022,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,46980
+11023,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,42330
+11024,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,46980
+11025,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,44195
+11026,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,39280
+11027,Toyota,regular unleaded,310.0,8.0,AUTOMATIC,four wheel drive,Large,14,2031,34880
+11028,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,46010
+11029,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,30400
+11030,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,38470
+11031,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,33430
+11032,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,41145
+11033,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,43395
+11035,Toyota,regular unleaded,310.0,8.0,AUTOMATIC,rear wheel drive,Large,15,2031,34150
+11036,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,30400
+11037,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,31620
+11038,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,50030
+11039,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,33100
+11040,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,43395
+11041,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,31620
+11042,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,36480
+11043,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,31290
+11044,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,33430
+11045,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,34340
+11046,Toyota,regular unleaded,310.0,8.0,AUTOMATIC,four wheel drive,Large,14,2031,37200
+11048,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,44195
+11049,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,31290
+11050,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,34340
+11052,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,36150
+11053,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,34670
+11054,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,33100
+11055,Toyota,regular unleaded,310.0,8.0,AUTOMATIC,rear wheel drive,Large,15,2031,30020
+11056,Toyota,regular unleaded,310.0,8.0,AUTOMATIC,four wheel drive,Large,14,2031,33070
+11057,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,35420
+11058,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,36480
+11059,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,39280
+11060,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,36150
+11061,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,46010
+11062,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,rear wheel drive,Large,13,2031,41145
+11063,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,33450
+11064,Toyota,regular unleaded,381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,38470
+11065,Toyota,flex-fuel (unleaded/E85),381.0,8.0,AUTOMATIC,four wheel drive,Large,13,2031,34670
+11182,Volkswagen,regular unleaded,90.0,4.0,MANUAL,four wheel drive,Large,14,873,2000
+11183,Volkswagen,regular unleaded,90.0,4.0,AUTOMATIC,rear wheel drive,Large,15,873,2000
+11185,Volkswagen,regular unleaded,90.0,4.0,MANUAL,rear wheel drive,Large,16,873,2000
+11189,Volkswagen,regular unleaded,90.0,4.0,MANUAL,rear wheel drive,Large,16,873,2000
+11268,Toyota,regular unleaded,181.0,4.0,AUTOMATIC,front wheel drive,Midsize,20,2031,31510
+11269,Toyota,regular unleaded,268.0,6.0,AUTOMATIC,all wheel drive,Midsize,18,2031,39020
+11270,Toyota,regular unleaded,268.0,6.0,AUTOMATIC,all wheel drive,Midsize,18,2031,31120
+11271,Toyota,regular unleaded,268.0,6.0,AUTOMATIC,front wheel drive,Midsize,19,2031,37570
+11272,Toyota,regular unleaded,268.0,6.0,AUTOMATIC,front wheel drive,Midsize,19,2031,29670
+11273,Toyota,regular unleaded,268.0,6.0,AUTOMATIC,front wheel drive,Midsize,19,2031,33330
+11274,Toyota,regular unleaded,181.0,4.0,AUTOMATIC,front wheel drive,Midsize,20,2031,27850
+11275,Toyota,regular unleaded,181.0,4.0,AUTOMATIC,all wheel drive,Midsize,20,2031,32960
+11276,Toyota,regular unleaded,268.0,6.0,AUTOMATIC,all wheel drive,Midsize,18,2031,34780
+11277,Toyota,regular unleaded,181.0,4.0,AUTOMATIC,all wheel drive,Midsize,20,2031,29300
+11278,Toyota,regular unleaded,268.0,6.0,AUTOMATIC,front wheel drive,Midsize,19,2031,29770
+11279,Toyota,regular unleaded,268.0,6.0,AUTOMATIC,all wheel drive,Midsize,18,2031,39570
+11280,Toyota,regular unleaded,181.0,4.0,AUTOMATIC,all wheel drive,Midsize,20,2031,29400
+11281,Toyota,regular unleaded,268.0,6.0,AUTOMATIC,front wheel drive,Midsize,19,2031,33630
+11282,Toyota,regular unleaded,268.0,6.0,AUTOMATIC,all wheel drive,Midsize,18,2031,35080
+11283,Toyota,regular unleaded,268.0,6.0,AUTOMATIC,all wheel drive,Midsize,18,2031,31220
+11284,Toyota,regular unleaded,181.0,4.0,AUTOMATIC,front wheel drive,Midsize,20,2031,27950
+11285,Toyota,regular unleaded,268.0,6.0,AUTOMATIC,front wheel drive,Midsize,19,2031,38120
+11286,Toyota,regular unleaded,181.0,4.0,AUTOMATIC,front wheel drive,Midsize,20,2031,31810
+11287,Toyota,regular unleaded,181.0,4.0,AUTOMATIC,all wheel drive,Midsize,20,2031,33260
+11288,Toyota,regular unleaded,268.0,6.0,AUTOMATIC,all wheel drive,Midsize,18,2031,35600
+11289,Toyota,regular unleaded,181.0,4.0,AUTOMATIC,all wheel drive,Midsize,20,2031,33560
+11290,Toyota,regular unleaded,268.0,6.0,AUTOMATIC,all wheel drive,Midsize,18,2031,39940
+11291,Toyota,regular unleaded,181.0,4.0,AUTOMATIC,front wheel drive,Midsize,20,2031,29065
+11292,Toyota,regular unleaded,181.0,4.0,AUTOMATIC,front wheel drive,Midsize,20,2031,32110
+11293,Toyota,regular unleaded,268.0,6.0,AUTOMATIC,front wheel drive,Midsize,19,2031,34150
+11294,Toyota,regular unleaded,181.0,4.0,AUTOMATIC,all wheel drive,Midsize,20,2031,30515
+11427,Ford,regular unleaded,200.0,6.0,AUTOMATIC,front wheel drive,Midsize,16,5657,20220
+11428,Ford,regular unleaded,200.0,6.0,AUTOMATIC,front wheel drive,Midsize,16,5657,20585
+11429,Ford,regular unleaded,200.0,6.0,AUTOMATIC,front wheel drive,Midsize,16,5657,21075
+11430,Ford,regular unleaded,200.0,6.0,AUTOMATIC,front wheel drive,Midsize,16,5657,31115
+11431,Ford,regular unleaded,200.0,6.0,AUTOMATIC,front wheel drive,Midsize,16,5657,25000
+11432,Ford,regular unleaded,200.0,6.0,AUTOMATIC,front wheel drive,Midsize,16,5657,27435
+11433,Ford,regular unleaded,200.0,6.0,AUTOMATIC,front wheel drive,Midsize,16,5657,22185
+11434,Ford,regular unleaded,200.0,6.0,AUTOMATIC,front wheel drive,Midsize,16,5657,28595
+11435,Ford,regular unleaded,200.0,6.0,AUTOMATIC,front wheel drive,Midsize,16,5657,33765
+11436,Ford,regular unleaded,200.0,6.0,AUTOMATIC,front wheel drive,Midsize,16,5657,28900
+11437,Ford,regular unleaded,200.0,6.0,AUTOMATIC,front wheel drive,Midsize,16,5657,27460
+11438,Ford,regular unleaded,200.0,6.0,AUTOMATIC,front wheel drive,Midsize,16,5657,26375
+11439,Ford,regular unleaded,200.0,6.0,AUTOMATIC,front wheel drive,Midsize,16,5657,31630
+11440,Ford,regular unleaded,200.0,6.0,AUTOMATIC,front wheel drive,Midsize,16,5657,34040
+11441,Ford,regular unleaded,200.0,6.0,AUTOMATIC,front wheel drive,Midsize,16,5657,22340
+11442,Ford,regular unleaded,200.0,6.0,AUTOMATIC,front wheel drive,Midsize,16,5657,27870
+11443,Ford,regular unleaded,200.0,6.0,AUTOMATIC,front wheel drive,Midsize,16,5657,23070
+11444,Ford,regular unleaded,200.0,6.0,AUTOMATIC,front wheel drive,Midsize,16,5657,26315
+11445,Ford,regular unleaded,200.0,6.0,AUTOMATIC,front wheel drive,Midsize,16,5657,29230
+11446,Ford,regular unleaded,200.0,6.0,AUTOMATIC,front wheel drive,Midsize,16,5657,34825
+11447,Ford,regular unleaded,200.0,6.0,AUTOMATIC,front wheel drive,Midsize,16,5657,31835
+11809,Toyota,regular unleaded,106.0,4.0,MANUAL,front wheel drive,Compact,30,2031,15950
+11810,Toyota,regular unleaded,106.0,4.0,AUTOMATIC,front wheel drive,Compact,32,2031,17050
+11811,Toyota,regular unleaded,106.0,4.0,MANUAL,front wheel drive,Compact,30,2031,16820
+11812,Toyota,regular unleaded,106.0,4.0,AUTOMATIC,front wheel drive,Compact,30,2031,16880
+11813,Toyota,regular unleaded,106.0,4.0,AUTOMATIC,front wheel drive,Compact,30,2031,16505
+11814,Toyota,regular unleaded,106.0,4.0,AUTOMATIC,front wheel drive,Compact,30,2031,15945
+11815,Toyota,regular unleaded,106.0,4.0,MANUAL,front wheel drive,Compact,30,2031,14845
+11816,Toyota,regular unleaded,106.0,4.0,AUTOMATIC,front wheel drive,Compact,30,2031,15570
+11817,Toyota,regular unleaded,106.0,4.0,AUTOMATIC,front wheel drive,Compact,30,2031,17620
+11818,Toyota,regular unleaded,106.0,4.0,AUTOMATIC,front wheel drive,Compact,30,2031,17670
+11819,Toyota,regular unleaded,106.0,4.0,MANUAL,front wheel drive,Compact,30,2031,16870
+11820,Toyota,regular unleaded,106.0,4.0,AUTOMATIC,front wheel drive,Compact,30,2031,16555
+11821,Toyota,regular unleaded,106.0,4.0,AUTOMATIC,front wheel drive,Compact,30,2031,16930
+11822,Toyota,regular unleaded,106.0,4.0,MANUAL,front wheel drive,Compact,30,2031,14895
+11823,Toyota,regular unleaded,106.0,4.0,AUTOMATIC,front wheel drive,Compact,30,2031,15620
+11824,Toyota,regular unleaded,106.0,4.0,AUTOMATIC,front wheel drive,Compact,30,2031,15995
+11825,Toyota,regular unleaded,106.0,4.0,AUTOMATIC,front wheel drive,Compact,30,2031,16000
+11826,Toyota,regular unleaded,106.0,4.0,AUTOMATIC,front wheel drive,Compact,30,2031,16910
+11827,Toyota,regular unleaded,106.0,4.0,MANUAL,front wheel drive,Compact,30,2031,15250
+11828,Toyota,regular unleaded,106.0,4.0,AUTOMATIC,front wheel drive,Compact,30,2031,16375
+11829,Toyota,regular unleaded,106.0,4.0,AUTOMATIC,front wheel drive,Compact,30,2031,17285
+11830,Toyota,regular unleaded,106.0,4.0,AUTOMATIC,front wheel drive,Compact,30,2031,18000
+11831,Toyota,regular unleaded,106.0,4.0,MANUAL,front wheel drive,Compact,30,2031,17200
